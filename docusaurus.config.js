@@ -39,6 +39,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: {
@@ -92,15 +93,15 @@ const config = {
             items: [
               {
                 label: 'Life',
-                to: '/docs/life',
+                to: '/life',
               },
               {
                 label: 'Science',
-                to: '/docs/science',
+                to: '/science',
               },
               {
                 label: 'PhD',
-                to: '/docs/phd',
+                to: '/phd',
               },
             ],
           },
