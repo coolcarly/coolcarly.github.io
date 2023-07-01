@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[New Website!]]></title>
-            <link>https://coolcarly.github.io/blog/2023/07/01/</link>
-            <guid>https://coolcarly.github.io/blog/2023/07/01/</guid>
+            <link>https://coolcarly.github.io/blog/new-website</link>
+            <guid>https://coolcarly.github.io/blog/new-website</guid>
             <pubDate>Sat, 01 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Now, Carly.cool runs using Docusaurus.]]></description>
             <content:encoded><![CDATA[<p>Now, Carly.cool runs using Docusaurus.</p>]]></content:encoded>

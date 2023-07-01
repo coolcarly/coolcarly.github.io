@@ -9,8 +9,8 @@
     <icon>https://coolcarly.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[New Website!]]></title>
-        <id>https://coolcarly.github.io/blog/2023/07/01/</id>
-        <link href="https://coolcarly.github.io/blog/2023/07/01/"/>
+        <id>https://coolcarly.github.io/blog/new-website</id>
+        <link href="https://coolcarly.github.io/blog/new-website"/>
         <updated>2023-07-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Now, Carly.cool runs using Docusaurus.]]></summary>
         <content type="html"><![CDATA[<p>Now, Carly.cool runs using Docusaurus.</p>]]></content>
