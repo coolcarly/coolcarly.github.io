@@ -1,7 +1,6 @@
 ---
-dg-publish: true
+title: USA 2023
 ---
-# USA trip 2023
 
 This page is about my 2023 Trip to the USA. Contents below include: 
 1. A brief summary
@@ -11,7 +10,7 @@ This page is about my 2023 Trip to the USA. Contents below include:
 
 Some summary notes of the conference are also included in [[Fpi15 conference]]
 
-#### 1. Summary
+# 1. Summary
 The purpose of this trip was to attend a conference in North Carolina (NC). I took the opportunity to travel beforehand, to see some places that I've always wanted to see but never had the chance. 
 
 On 6 June 2023, I flew to New York, where I spend 4 days enjoying the city and the highlights. New York is amazing and one of my favourite cities! On 11 June, I caught a bus from New York to Washington D.C. I spent only 2 days in DC which was enough for me. The main attractions are the monuments and museums.
@@ -24,14 +23,14 @@ On the way home, I experienced a 14 hour plane delay from Raleigh to San Francis
 
 Watch the highlights here:
 
-<iframe src="https://player.vimeo.com/video/839571950?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Highlights of USA June 2023"></iframe>
+<iframe width ="100%" height = "400" src="https://player.vimeo.com/video/839571950?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Highlights of USA June 2023"></iframe>
 
 
 
 
 
-#### 2. Highlights & tips
-###### New York
+# 2. Highlights & tips
+## New York
 *Recommended time to stay*: 4-5 days 
 
 *Where to stay.* I stayed out of the centre - on the Upper Westside, ~6 km north of Time Square. I think the more downtown you are, the closer you are to everything. It doesn't matter where you stay though, because New York is a city that never sleeps. You can get whatever you want where-ever you are, whenever you want. That's one of the beauties of New York. Also, the Subway works really well to take you where-ever you want to go! You only wait a few minutes for a subway train (unless it's very early in the morning). I would advise to find a place that is in line with your budget - Unless it is in the Bronx. **Stay away from the Bronx.** 
@@ -56,7 +55,7 @@ Watch the highlights here:
 - Walk from one side of Manhattan to the other to truly see the changing neighbourhoods. 
 - Try some of the local beers: they are so good. 
 
-###### Washington D.C
+## Washington D.C
 *Recommended time to stay:* 2 days
 
 *Note:* All museums are free!
@@ -72,7 +71,7 @@ Watch the highlights here:
 - Walk around the city. View the monuments around the National Mall. 
 - Visit the National African-American Museum & American History Museum. 
 
-###### Richmond, VA
+## Richmond, VA
 *Recommended time to stay.* 1 day
 *Notes:* all museums and public transport are free
 *Things to do:*
@@ -80,7 +79,7 @@ Watch the highlights here:
 - Go to belle island to see the Hollywood Rapids.
 - Visit breweries
 
-###### Raleigh, NC
+## Raleigh, NC
 *Recommended time to stay.* 1-2 days (but I stayed longer due to the conference)
 *Note:* all museums and public transport are free, but the public transport is terrible. 
 *Things to do:* 
@@ -89,7 +88,7 @@ Watch the highlights here:
 - Visit Breweries
 - NC bbq - I didn't do this as I do not eat meat, but I heard it was really good. 
 
-###### San Francisco, CA
+## San Francisco, CA
 *Recommended time to stay.* 4 days (I was here only for 1 day, but I think I would like a similar amount of time as New York)
 *Note:* Public transport is great around the city
 *Things to do:*
@@ -97,7 +96,7 @@ Watch the highlights here:
 - Walk along the numerous trails leading to the Golden Gate bridge
 - Explore fisherman's wharf
 
-#### 3. About this trip
+# 3. About this trip
 **4.6.23**
 The side-effects of COVID-19 were not only health focused. It had detrimental effects on the Research space in Australia. Universities lost billions of dollars from international students. This devastated the University ecosystem, and it meant that a lot of people would lose their jobs. This continues to impact research as the less money available, means that PhD students and early career academics have less opportunities to travel and network, ultimately leading to failed academic careers, and most people leaving the University for work in industry. 
 
@@ -113,9 +112,9 @@ Now, I know what you are thinking: 2.5 weeks is a long time for a conference. We
 
 This is the first time that I will be leaving the country, since I travelled to Europe back in June 2019! I am feeling really nervous but also very excited. 
 
-#### 4. Blog
-###### ✈️ Sydney to New York 
-**6.6.23**
+# 4. Blog
+## ✈️ Sydney to New York 
+**06-06-2023**
 As usual, I felt Chip jump up on the bed for cuddles around 3 am. Instead of telling him to go back to his bed, I let him stay. I wanted to enjoy the cuddles before heading off for 2.5 weeks. 
 
 When the alarm sounded at 5.30am, I rolled over to Nick who motivated me to get out of bed and get ready. He prepared us a few coffees and then he drove me to the airport. We left home at 6.15 am and arrived at Sydney airport at 7.27 am. 
