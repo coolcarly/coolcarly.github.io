@@ -11,7 +11,7 @@ When we arrived, it wasn't too busy so we bought a couple of beers and sat down 
 
 In terms of entertainment, there was a live performer from 6.30 pm. It seems that they have a lot of entertainment to offer during the week and throughout summer. 
 
-![[Picture1 5.png]]
+![Five Barrel Brewing](pictures/fivebarrelbrew.png)
 The beers that we drank (between us) were: 
 - *The milk stout*: coffee/chocolatey flavour. Was quite heavy but very nice. 
 - *Free fall pale ale*: This was one of my favourites. It is all that you want in a Pale Ale. Amazing

@@ -1,6 +1,7 @@
 ---
 title: 2022/2023 End of season note
 date: 2023-04-16
+pagination_next: null
 ---
 # End of season note
 I am so happy to be a member of NWSLSC. It has really lifted my spirits, even when times are hard. The community vibe that I get from the club is something that I haven't had in my life and something I want to keep in my life for as long as possible. Since moving here, I felt that I was given so much: just being able to come to the club and grab a board and catch some waves is so amazing. Thats why I was happy to step into Alieshas role as the social organiser, even though this is only my second season in surf lifesaving! I wanted to give back to the community. 

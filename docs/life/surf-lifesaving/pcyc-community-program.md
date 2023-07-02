@@ -1,6 +1,7 @@
 ---
 Title: PCYC program
 sidebar_position: 3
+
 ---
 # PCYC community program & NWSLSC
 The PCYC is a non-charitable organisation that run activities for kids of all abillities. They run a Fit For Life Program on Thursday mornings from 7:00am sharp to 8:15am throughout the school term. 
