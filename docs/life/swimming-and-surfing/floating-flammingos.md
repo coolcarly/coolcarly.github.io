@@ -13,7 +13,7 @@ The schedule is a 50 m handicap swim. This means that the faster you swim, the m
 
 At 7 am, I left home to arrive at the continental pools by 7.15 am. After registering, I got ready to swim as I was in heat #3 of >18. I met a few people there, including a lady named Ana. I also saw a few people from NWSLSC and spoke for a while. 
 
-![[Picture4 7.png]]
+![Week 1](../swimming-and-surfing/pics/floatingflammingos-w1.png)
 
 After my 50 m dash (My time was 36s), I jumped into the 45 m pool and swam another 400 m. The water temperature was great and the pool quality was amazing (usually after a big storm, it gets really dirty from the sea water). Afterwards, I put on my towl hood and headed home for a shower and breakfast before [[Ashley & Dylan's Wedding]]. 
 
@@ -24,7 +24,7 @@ For week 2, on the 7th of May, I was early to the continental pools. I arrived b
 When I walked into the continental pools, I spoke with the lifeguards for a bit and then said hello to some of the women from NWSLSC. I met a few other ladies. My race was at the end - heat 16 of 18. As I swam 36s last week, I had a handicap of 13s - meaning that I jumped in 13s after the first swimmer - I was at a massive disadvantage. I still managed to come second in the race, despite the massive handicap that everyone had. The total time was 47.18 s. This means that I swam 50m in 34.18s! 
 
 I really enjoyed that race. It did feel like a challenge to try and win that race, and while I didn't win, I did beat my time from last week which I am very happy with. After the heats, they ran semi and finals. The winner from each heat got to do a second race to win a cooler bag - club merchandise. Unfortunately I didn't get to compete as I came second. 
-![[pool.png]]
+![a snap of the first heat on the first week](pics/floating-flammingos-swim%203.png)
 *Img caption.* Just before the heats begun. 
 
 **14.5.23**
@@ -42,7 +42,7 @@ Today I woke up to high winds. I thought that the surf would be crazy due to the
 Down at the Continental pools, it was really cold, despite the sun shining on us. I was in heat 12 of 16, so I waited with Janina and talked a bit about the surf club presentation that we attended last night. 
 
 My swim wasn't as fast as last week - clocking 35.85 s, but I really wasn't feeling my best this week. After my swim, I entered a second relay swim and then headed home. 
-![[Wollongong from CPs.png]]
+![View of my fave spot](pics/floating-flammingos2.png)
 *Img caption.* Views of North Wollongong beach from the continental pool. 
 
 **28.5.23**
@@ -52,10 +52,10 @@ I warmed up before the swim to acclimatise to the water - it was 17 °C. When I 
 
 I did not register for the relay this week, so after the swim, I warmed down and then put my oodie on and headed home for a warm shower and some breakfast. 
 
-![[swim 3.png]]
+![Sunday morning swim club, starting to get cold](pics/floating-flamingos3.png)
 *Img caption.* Sunday morning swim-club, 28th May, Heat 1. 
 
 **4.6.23**
 On Tuesday, I fell off the paddle board and hit my shoulder really hard on the sand bank at North Gong beach. As a result, I did not feel that I was in good shape to swim this morning. Thus, I slept in til 8 am this morning. 
 
-For the next two weeks, I will be missing swim-club as I am heading to the USA on Tuesday until 23 June. Check out [[USA 2023]]. 
+For the next two weeks, I will be missing swim-club as I am heading to the USA on Tuesday until 23 June. Check out my [USA 2023](/life/trips/usa). 

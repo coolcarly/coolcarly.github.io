@@ -23,7 +23,7 @@ On Thursday, 4 May 2023, I showed up to the trailer located at Sandon Point at 6
 
 All in all, it was a great session and while I am already comfortable in the surf, this program is motivating me to learn to surf - something that I've always wanted to do but always put off. 
 
-![[WOW.png]]
+![Week 1](pics/WOW.png)
 *Img caption.* Week 1 of the WOW program. 
 
 The Organisers are amazing people, very kind and only in it to improve the lives of others. I highly recommend this program - join the waitlist and you will not regret it. 
@@ -35,37 +35,36 @@ Around 7.15am, we did a breathing exercise and then practiced onland popping. Th
 
 Since the surf was really big today, we only surfed the white water. I managed to stand up for a few waves. It felt really great to stand up and feel that I am improving. 
 
-![[wow2.png]]
+![week 2](pics/wow2.png)
 *Img caption.* Week 2 of the WOW program.
 
 **18.5.23**
 Week 3 of the WOW surf program. I showed up at the van around 6.15 am, put my wetsuit and rashie on and when everyone was ready, headed down to the sand for a session about "Relationships." It was an in depth talk to recognise the people in our lives who support us. I spoke of Nick and how he makes me better everyday: he makes me grow, keeps me calm and pulls me back to Earth when my head is in the clouds. 
 
 After this discussion, we headed straight out in the surf. I think today I did very well, I caught lots of waves and even stood up on a few! 
-![[WOWwk 3.png]]
+![Week 3](pics/WOWwk%203.png)
 *Img caption.* Week 3, Half way. Getting ready to go out in the surf, and practicing the pops. 
 
-<<iframe src="https://player.vimeo.com/video/830009508?h=de1fd2fa5c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  title="IMG_0"></iframe>
+<<iframe width= "100%" height= "400" src="https://player.vimeo.com/video/830009508?h=de1fd2fa5c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  title="IMG_0"></iframe>
 
 ###### 25.5.23
 Today was a lovely morning for learn-to-surf. I arrived at Sandon Point beach at 6.15 am to see the beautiful orange tints of the morning sky. After completing my morning wordle, I headed over to the Yellow Happy Days surf trailer and put on a wetsuit/rashie. 
 
-![[Picture 1 6.png]]
+![Early risers reward](pics/wow-happy-van.png)
 *Img caption.* Week 4 of the WOW program: Early risers reward. 
 
 Once everyone was ready, we all headed down to the beach and spoke about mindfulness, with some meditation afterwards. Then, we did some basic stretches and headed out in the surf for a group activity: walking across the boards. In this exercise, we lined up facing each other with the surf-board in the middle (long ways). Then all the surfboards were stacked side by side, so we were holding them together, like a raft. Next, someone got up and walked to the end and jumped off. We went through one-by-one. It was pretty fun activity but it was so cold initially. 
 
 Once the exercise was complete, I swam back to shore to grab another board and practice surfing. I was so keen, but this time I grabbed a shorter 7 foot board, which was more like the board that I have at home. At first, it was very frustrating catching waves. The balance was a lot different on this board. But in the end, I got the hang of it and even caught a few waves. **The key piece of advice that I received today is to glide, just a little bit longer.** 
-![[wow2week4.png]]
+![Week 4](pics/wow2week4.png)
 *Img caption.* Heading out into the surf. 
 
 *28.5.23.* So far, this program has made me love learning to surf. I feel this newly found motivation to learn and improve my skills, which I also had when I was learning to #paddle. From this program, I have set a goal that I will practice surfing on Thursday mornings (with WOW) and then try to cement skills one day on the weekend (usually Saturday morning after the gym). 
-![[saturday surfing.png]]
-*Img caption.* Working on my Pop technique. 
+
 
 ###### 1.6.23
 Unfortunately, yesterday I fell off my paddle board and hit the right side of my body on the ground (the waves were very dumping at NW beach). As a result, I can barely move my arm or shoulder and therefore had to cancel the WOW program for today. This is very disappointing because I hate quiting and I felt that this program was something positive to look forward to every week. There is still one week left, but next Tuesday I am heading to the USA for a conference. Thus, the program comes to an end for me. 
 
 I feel happy that a program like this exists. I was excited every week to go and see how everyone is doing and practice my surf skills. All the people in the program were so kind. Special thanks go to Donna and Carmen and the crew with WOW for their kindness and patience over the last few weeks. It's because of this program that I feel more excited to practice my surf skills. 
 
-For now though, that will have to wait until my shoulder recovers and I return from the USA. 
+For now though, that will have to wait until my shoulder recovers and I return from the USA, see [USA trip](/life/trips/usa) 

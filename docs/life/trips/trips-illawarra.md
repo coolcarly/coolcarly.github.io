@@ -1,5 +1,6 @@
 ---
-dg-publish: true
+title: Trips in the illawarra
+draft: true
 ---
 # Trips in the Illawarra
 There are many things to do in the illawarra and after living here for a few years, I've realised that I have done quite a bit. I know a lot of people want to know what they can do and where they can explore or what is on offer in certain destinations. 
