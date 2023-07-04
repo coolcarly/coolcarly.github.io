@@ -13,14 +13,14 @@ Unlike many other restaurants, Queen Street Eatery had a fixed menu: where you p
 
 We ordered a bottle of wine to start: 2017 Rockford Rifle Range #CabernetSauvignon from the Barossa Valley. The waitress decanted the bottle for us - so it seems like they know what they are doing with wine. The wine itself was very smooth and really delicious. Although this was expected considering that it is $133 in store. 
 
-![Wine](pictures/berry%202%201.png)
+![Wine](pictures/queenst-berry1.png)
 *Img caption.* Enjoying a Barossa Cab Sauv. 
 
 Shortly after we had our first sips of wine, we were served some of the nicest brioche buns that I have ever tasted. Next came the entrée: I ordered the pumpkin and ricotta ritolo and Nick ordered the octopus. My mind was blown over how great the food was and it was only the entre!! For the main meal, I ordered the onion and leek tart, while Nick ordered the steak. This was also mouth watering delicious. Nick remarked about how tender and well-cooked it was. 
 
 By dessert time, I was really full. I still ordered the ice-cream sandwich, and Nick ordered the passionfruit and white chocolate parfait. This was such a good treat to cap off a wonderful meal. 
 
-![Happy eaters](pictures/berry%203.png)
+![Happy eaters](pictures/queenst-berry3.png)
 *Img caption.* Our 3 course meal at Queen St. Eatery. 
 
 Once dessert was over, the wine was finished, we headed home. This place was so wonderful and I was so shocked that a place like this exists in Berry (considering how bad the bar that we went to beforehand was). It is a hidden gem that is definitely worth it! The service was 5/5 and the food was 5/5. While it was expensive, the price is similar to other nice restuarants such as . 

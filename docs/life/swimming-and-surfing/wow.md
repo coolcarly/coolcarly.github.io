@@ -23,7 +23,7 @@ On Thursday, 4 May 2023, I showed up to the trailer located at Sandon Point at 6
 
 All in all, it was a great session and while I am already comfortable in the surf, this program is motivating me to learn to surf - something that I've always wanted to do but always put off. 
 
-![Week 1](pics/WOW.png)
+![Week 1](pics/wow-wk1.png)
 *Img caption.* Week 1 of the WOW program. 
 
 The Organisers are amazing people, very kind and only in it to improve the lives of others. I highly recommend this program - join the waitlist and you will not regret it. 
@@ -42,7 +42,7 @@ Since the surf was really big today, we only surfed the white water. I managed t
 Week 3 of the WOW surf program. I showed up at the van around 6.15 am, put my wetsuit and rashie on and when everyone was ready, headed down to the sand for a session about "Relationships." It was an in depth talk to recognise the people in our lives who support us. I spoke of Nick and how he makes me better everyday: he makes me grow, keeps me calm and pulls me back to Earth when my head is in the clouds. 
 
 After this discussion, we headed straight out in the surf. I think today I did very well, I caught lots of waves and even stood up on a few! 
-![Week 3](pics/WOWwk%203.png)
+![Week 3](pics/wow-wek3.png)
 *Img caption.* Week 3, Half way. Getting ready to go out in the surf, and practicing the pops. 
 
 <<iframe width= "100%" height= "400" src="https://player.vimeo.com/video/830009508?h=de1fd2fa5c&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen  title="IMG_0"></iframe>
