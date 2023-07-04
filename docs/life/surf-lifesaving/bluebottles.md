@@ -4,6 +4,7 @@ sidebar_position: 2
 ---
 
 # Bluebottles
+![Bluebottles are so cool](pics/sls-bluebottles.png)
 
 I am always worried about bluebottles. One day, I decided that the water looked great and headed out on my board, only to be surrounded by massive blue sacs floating on the water - or bluebottles. I immediately exited the water without being stung. 
 

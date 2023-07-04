@@ -17,7 +17,7 @@ It is so amazing that these cops get paid to run these programs. Talking to one 
 
 The first week was on **21.2.23**. This day was quite windy, but we did some flags, beach sprints and wades. The kids loved it! 
 
-![[Pasted image 20230310141551.png]]
+![The first day of the program](pics/sls-pcyc2.png)
 
 The second week was **7.3.23**, the day was perfect for water activities, but I was told that we need a risk assessment for this. After a few wades, the kids were tired and didn't want to do much else. I got some rackets out and we played with them. Then we did a walk to the rocks on the southern end of NW beach. Pretty chilled time and very positive! 
 
