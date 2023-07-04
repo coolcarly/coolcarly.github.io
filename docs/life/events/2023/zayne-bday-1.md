@@ -5,7 +5,13 @@ title: Zayne's first birthday & baptism
 # Zayne's first birthday & baptism
 **24.6.23**
 **Prologue**
-Previously, my sister asked Nathan, Luke and I to be the god parents of Zayne. Little did I realise that a god parent is meant to teach the child about god and religion. I said yes because I thought it was about helping the child to grow and become a good person. 
+Previously, my sister asked Nathan, Luke and I to be the god parents of Zayne. She asked us to come over for dinner and then asked us through a nice gift: 
+
+![A very kind gesture from my sister](pictures/zayne-godparent.png)
+
+Of course I said yes! I love that little boy so much. 
+
+Little did I realise that a god parent is meant to teach the child about god and religion. I said yes because I thought it was about helping the child to grow and become a good person. 
 
 I am not a religious person. To be honest, I do not believe in god nor do I believe that there is a higher power out there. When mum asked why I do not believe, I couldn't quite gather a way to explain it. I think that believing in god and a higher power makes you less accountable for your actions. I find that people who are believers will often say things like "it was meant to be."
 
@@ -28,5 +34,7 @@ Nontheless, It was a really nice day and one that hopefully we will all remember
 *Img caption.* Pics with the birthday boy.
 
 I do not believe in god, but I think our family are really blessed that Zayne is here with us. Throughout my life, I never really felt like I belonged to the family. As a result, I always wanted to be somewhere else. Now, I want to be close. Zayne has made me feel more connected to the family than ever - especially my siblings and I want to be there for this little boy. 
+
+![A selfie with the man himself](pictures/zayne1.png)
 
 -----------------------------------------------------------------------

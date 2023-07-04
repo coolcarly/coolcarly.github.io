@@ -41,6 +41,8 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          sidebarCollapsible: true,
+          sidebarCollapsed: true,
         },
         blog: {
           showReadingTime: true,
@@ -55,7 +57,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      docs:{
+      docs: {
         sidebar: {
           autoCollapseCategories: true
         }
