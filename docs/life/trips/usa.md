@@ -104,7 +104,7 @@ The side-effects of COVID-19 were not only health focused. It had detrimental ef
 This also means that for purposes of international travel, the University became more strict and stingy. For big international trips that are fully funded by the university/grand money, you need to show that you are presenting - either through an acceptance letter or inclusion in a conference program. 
 
 Back in January 2023, I submitted an abstract to attend the [pi-electrons conference](https://conferences.coned.ncsu.edu/fpi15/) in Rayleigh in the middle of June. A few months ago, it was accepted for an oral presentation. That gave us some time to organise funds and travel dates.
-![conference program snip](Imgs/usa23/conferene1.png)
+![conference program snip](imgs/usa23/conferene1.png)
 *Img caption.* My presentation is highlighted. This program is just the third sessions of each day. For the full program, [click here](https://conferences.coned.ncsu.edu/fpi15/program/)
 
 While we had submitted forms well in advance, it was not until last week that I heard anything about my travels. The university made us jump through many metaphorical hoops in order for my trip to be fully funded (there was no way that I could afford going without funding, as the flights alone were $2986 AUD).

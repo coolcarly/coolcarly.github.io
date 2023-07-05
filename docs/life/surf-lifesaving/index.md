@@ -10,7 +10,7 @@ All my posts from patrol (elsewhere on this website) will be under #patrol
 - [Introduction to SLSA](./my-introduction.md)
 - [Bluebottles](./bluebottles.md)
 - [PCYC community program & NWSLSC](./pcyc-community-program.md)
-- [Patrol days](./Patrol%20days.md)
+- [Patrol days](./patrol-days.md)
 - [End of season note](./end-of-season-note2.md)
 
 In the off season, I have joined the Floating Flamingo's [Floating Flamingo's Swim Club](/life/swimming-and-surfing/floating-flammingos)

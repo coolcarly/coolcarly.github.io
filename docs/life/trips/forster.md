@@ -32,7 +32,7 @@ We've been putting together a list of things that we want to do including walks,
 ##### 7.4.23: Good Friday
 Looking at the weather all week, it seemed that Eden was going to be cold and miserable. Therefore, we changed our plans from the South Coast to the North Coast. On Good Friday (7/4/23), Nick, Chip and I woke at 5.30 am. We had a coffee (not Chip though) and breakfast, packed the car and headed to Shell Harbour to pick up the rental van that we booked on campify: The rental was called AJ. The owners Jennie and Bernie spent a few years building up this campervan[@jb.vanjourney](https://www.instagram.com/jb.vanjourney/) They were super friendly and so excited about the #VanLife (My life goals). Due to life getting in the way, they don't get to use the van too often and wanted other people to get use out of it. They were so lovely. 
 
-![Setting off on a long weekend adventure](Imgs/foster1.png)
+![Setting off on a long weekend adventure](imgs/foster1.png)
 *Img caption:* Setting off on a Long weekend adventure!
 
 The campervan was 3 m tall and 7 m long! A huge vehicle!! Lucky that I am not driving because I would not have been able to manuvere it. Nick was therefor our designated driver. We set off around 8 am. We went a slightly longer way and avoided tolls. Our first stop was Panania McDonalds for coffee and then we did not stop until we reached Forster for fear of being stuck in more traffic. It was brutal, I was getting so frustrated and I wasn't even driving!
@@ -43,28 +43,28 @@ Nine-mile beach is located in Tuncarry. This beach allows dogs off-leash and als
 
 After the 4 km beach walk, we went to check out Forster and find somewhere to sleep for the night (since it was approaching sunset). We found a nice spot near Pebble beach, we enjoyed the sunset and then went to grab some dinner. 
 
-![Sunset in Forster](Imgs/orster2.png)
+![Sunset in Forster](imgs/orster2.png)
 *Img caption:* Sunset in Forster
 
 Unfortunately due to the religous holiday, nothing was really open. We settled for a burger foodtruck and enjoyed some burgers and loaded fries --- that were just average. Finally, settling down in the van for the evening, we drank a couple of dark beers (White Rabbit - our favourite), played a few games and then fell asleep. 
 ##### 8.4.23: Easter Saturday 
-![Enjoying the sunrise](Imgs/chipsunriseforster.png)
+![Enjoying the sunrise](imgs/chipsunriseforster.png)
 *Img caption:* Enjoying the sunrise. 
 
 We woke up at 5.30 am and opened the back doors of the van to see a spectacular morning sky. Chip was really enjoying watching people pass us - Even giving a few barks out. 
 
 We rolled out of bed by 6 am and then went for a walk to Forster main beach to get coffee and a small breakfast treat: Nick an almond croissant, and a banana bread for myself. We drank our coffee and ate our food on a park bench in front of the main beach and then continued our walk along the bicentenial pathway. We went to a few really nice lookouts showing Forsters amazing cliff faces. The walk ended up being about 4.5 km before we headed back to the van. 
-![Morning walk](Imgs/forster-bicentennial.png)
+![Morning walk](imgs/forster-bicentennial.png)
 *Img caption.* Morning bicentenial walk. 
 
 By 8 am, we packed up and headed North to Old Bar village. Really, there wasn't much there but the beach was quite nice and they have a Surf-lifesaving club too. There were markets on this day at the park, so we had a look, ate lunch and then took a nap in the van. On the drive, we opened the window for Chip. He was having a lot of fun sticking his head in and out of the window. It was so funny! 
 
-![Heading to Old Bar](Imgs/forster-van.png)
+![Heading to Old Bar](imgs/forster-van.png)
 *Img caption.* Heading off to Old Bar. 
 
 At 3 pm, we headed back to Forster. We stopped in at the brewry again and I had one of the beers that I really enjoyed yesterday - The hearts Pale Ale.  I must emphasise how good this brewery is: Every beer was really amazing. The great thing about this brewery is they let us bring in our own food. We took some cheese (The cranberry cheese from Woolies) and crackers with us.
 
-![Spending time at Old Bar Village](Imgs/forster-oldba.png)
+![Spending time at Old Bar Village](imgs/forster-oldba.png)
 *Img caption:* Spending time at Old Bar village. 
 
 After the brewery, we headed to the wharf and walked around for a while before stopping in at Bella Bellisimo to order a pizza. This is an italian restaurant that was really busy. It seems like they couldn't really handle it though. For one pizza, it took them about an hour! After we got the pizza, we took the it to our campervan and parked in the same spot as yesterday, in the car park near Pebble Beach.
@@ -76,7 +76,7 @@ We ate pizza with the wine. The pizza was nice, but I think our local pizzeria i
 Tonight, several other vans were parked in the same car-park as us! It seems that this is a very popular spot, which is no suprise as there are bins and toilets close by. 
 
 ##### 9.4.23: Easter Sunday
-![Easter sunday](Imgs/forster-easter-sunday.png)
+![Easter sunday](imgs/forster-easter-sunday.png)
 *Img caption:* Sunday morning chilling in bed. 
 
 We woke to an Easter (church) service in the park. I was supprised that there are so many people who are religious. With all the people around, Chip was very annoying and kept barking at the people, wanting to greet them. His little bark/growl is super cute though, so it cancels out the annoying-ness.
@@ -89,26 +89,26 @@ Nick was a bit worried about going somewhere else  --- due to the uncertainty. W
 
 A 2.5 hour drive south landed us in Budgewoi. Aside from the Budgewoi hotel, nothing else was really open. We went to the beach where we ate some chips and dip and our little Chip had a run around. The water seemed to have very strong currents, many rips and a big swell with  small period which is not safe for swimming. Neither Nick nor I went for a swim. After less than an hour, we decided to move on. 
 
-![Hanging out at Budgewoi Beach](Imgs/forster-budgeqoi.png)
+![Hanging out at Budgewoi Beach](imgs/forster-budgeqoi.png)
 *Img caption:* Hanging out at Budgewoi Beach. 
 
 Next, we headed to Nora Heads and did a short walk to the lighthouse (Founded in 1903). Near the lighthouse, was a very large, old house that was the light-house keepers grounds and available to rent for vacation. It was pretty cool but I would not like to stay there due to the high foot traffic  --- this walk was super busy, maybe because that was one of the only things to do/see in this area. Nontheless, it was a very lovely walk and the place is a good spot for families on vacation.
 
-![Short walk to Nora Heads lighthouse](Imgs/forster-budgewoi3.png)
+![Short walk to Nora Heads lighthouse](imgs/forster-budgewoi3.png)
 *Img caption:* Short walk to Nora Heads light house. 
 
 In search of food, we ended up at a Mexican restaurant in Toukley, *Mexicoast Cantina.* We ordered a margarita each, tacos and jalapeno poppers. We sat and ate for a while. Looking at Google Maps, The Entrance was only 15 minutes away, so we decided to head there and settle in for the night. 
 
 To be honest, there is nothing spectacular to see here, and we probably would've been better off sleeping in Nora Heads. There were a lot of tourists that made it quite uncomfortable. Therefore, we decided to park the van by the Lakeside as it was quieter than the beach. 
 
-![Some shots at the Entrance](Imgs/forster-entrance.png)
+![Some shots at the Entrance](imgs/forster-entrance.png)
 *Img caption:* Pic 1. The Entrace where the lake meets the sea; Pic 2: Chip and I ready for bed and Pic 3: Sunset over the lag in Long Getty, where we spend the night. 
 
 I do prefer the vibe of Forster more than the central coast. I love that it is more quiet, there are a lot of runners and cyclists out and there are so many national parks around! ....but being here now saves us some time tomorrow and hopefully we can avoid most of the traffic. 
 
 ##### 10.4.23: Easter Monday
 This morning, we woke up to Chip complaining that he needed to go to the toilet. Nick took him out while I completed my wordle, as usual. We got changed, went to the public toilets nearby and then walked onto the main strip in Long Jetty, The Entrance. We sat down at a cafe, *The Morning Coffee Society*, at 6.50 am for a breakfast. We ordered ourselves a coffee and I ordered a mushroom dish with poached eggs, while Nick ordered a bacon and eggs with smashed avo. It was a great breakfast and we were the only people at the cafe for a while. 
-![Breakfast](Imgs/forster-bfast.png)
+![Breakfast](imgs/forster-bfast.png)
 *Img caption:* Our final vacation breakfast on the road. 
 
 After Nick gave his remaining bacon to Chip, we walked 800 m back to the campervan, packed up (ensured everything was put away so it wouldn't fly around as we drove home) and headed off. Our trip home was 2.5 hours and based on the maps, it seemed like it would be an easy trip home without hectic traffic that we experienced on the way to Forster. 
