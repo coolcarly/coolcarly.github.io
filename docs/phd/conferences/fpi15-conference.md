@@ -3,7 +3,7 @@ title: Fpi15 conference 17-21 June 2023
 sidebar_position: 4
 ---
 
-![Welcome to Fpi15](../pictures/pic-fpi1.png)
+![Welcome to Fpi15](/docs/phd/pictures/pic-fpi1.png)
 *Img caption.* Welcome to the Fpi15 conference! 
 
 The Fpi15 conference ran from 16-21 June 2023 in Raleigh, North Carolina. The theme of this conference is *pi-electron systems* - which cover conjugated organics and their applications. On Friday 16 June 2023, there was a welcome reception to kick off the conference. The American "long weekend" consisted of 4.5 days of amazing talks. There was a poster session in the evening on the *Juneteenth* American holiday, and a banquet on the evening of 20 June. Overall it was a great conference, and I got to meet many people who inspired me. I feel motivated to finish my PhD and begin my career in science. 
