@@ -16,12 +16,12 @@ I love that craft beers are booming all around Australia. Every time I go somewh
 This is basically a blog of the breweries that I have visited, with the beers that I've tried and how I rate it. My motivation behind spending time on this is so that I free up storage space in my mind for other things, and the next time I visit the same Brewery, I can remember what I enjoyed and what I didn't. 
 
 ### Breweries in the Illawarra: 
-- [[Reub Goldberg Brewing Machine]]
-- [[The Barrel Shephard]]
-- [Five Barrel Brewing](./five-barrel-brewing.md)
+- [Reub Goldberg Brewing Machine](./illawarra/rgbm.md)
+- [The Barrel Shephard](./illawarra/barrel-shephard.md)
+- [Five Barrel Brewing](./illawarra/five-barrel-brewing.md)
 
 ### North Coast NSW
-- [[The Coastal Brewery]]
+- [The Coastal Brewery](./north-coast-nsw/coastal-brewery.md)
 
 ### Distilleries in the Illawarra:
-- [[Wolf & Woman Distillery]]
+- [Wolf & Woman Distillery](./distilleries/wolf-and-woman-distillery.md)

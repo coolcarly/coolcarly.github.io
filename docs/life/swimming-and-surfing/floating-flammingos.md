@@ -58,4 +58,4 @@ I did not register for the relay this week, so after the swim, I warmed down and
 **4.6.23**
 On Tuesday, I fell off the paddle board and hit my shoulder really hard on the sand bank at North Gong beach. As a result, I did not feel that I was in good shape to swim this morning. Thus, I slept in til 8 am this morning. 
 
-For the next two weeks, I will be missing swim-club as I am heading to the USA on Tuesday until 23 June. Check out my [USA 2023](/life/trips/usa). 
+For the next two weeks, I will be missing swim-club as I am heading to the USA on Tuesday until 23 June. Check out my [USA 2023](/docs/life/trips/usa.md). 

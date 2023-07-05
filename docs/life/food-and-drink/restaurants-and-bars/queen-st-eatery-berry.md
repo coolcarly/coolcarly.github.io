@@ -5,7 +5,7 @@ title: Queen St. Eatery, Berry
 ###### 6.5.23
 On 6 May 2023, at 6.30 pm, Nick and I headed to Berry for a birthday dinner at Queen Street Eatery. Our booking was for 7.45 pm but we arrived half an hour before. We enjoyed a cocktail at The Rudlege bar, a few doors up from the restaurant. It was a cute place, but it was really slow - it took about 20 minutes before we got our drinks and the place was quiet with 3 bartenders. We quickly drank our cocktails (Amoretto sour for me and a mojito for Nick), and headed to the restaurant. 
 
-From the moment that we arrived at the restaurant, the service was amazing. It gave off a vibe similar to [Jensens](/life/restaurants-and-bars/jensens.). Contrary to how the name sounds, it was a very nice and somewhat fancy place. The menu constantly changes, so you never know what the meal will be until you arrive. Lucky for me, they had a vegetarian menu as well as a regular one. 
+From the moment that we arrived at the restaurant, the service was amazing. It gave off a vibe similar to [Jensens](./jensens.md). Contrary to how the name sounds, it was a very nice and somewhat fancy place. The menu constantly changes, so you never know what the meal will be until you arrive. Lucky for me, they had a vegetarian menu as well as a regular one. 
 ![Queen St Eatery](pictures/berry1.png)
 *Img caption.* A look at Queet St. Eatery. 
 

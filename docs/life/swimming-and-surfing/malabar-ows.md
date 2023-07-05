@@ -1,13 +1,11 @@
 ---
-dg-publish: true
+title: Malabar Magic Ocean Swim 2023
 ---
-# Malabar Magic Ocean Swim
-
-###### 19.2.23
+### 2023-02-19
 
 **Sunday Funday.** 😄☀️ 
 
-Today was the [Malabar magic]([https://www.malabarmagicoceanswim.com.au](https://www.malabarmagicoceanswim.com.au/)) #oceanswim. They had options for 1km, 2.5km and 5km. As I do, I decided to enter the 5km. I was dreading it, as I barely trained for this swim. Mind you, I spend a lot of time in the ocean, but most of the time I just have fun paddling and haven't been focusing on long endurance swimming. 
+Today was the [Malabar magic](https://www.malabarmagicoceanswim.com.au/) oceanswim. They had options for 1km, 2.5km and 5km. As I do, I decided to enter the 5km. I was dreading it, as I barely trained for this swim. Mind you, I spend a lot of time in the ocean, but most of the time I just have fun paddling and haven't been focusing on long endurance swimming. 
 ![Malabar magic OWS](pics/swimming-malabar.png)
 
 The swim itself was okay. Malabar is a flat bay so for outside observers, it seems like it should be easy. The course was two laps of a 2.5km course (in the image above). On the way out, it wasn't too bad, I felt comfortable the whole first lap. Heading into the second lap, my legs were starting to cramp up - not sure of the muscle, but I was feeling it in the one just under the hip bone.
