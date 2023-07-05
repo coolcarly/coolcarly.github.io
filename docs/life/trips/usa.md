@@ -521,6 +521,6 @@ I got the 6 pm bus to the airport - which saved me money as it only cost $2. I a
 On the flight home, I had a whole row to myself. For the most of the 14 hour flight, I slept, laying out across the four empty seats. I woke only to eat (we were served dinner, a snack and then breakfast) and then watched some pre-downloaded shows to put myself back to sleep afterward. United airlines certainly made up for all the stress that they put me through. 
 
 **24.6.23**
-The plane landed in Sydney at 7.15 am. It took about half an hour to get through customs and head to the public pickup where Nick was waiting for me. We headed straight to mum's to prepare for [Zayne's first birthday & Baptism](/zayne-bday-1).
+The plane landed in Sydney at 7.15 am. It took about half an hour to get through customs and head to the public pickup where Nick was waiting for me. We headed straight to mum's to prepare for [Zayne's first birthday & Baptism](/docs/life/events/2023/zayne-bday-1.md).
 
 It is nice to be back at home. While it was nice to see some parts of the USA, I think it may be a while before I return again. Afterall, there is no place like home. I was inspired by all the awesome scientists at the [Fpi15 conference](/phd/conferences/fpi15-conference) to do something great once I finish my PhD. 

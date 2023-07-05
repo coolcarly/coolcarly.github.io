@@ -3,8 +3,6 @@ title: Polymers
 sidebar_position: 2
 ---
 
-# Polymers
-
 Polymers are life. Literally. We are made of polymers – whether it be the proteins that make our muscles, or the proteins we eat, to the clothes we wear. Most of the materials in our life that we take for granted are polymers.
 
 Polymers are basically long chains, or larger molecules known as macromolecules that consist of networks of repeating units or “monomers”. Monomers can be anything, even a simple sugar such as glucose. While the structure of glucose looks complicated to prying eyes, it is **one** unit.  Yet, when it is attached to itself a number of times, in this case 300-600 times, it forms a different compound called starch.[1](https://www.sciencedirect.com/science/article/pii/B0122270509001198)
@@ -13,7 +11,7 @@ Starch is the main source of carbohydrates in our diet and are a key source of e
 
 While they are essential to our lives, they also provide us with so many material opportunities that small molecules just cannot offer. Such properties include mechanical strengths, flexibility, rigidity, thermal properties, durability, conductivity of many others.[2](https://link.springer.com/chapter/10.1007/978-0-387-73861-1_3)
 
-The one thing that I love the most about polymers, is that you could take a toxic monomer such as acrylic acid and convert it into a polymer – poly(acrylic acid) which is relatively non-toxic. During my honours year, I was synthesising poly(methacrylates) which are related to poly(acrylates) in that they have similar structures (see below). One day I spilt some methacrylate on my hand (which was double gloved). Within an hour, my hand swelled up and I could no longer bend my fingers. This response is known as [skin sensitisation](https://joint-research-centre.ec.europa.eu/eu-reference-laboratory-alternatives-animal-testing-eurl-ecvam/alternative-methods-toxicity-testing/validated-test-methods-health-effects/skin-sensitisation_en#:~:text=Skin%20sensitisation%20is%20the%20regulatory,(ACD)%20may%20be%20provoked.) and very common in acrylate compounds. Yet, once I polymerised this compound, it was a rubber-like material that I could handle without gloves as it was longer toxic (Obviously I didn't because it is a bad practice in research as we don't really know the effect of new molecules on our health, see [[Benzene as a hand cleaner]].)
+The one thing that I love the most about polymers, is that you could take a toxic monomer such as acrylic acid and convert it into a polymer – poly(acrylic acid) which is relatively non-toxic. During my honours year, I was synthesising poly(methacrylates) which are related to poly(acrylates) in that they have similar structures (see below). One day I spilt some methacrylate on my hand (which was double gloved). Within an hour, my hand swelled up and I could no longer bend my fingers. This response is known as [skin sensitisation](https://joint-research-centre.ec.europa.eu/eu-reference-laboratory-alternatives-animal-testing-eurl-ecvam/alternative-methods-toxicity-testing/validated-test-methods-health-effects/skin-sensitisation_en#:~:text=Skin%20sensitisation%20is%20the%20regulatory,(ACD)%20may%20be%20provoked). and very common in acrylate compounds. Yet, once I polymerised this compound, it was a rubber-like material that I could handle without gloves as it was longer toxic (Obviously I didn't because it is a bad practice in research as we don't really know the effect of new molecules on our health, see [[Benzene as a hand cleaner]].)
 
 ![acrylates](../pictures/acryalates.png)
 
