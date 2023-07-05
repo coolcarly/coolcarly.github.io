@@ -110,7 +110,7 @@ Back in January 2023, I submitted an abstract to attend the [pi-electrons confer
 While we had submitted forms well in advance, it was not until last week that I heard anything about my travels. The university made us jump through many metaphorical hoops in order for my trip to be fully funded (there was no way that I could afford going without funding, as the flights alone were $2986 AUD).
 
 The itinerary is as follows: 
-![itinarary](Imgs/usa23/usa1-itinerary.png)
+![itinarary](imgs/usa23/usa1-itinerary.png)
 Now, I know what you are thinking: 2.5 weeks is a long time for a conference. Well, I am going earlier for my own travels. I am planning to spend 4 days in New York, followed by a few days in Washington, before heading to North Carolina. 
 
 This is the first time that I will be leaving the country, since I travelled to Europe back in June 2019! I am feeling really nervous but also very excited. 
@@ -123,13 +123,13 @@ As usual, I felt Chip jump up on the bed for cuddles around 3 am. Instead of tel
 When the alarm sounded at 5.30am, I rolled over to Nick who motivated me to get out of bed and get ready. He prepared us a few coffees and then he drove me to the airport. We left home at 6.15 am and arrived at Sydney airport at 7.27 am. 
 
 Unfortunately it was raining when he pulled over, so we didn't have much time to say goodbye. A quick kiss and cuddle and then he was off and I was on my way to check-in. I headed to Check-in counter J to collect my boarding pass and check in my luggage (Nick's suitcase that he leant me, as I sold my 70 L backpack after my trip to Europe in 2019). 
-![Morning of the flight to New York](Imgs/usa23/usa-onplane.png)
+![Morning of the flight to New York](imgs/usa23/usa-onplane.png)
 *Img caption.* Morning of the flight! Waking up with Chippy next to me and my flight tickets. 
 
 I walked around for a bit - bought myself a bamboo travel pillow and a U.S. power adaptor and then took a seat in the food court. I ordered myself a coffee and croissant and then worked on my presentation for the conference. The coffee was not as good as Nick's was this morning, and the croissant was still cold, despite it being toasted for at least 5 mins. 
 
 Time flew by as I worked on my presentation. Before I knew it, it was time to board my first flight to San Francisco. After waiting in a line for a while, I boarded the aircraft, only to be sitting for another 18 hours. I watched a few movies, did some writing and by 11 pm (Syd time), I was asleep. About 2 hours later, I was woken for breakfast because we were 1.5 hours from landing. After this point, I could not go back to sleep. 
-![on the plane](Imgs/usa23/usa-onplane2.png)
+![on the plane](imgs/usa23/usa-onplane2.png)
 *Img caption.* Excited for my USA adventure. 
 
 We landed on time: 7 am. But it took me a while to get off the aircraft, and then I was standing in the customs line for 1.5 hours! They were so slow. I ended up missing the connecting flight. After waiting in a few more lines, they finally booked me on a new flight to Newark - departing at 1 pm. 
@@ -149,7 +149,7 @@ After trying to figure out the subway, I got on the wrong train that took me to 
 After 3 stops, I hopped off at W 103 street (across from central park). After carrying my suitcase up a set of stairs, I walked 800 m to the Hostel located on Amsterdam St. The streets were really scary to be honest. As I walked, I noticed that the paths were covered in fences and there were several cop cars around. It was labelled "New York City housing." I later realised that this is their public housing. The streets smelled of marijuana and throughout my stay in New York, this smell never really went away. 
 
 The place I am staying is a renovated, 19th century building: HI New York City. When I walked in, it gave off a pretty cool vibe, but as soon as I spoke to the staff, they were not that welcoming. Come to think of it, no-one was open to chatting. This was very different to what I am used to. It must be the New York vibe rubbing off on everyone. 
-![In the hostel](Imgs/usa23/usa-hostel1.png)
+![In the hostel](imgs/usa23/usa-hostel1.png)
 *Img caption.* The lobby of HI New York Hostel. 
 
 My room was located on the 3rd floor, and I was assigned to the 6th bed. The room itself was clean but it smelt pretty bad due to poor ventilation. I put my stuff down and went to have a shower. Surprisingly, despite my lack of sleep, I was barely tired as I was full of adrenaline and stress from the travel. I walked to a deli across the street and bought an egg and cheese sandwich, that I took back to the hostel. While eating this sandwich in a common space at the hostel, I was glad to speak with Nick over the phone. He always has a way of calming me down and making me feel better and safer. I was not keen at all for the next few weeks ahead. 
@@ -161,13 +161,13 @@ Once I finished eating and talking, I went to bed. During the night, it was very
 It was a new day. I slept for as long as possible and rolled out of bed at 8.30 am. I went down to the café (the hostel has a café built into it) and ordered a tomato and cheese croissant and a cappuccino. Both were of pretty poor quality and I was very disappointed. 
 
 After researching things to do for the week, I got ready and headed out for a run around central park. Central park was amazing! It is huge and full of green. There were trails, paths, rocks and road to run on! There were bubblers throughout. I even saw a waterfall! All of that with the city skyline visible in some places. I thought "man, New York is so cool."
-![Central park](Imgs/usa23/central-park.png)
+![Central park](imgs/usa23/central-park.png)
 *Img caption.* The North side of Central Park, observed during a run. 
 
 After 10 minutes of stretching, I headed back to the hostel to have a shower, my second coffee and then I was off to explore the city. I walked from the Upper West Side to Times square. While I was walking, it was pretty foggy. I didn't think anything of it. 
 
 By 1pm, I was hungry and so I went into a pub called Yard House. They had over 100 beer taps! It was so cool. I sat at the bar and ordered an IPA from Coney island and an avocado/feta on sourdough. It was a really cool place. The service was great, and the bartender was so friendly. I even had a chat to the person next to me, who seemed to be a local. While I was eating my lunch, I stumbled upon an article about the wild fires in Canada and warnings to the public in New York to "stay inside". 
-![Look at all the beers on tap](Imgs/usa23/usa-ny-bar.png)
+![Look at all the beers on tap](imgs/usa23/usa-ny-bar.png)
 *Img caption.* Hundreds of beer taps in the Yard House. 
 
 I was thinking to myself "it's really not that bad and I've had worse (note the Australian bushfires in 2019). After I paid the bill, I walked outside to see that the sky was a tint of red. It also smelt of smoke. That ended my tour of New York City as I did not want to expose myself anymore to that horrible weather.
@@ -182,15 +182,15 @@ The light woke me at 5.30 am this morning. After lazing in bed for half an hour,
 At 8 am, I was out of the hostel to explore the city. The air quality was still pretty bad, so I grabbed a mask from the reception of the Hostel. I walked for a little bit, to 96 St station. My feet were pretty sore from the day before that I decided to jump on the subway. At the ticket booth, I purchased a weekly pass for $33 USD. This was one of the best things that I did today as it meant that I would stress less about how much money I was spending on the tickets and that I could use the subway as much as I want. 
 
 The first stop was the 9/11 memorial at the World Trade Centre but the site was closed off because of the air quality. This was the theme of the day - most things were closed because of the air quality. From the world trade centre, I walked around battery park and went to the view point of the Statue of Liberty. It was pretty hazy, so the view was not the best. 
-![Hazy view of lady liberty & wall St.](Imgs/usa23/usa-libarty.png)
+![Hazy view of lady liberty & wall St.](imgs/usa23/usa-libarty.png)
 *Img caption.* The hazy view of Lady Liberty & a snap of Wall St. 
 
 My second coffee of the day was from Gregories coffee shop in the Financial district. I read good reviews. While it was better than any other coffee that I've had in New York, it was still not great. I drank this coffee while admiring the view of the Brooklyn bridge. 
-![Brooklyn bridge from the Financial district](Imgs/usa23/usa-brookbridge-coffee.png)
+![Brooklyn bridge from the Financial district](imgs/usa23/usa-brookbridge-coffee.png)
 *Img caption.* Admiring the Brooklyn bridge. The air quality is improving since the morning, but still not the best. 
 
 As the air quality still wasn't great, I decided to leave the bridge walking to another day. Instead, I jumped on a subway and went to Coney Island. It was a 40 minute trip, and when I arrived, it was a ghost town! No-one was around. There was a lot of construction happening and when I walked along the prominade to the brewery, I was shocked to see that even they were closed! "What a waste of time." I wasted no-more time and I jumped on the subway back to SoHo (south of Houston St). I walked around for a while: through China town & Little Italy. I walked around for about an hour before deciding that I was tired and wanted to go back to the hostel. 
-![Coney Island in the haze and Little Italy](Imgs/usa23/usa-coneyisland.png)
+![Coney Island in the haze and Little Italy](imgs/usa23/usa-coneyisland.png)
 *Img caption.* A pic of Coney Island's Luna park on the left, and Little Italy on the right
 
  
@@ -202,49 +202,49 @@ During this hour, I met a lot of interesting people from different parts of the 
 
 After leaving the pub, I wandered around time-square. It was so amazing at night! The vibe was incredible and I think I had way more fun on my own in the night, than with the group from the hostel. I watched some street performers and as I was heading to the subway, I noticed the 99c pizza shop. This was recommended to me before I came to New York, so I went and bought 2 slices of vegetarian pizza. I took them on the 1 train  with me, back to 103 St. and enjoyed the pizza at the hostel. At this point, it was 11.45 pm. I had a quick chat with Nick while eating the pizza and then went to sleep. Tonight, I slept immediately. 
 
-![Time Square at night](Imgs/usa23/timesquare.png)
+![Time Square at night](imgs/usa23/timesquare.png)
 *Img caption.* Time square at 11 pm. 
 
 **9.6.23**
 I woke up slightly later this morning: 6.30 am. As I needed to drink coffee to take away my headache (the addiction is real), I ordered one from the hostel café, and then I was out to explore the city. Luckily the air quality had improved, and the sky was clear. 
 
 As I was exhausted from all the walking yesterday, I decided that I needed to arrange my day so that I could get the least tiring things out of the way. I went to the 103 St. station and caught the subway to the South Ferry Wharf to catch the Staten Island Ferry. This is a free service that gives amazing views of Lady liberty and the city. I got on the 8.30 am ferry that took me across to Staten island, then I exited and joined the queue to go back to Manhattan. In total, it was a 1 hour round trip. This was such as amazing thing that I did and I would recommend it to anyone heading to NYC. 
-![The NYC skyline is amazing](Imgs/usa23/usa-nyc-skyline.png)
+![The NYC skyline is amazing](imgs/usa23/usa-nyc-skyline.png)
 *Img caption.* Lady liberty (on the left) and the Manhattan Sky line (on the right). Note: the building with the tall squire is the new world trade centre building to replace the twin towers. 
 
 At 9.30am, I was back in Manhattan. I was feeling pretty hungry, so I got back on the Subway and went to Broadway bagel & coffee company which was recommended to me by a friend. I ordered a blueberry bagel with cream cheese and a coffee. The bagel was very delicious as expected but the coffee was also pretty good! It tasted like a Sydney quality coffee which I was so happy about. This is another place that I would 100% recommend and I will go back tomorrow morning. 
-![Bagel!](Imgs/usa23/usa-bagel.png)
+![Bagel!](imgs/usa23/usa-bagel.png)
 *Img caption.* Enjoying a bagel from the Brooklyn Bagel & Coffee Company in SoHo. 
 
 No time wasted, as next I got on the subway immediately after finishing my bagel and headed to Brooklyn to walk the Brooklyn bridge into Manhattan. I decided to start on the Brooklyn side so I would get the amazing views of Manhattan as I walked. It was incredible! To be honest, I have no idea why people would waste their money coming to Sydney to admire our bridge & opera house when New York is like 10000 times better! The walk was about 2 km long and the bridge ended in the Financial district of New York. I continued walking into the district and returned to the 9/11 memorial site at the World Trade Centre. 
-![Crossing the Brooklyn Bridge](Imgs/usa23/usa-brooklynbridge-crossing.png)
+![Crossing the Brooklyn Bridge](imgs/usa23/usa-brooklynbridge-crossing.png)
 *Img caption.* Crossing the Brooklyn Bridge.
 
 The one World Trade Centre was one composed of 7 buildings. In the 9/11 attacks, most of these buildings were destroyed, including a small Greek orthodox church in the Liberty park that was built in the early 1700s. With the destruction of the buildings, there left a massive dent in the area where the Oculus (Westfields) is now located. The story behind the architecture of the new buildings is very interesting and well explained in a Youtube Documentary [here](https://www.youtube.com/watch?v=aqKGJgZyiHw&t=11s). 
 
 Today, the 9/11 site was open and it was spectacular! The place where the twin towers originally sat, were replaced with two pools with waterfalls around. The pools represent the foundations of the building: as the original towers required a concrete base to prevent destruction from the Hudson river. All around the edges of the pools are the names of every person that died in that terror attack: Including people on the plane. 
-![The side of the twin-towers at the World Trade Centre](Imgs/usa23/usa-worldtrade.png)
+![The side of the twin-towers at the World Trade Centre](imgs/usa23/usa-worldtrade.png)
 *Img caption.* The New "twin-towers" next to the old twin-towers, in the form of a North and South pool. The right photos are some other pictures in the area, including the white oculus building. 
 
 The new buildings are so nice and really add something amazing to the NYC sky line. I think that the architects and government did a great job in using that space and preserving the memory of those who died. 
 
 I think I wandered around this area and Westfields for a couple of hours, then went back to the hostel when I started to feel tired, so I could rest. At 4.30 pm, I was out of bed and getting ready to head back to time square for a Broadway show at the Lyric Theatre. I watched Harry Potter and the Cursed Child and it was amazing! The actors and production were very good - even the dementors flew out into the crowd. They told the story very well and their effects were mind blowing. The show went for 3.5 hours - and finished at 10.30 pm. I decided to head back to the hostel.
-![Harry Potter and the cursed child](Imgs/usa23/usa-harrypotter.png)
+![Harry Potter and the cursed child](imgs/usa23/usa-harrypotter.png)
 *Img caption.* Shots before the Harry Potter and the Cursed Child show started in the Lyric theatre. 
 
 Walking out of the Lyric theatre and into Time square caused another huge shock to my system. It surprises me every time I see Time Square! It's so awesome. 
 
 **10.6.23**
 Today was my last official day in New York. I woke up at 6 am, as usual and had a coffee from the hostel and a Chobani flip yogurt. I then set off to 59 St (Columbus St) which is the southern end of Central Park, where I ran for 9 km. I saw some terrific views of the city from some rock platforms. There were regions of central park that were very busy and some regions where there was no-one. It just amazed me that every section I ran through was different! I also ran past many statues, the U.S seem to like their statues a lot. My run finished on 103 street. 
-![Central Park again](Imgs/usa23/usa-centralpark2.png)
+![Central Park again](imgs/usa23/usa-centralpark2.png)
 *Img caption.* Some snaps in central park. 
 
 After 10 minutes of stretching, I headed back to the hostel to have a shower and get ready for the day. At 9.30 am, I jumped on the 1 train to 22 St in Chelsea to get a bagel and coffee from *Brooklyn's Bagel and coffee shop.* I ordered a cinnamon bagel with cream cheese and a small late, like yesterday. The shop was really busy (that's no surprise, because it's soooo good) but I still found a seat to enjoy my second breakfast. 
-![My favourite Bagel place](Imgs/usa23/usa-bagels2.png)
+![My favourite Bagel place](imgs/usa23/usa-bagels2.png)
 *Img caption.* Brooklyn Bagel & Coffee company 
 
 From the bagel shop, I headed west towards the Chelsea High Line. The High Line is a park that is elevated off the ground. It is ~1.5 km walk way filled with flowers and trees. The High Line path ended at the Chelsea market, where I spent an hour. It was a typical market with lots of food stalls and clothing discounts. I settled at a German food stall and had a beer and a sandwich. It was not that good and perhaps it was a mistake to have a beer so early in the day, because afterwards, I was so tired! 
-![Chelsea High Line](Imgs/usa23/usa-chelsea.png)
+![Chelsea High Line](imgs/usa23/usa-chelsea.png)
 *Img caption.* The Chelsea High Line Park. 
 
 I walked around a bit more, exploring Chelsea and then hopped back on the subway to the hostel. It was 2 pm when I arrived back, and when I put my head down on my pillow, I immediately fell asleep. I slept until 5.50 pm! I wanted to keep sleeping but I needed to close my rings on my Apple watch, so I got up and had a shower. I was not sure if I should go out somewhere, seeing as it was my last night in New York. 
@@ -260,7 +260,7 @@ The next stop is Washington D.C.
 This morning, I woke up naturally at 5.30 am. After completing the wordle, I climbed off the top bunk and packed my suitcase with the remaining items that were left out. As all the other girls in my room were sleeping, I tried to be as silent as possible. Throughout my stay, it's been such a struggle on the top bunk, as my shoulder always aches hopping off the top bunk. Today, I noticed that it was starting to hurt less. Hopefully when I return home, it will be healed and I can surf again. 
 
 I checked out of the hostel and headed to the subway station located next to central park. This subway station has the *a and c* train, while the W 103 St station located on Broadway had the 1 and D train. I waited 20 minutes for the *a* train that took me to 22 St. in Chelsea. I exited the station at 6.45 am, right in front of Broadway Bagel & Coffee Company (my favourite). The owner let me in early to sit and wait for them to open. At 6.55 am, they let me order a bagel and coffee. Today I treated myself to an everything bagel with egg and cheese. I also ordered a Large coffee. 
-![Everything bagel](Imgs/usa23/usa-bagel3.png)
+![Everything bagel](imgs/usa23/usa-bagel3.png)
 *Img caption.* Everything Bagel with egg & cheese. 
 
 When I was ordering at the counter, the worker remembered me from yesterday. It was so surprising because yesterday was really busy! I tipped her 20% and within 5 minutes, I received my bagel and coffee. I sat at the shop and ate/drank for half an hour before walking 5 minutes uptown to W 31 St. and 8th avenue. On the corner, directly opposite Madison Square Gardens is the Flix Bus stop. Here, I hopped on a bus (that I had previously booked for $70) that was heading to Washington D.C. 
@@ -270,17 +270,17 @@ The bus was a 5 hour trip with 2 stops. The first was in Philadelphia. We stoppe
 *Side note:* For the past 2 days, I have been very tired and exhausted. Now, I feel ready for more adventures. From the minute that I hopped on the Metro, I suddenly felt refreshed.  Seems that New York really took a toll on me and as much as I love it, it's not a place that I could spend my life. I am glad that I left when I did. 
 
 The first impression that I got of DC was that it was so clean compared to NYC! It barely smelled of anything! The metro was also more modern, but the system worked the same as NYC. I caught the metro to U Street. Around the corner was the hostel that I had booked: U Street Capsule hostel. This was a pretty cool hostel. The door key was sent to my phone which unlocks the hostel and my room. In the rooms, there are 6 beds. The beds are literal capsules with doors to close the bed. It is so cool and a big change from the dingy hostel that I stayed in in NYC. 
-![The hostel I stayed in DC](Imgs/usa23/usa-dc.png)
+![The hostel I stayed in DC](imgs/usa23/usa-dc.png)
 *Img caption.* The bed 'capsules' in the U Street Hostel. 
 
 After drinking a coffee and booking the rest of my trip, I headed out onto U street and walked around for half an hour. U street was previously the African American region of DC. It is filled with nightclubs, diners and theatres. As I walked along the street, I heard a lot of music and people out celebrating. They were dressed in Pride colours. I asked a security guard what was happening and it turns out that it is Pride Month. I asked why I didn't see this in New York and he said that most people come to DC to celebrate. 
 
 As I walked around, I immediately started to sweat. DC is so hot compared to New York. The temperature was 30 °C and really humid. I walked straight back to the hostel to grab my water bottle and sun glasses. Following, I jumped on the Green line metro and headed back into the centre to look at the cute buildings. 
-![Cute buildings](Imgs/usa23/usa-dc-cutebuildings.png)
+![Cute buildings](imgs/usa23/usa-dc-cutebuildings.png)
 *Img captions.* Cute buildings in DC. 
 
 It didn't last long because the first cool building that I saw was the National Art Gallery. I walked in side and spent 2 hours here and it was totally free! It was a really cool art gallery as well - a mix between history and art. There were different sections designated to different time periods in American History - i.e. the revolution, the civil war, times of innovation and discovery. 
-![The National Art Gallery](Imgs/usa23/usa-dc-nationalart.png)
+![The National Art Gallery](imgs/usa23/usa-dc-nationalart.png)
 *Img caption.* The National Art Gallery.
 
 There was also an area dedicated to the Presidents of the USA. In this area, there was an emphasis on the importance of democracy. I think it was very powerful: That their constant change in presidency is what drives change in the USA, ahead of the rest of the world. 
@@ -289,11 +289,11 @@ This museum/art gallery also cemented the idea that the U.S. love going to war w
 
 Another thing that I noticed about the gallery was that it was mostly about males! There was barely any history to do with females. As I walked through, I was thinking "oh yeah, another white male." Towards the end of the gallery, there was a section dedicated to women. 
 
-![Art works](Imgs/usa23/usa-dc-artgallry2.png)
+![Art works](imgs/usa23/usa-dc-artgallry2.png)
 *Img caption.* Artworks that I really enjoyed in the National Art Gallery. 
 
 As I forgot my glasses, my eyes and neck were really starting to hurt (my neck from tilting my head to see properly). I tried to take in as much as possible, but by 6.30 pm, I couldn't read anything else. I left the museum and headed straight to a restaurant that was recommended to me: The Founding Farmers Distillery. It was a very cute restaurant that sold Bourdon/vodka that was made there. I ordered a bourbon cocktail and a vegetarian burger. Both were so delicious. The buns were also made by the Founding Farmers. You could tell that the quality was above most other burgers as they were so soft, and melted in my mouth. 
-![A fab meal](Imgs/usa23/usa-dc-burger1.png)
+![A fab meal](imgs/usa23/usa-dc-burger1.png)
 *Img caption.* Burger and cocktail from the Founding Farmers Distillery.  
 
 When I finished my dinner and drink, I walked towards the National Capital building. The music was getting louder and louder. There, at the capital building was a stage with musicians for the Pride Festival. It was pretty cool but not my scene. I jumped back on the metro and headed to the hostel, where I spent the rest of the evening watching documentaries of the civil war and the revolution. 
@@ -304,11 +304,11 @@ This morning, I woke up at 7 am. I grabbed my phone and immediately went online 
 An hour past and I ordered another coffee and had a chat to a lady who was also staying at the hostel. She was a retiree from Germany and travelling in D.C for 1 week before heading home. She seems to have a cool life of travel. By this time, it was 10 am - so I had been sitting around for hours. I decided to get dressed and head off on the subway to the National Mall. 
 
 I took the green subway to the Smithsonian station and exited in the centre of the Mall. The look of the buildings was amazing from this angle. At this point, the capital building, the white house, Arlington cemetery and the Capital monument line up. On the outside, are all the museums: The American History, the African American, the Space Exploration etc etc. 
-![National mall](Imgs/usa23/usa-dc-nationalmall.png)
+![National mall](imgs/usa23/usa-dc-nationalmall.png)
 *Img caption.* Pics of a few buildings in DC. Showing (1) the paris vibe of DC and (2) the National Monument of DC located at the National Mall.
 
 I walked around the corner to the Holocaust Museum. In the Museum there were several exhibitions. You get the elevator up to the forth floor, where the permanent exhibitions are. Then you walk around and make your way down each floor. The theme of the museum is "Could the U.S have prevented the Holocaust? Why weren't they involved sooner?" The museum was very depressing, but quite amazing in how they displayed some of the information. I spent about 3 hours at this museum in total. 
-![Holocaust museum](Imgs/usa23/usa-dc-holocaust.png)
+![Holocaust museum](imgs/usa23/usa-dc-holocaust.png)
 *Img caption.* Inside the holocaust museum. 
 
 When I exited the museum, I was feeling hungry, so I got on the subway to the city centre. Close to Chinatown, there was a street that was filled with Mexican restaurants, where I had a burrito for lunch. After eating, I hopped back on the subway and went to the Pentagon. When I exited the subway, I realised that there was not much to see. There were a lot of Army reservists. I got back on the Subway to Arlington Cemetery. When I exited the subway and walked towards the cemetery, I realised how tired I was and then thought to myself "I don't really care about seeing graves." I walked back to the Subway and then went to the hostel. 
@@ -320,15 +320,15 @@ I woke up at 7 am again. I headed downstairs for my usual morning routine of laz
 
 Today at the cafe, a few locals came in and sat down to enjoy their morning coffee. I struck up a conversation with one, named Harrison who lives in DC but is originally from Texas. He was so friendly and we chatted for about 15 mins before I went upstairs to clean out my room. I took the sheets off the bed and into the cleaning basket as per the hostels request. I then packed my bag and checked out of the hostel. They allowed me to leave my luggage at the hostel for the day while I went out to explore for a little bit longer. 
 
-![National mall again](Imgs/usa23/usa-dc-nationalmall2.png)
+![National mall again](imgs/usa23/usa-dc-nationalmall2.png)
 *Img caption.* 270 ° view of the National Mall. 
 
 Once again, I headed downtown to the federal triangle/Smithsonian/the National Mall. I walked around for a short while, looking at the really awesome buildings and then found myself at the American History Museum. Inside the building, there were 3 floors with different themes. Some highlights were the entertainment section, the revolution section, the section dedicated to the inventions with some really cool displays. 
-![Museum pic 1](Imgs/usa23/usa-dc-museum1.png)
+![Museum pic 1](imgs/usa23/usa-dc-museum1.png)
 *Img caption.* American innovation: The original bicycle (existed before the car) and the original pace-maker prototype. 
 
 The American History Museum had a similar format to the National Art gallery. I felt like it was mostly about privileged white men and racism, which is the overarching theme of the USA. I feel so bad for the immigrants and people of colour. I also got the vibe that people of the U.S think that they are better than the rest of the world. This is not the people's fault though. This patriotism begins in school and is instilled in the minds of the youth. 
-![Museum pic 2](Imgs/usa23/usa-dc-museum2.png)
+![Museum pic 2](imgs/usa23/usa-dc-museum2.png)
 *Img caption.* Some artefacts from the American revolution: (1) a boat used in the defence against the British, which was ultimately sunk near Baltimore and (2) A "red coat" uniform from the British army. These uniforms were worn to instill fear into civilians. 
 
 Overall, the museum was good but I would have preferred to go to the National African-American museum that was located next door. As I ran out of time, I did not go there. I heard really good things about it from people in the History museum and therefore, would recommend the African-American museum over the History one. 
@@ -336,13 +336,13 @@ Overall, the museum was good but I would have preferred to go to the National Af
 I spent about 3 hours in the museum before my stomach started rumbling for food. I walked outside and found a strip of street filled with food trucks. I ordered a Falafel Pita for $12 (I thought it was really expensive, but there was nothing else around). After eating my lunch, I walked around the Federal triangle for about half an hour before heading back to the Hostel. 
 
 An observation about DC, particularly in the centre, is that the buildings located around the Federal Triangle have a strong resemblance to Paris. There are no high rises and the buildings are all so cool. The flag of the USA is displayed on many of the buildings and the buildings are mostly white/lighter shades. They seem very organised and carefully placed in particular positions around the city. There are also many military personnel and police that walk around the streets. Perhaps DC was inspired from Paris?
-![More cute buildings](Imgs/usa23/usa-dc-buildings2.png)
+![More cute buildings](imgs/usa23/usa-dc-buildings2.png)
 *Img caption.* Examples of the white buildings in DC to give a "Paris Vibe."
 
 At the hostel, I refilled my bottle, freshened up and then caught the Subway to Bethesda. My bus was scheduled for 3.05 pm at a random curb-side bus stop. I arrived 1 hour early and decided to wait in a café close-by, *Tatte.* 
 
 Tatte café and bakery was a French inspired bakery that served a range of sweet and savouries. While I was in the queue, the guy in front struck up a conversation, asking me where I am heading. He was tall guy, who looked German (blue eyes, blond hair) but had an American accent. He invited me to sit with him after I ordered. 
-![Yum](Imgs/usa23/usa-dc-pie.png)
+![Yum](imgs/usa23/usa-dc-pie.png)
 *Img caption.* A delicious Strawberry & Rhubarb pie from Tatte. 
 
 I ended up ordering a strawberry and rhubarb pie - as I saw the guy in front of me order it and it looked delicious. I also ordered my third coffee for the day. I went and sat with the blue-eyed guy from the queue (I failed to get his name). We spoke for about half an hour while we ate our pies and I drank my coffee. He is from Iowa but lives in Papai New Guinea in the American Embassy. He travels a lot and told me that he was starting to get sick of it. At 2.45 pm, I had to end our conversation because I needed to go to the bus-stop. It was a cool conversation and he was so friendly!
@@ -372,21 +372,21 @@ When she first bought it, it stunk so bad from the mould growing under the house
 In terms of work though, she doesn't have a steady income stream. She teaches cello, but it is not popular in the area. Therefore, Nancy relies on Airbnb to survive. She has 2 rooms that she rents out and she told me that she loves running Airbnb. 
 
 After I finished off my coffee, I got ready for the day. I walked to a café, *WPA bakery* located off Forest Hill avenue. I ordered a coffee and a muffin which costed about $6 in total - much cheaper than previously. As I ate my muffin and drank my coffee, a local man struck up a conversation. It was so nice. As I left the café, I noticed that he had left his phone on the counter. I chased after him and he was very thankful. I'm sure that he probably thought "I'm glad I spoke with her beforehand."
-![Breakfast time in Richmond](Imgs/usa23/usa-richmond-bfast1.png)
+![Breakfast time in Richmond](imgs/usa23/usa-richmond-bfast1.png)
 *Img caption.* My breakfast in Richmond. 
 
 For the remainder of the morning and early afternoon, I walked/hiked through the James River park. There were so many trails that were available. I walked along a trail until I crossed a bridge to Belle Isle. This island is a key historic region for Richmond - as it was the site where the south held prisoners of war during the civil war. As you walk around the island, there are remnants of buildings that existed during this time. It was really cool. 
-![Cool old brick work](Imgs/usa23/usa-richmond-hike1.png)
+![Cool old brick work](imgs/usa23/usa-richmond-hike1.png)
 *Img caption.* Remnants of old buildings in the James River Park. 
 
 On the eastern side of the island, there was a River Rapid that was very loud. It was also really beautiful to see. Several people were there to sun-bake on the rocks or bathe in pools that were not apart of the rapid. I had packed my swimmers but I was not too keen to go in. 
-![The Hollywood Rapids on Belle Isle](Imgs/usa23/usa-richmond-hike2.png)
+![The Hollywood Rapids on Belle Isle](imgs/usa23/usa-richmond-hike2.png)
 *Img caption.* The Rapids in image (1), the footbridge in (2) and the view of Richmond from the footbridge in (3).
 
 The track around the island was about a 2 km loop. After I completed the loop, I walked over a foot-bridge that headed into the city. After this, there was not much else to talk about. I walked back to the airbnb via a different route that met up with the trails that I started on. 
 
 The round trip turned out to be close to 13 km. My feet were aching by the end of this walk. When I returned to Forest Hill park, I sat at a café called *Crossroads.* I ordered a Mediterranean wrap that came with a choice of fries, an orange or a banana. I chose the banana. I feel like before this trip, I took supermarkets such as Woolworths for granted. I am yet to find a supermarket close by that sells bananas. 
-![Richmond walking route](Imgs/usa23/usa-richmond-walkingroute.png)
+![Richmond walking route](imgs/usa23/usa-richmond-walkingroute.png)
 *Img caption.* Today's walking route around Richmond. 
 
 Once I had finished eating, I walked back to Nancy's place. I showered and relaxed for a while and then found myself sleeping until 4 pm. I had to force myself to get up and do something. 
@@ -409,7 +409,7 @@ Then they asked if they could say a prayer for me. I told them that they didn't 
 Soon after, the bus had arrived. I made myself comfortable and spread my stuff across two seats. On the trip, I watched Captain Marvel. After it finished, we were really close to the Greyhound Bus centre in Raleigh. However, a massive traffic jam caused a slight delay and instead of arriving at 2.50, we arrived at 3.25 pm. 
 
 ### 📍Raleigh NC, 15-21 June
-![Raleigh sign outside the Conference centre](Imgs/usa23/usa-raleigh-sign.png)
+![Raleigh sign outside the Conference centre](imgs/usa23/usa-raleigh-sign.png)
 *Img caption.* Welcome to Raleigh
 
 As soon as I got off the bus, I got a massive hit of hot air. It was so humid, probably 30 °C. Luckily it was a very easy transition from the Greyhound Bus stop to the city bus stop. All I had to do was cross the street to the bus stop. To get to my Airbnb, I needed to go Downtown and change buses for 19. On the drive through, the city looked so cute - the houses were small brick buildings with chimneys, all giving the 19th century vibe. 
@@ -421,7 +421,7 @@ The transfer was very simple and by 4.30 pm I was at the Airbnb. Due to a malfun
 As the Airbnb was located out in the suburbs, I wasn't close to any grocery stores.  Once I unpacked my suitcase and settled in, I headed back to Downtown Raleigh. 
 
 I walked around for a little bit and then walked inside a Mexican Restaurant, El Rodeo. From the outside, it didn't look really appealing but on the inside, it had an Authentic Mexican look. The waitress brought over a bowl of nacho chips and salsa to start. 
-![Mexican for dinner](Imgs/usa23/usa-raleigh-mexican1.png)
+![Mexican for dinner](imgs/usa23/usa-raleigh-mexican1.png)
 *Img caption.* Mexican dinner in Raleigh.
 
 I ordered a margarita and a vegetarian combo with a burrito, taco and cheese quesadilla. Both the meal and the margarita were massive and I only paid $20 - that's USD though, so technically it is not that cheap. However, it is significantly cheaper than any of the other places that I have been. For example, a meal in DC with 2x cocktails was $58 USD. 
@@ -434,13 +434,13 @@ Rolled out of bed at 7 am, called Nick while I sipped on my coffee and ate some 
 I had this anxious feeling running through my body - I can't even describe it. It's like I needed to move around and being inside was starting to drive me crazy. In that moment, I knew that I needed to do an intense activity to drive up my heartrate. I put on my training clothes and went for a 9 km run around Raleigh. 
 
 It was so hot! I took it very very slow. My feet were burning and I was sweating a lot. I did see a lot of cool things in the city. The highlight was the historic region in Oakwood (east of the city). 
-![Historic buildings](Imgs/usa23/usa-raleigh-old-buildings.png)
+![Historic buildings](imgs/usa23/usa-raleigh-old-buildings.png)
 *Img caption.* The cute, old buildings in Raleigh. 
 
 Once I returned to the flat, I spent 15 minutes stretching in the yard that is behind the flat. It was so relaxing and peaceful. Following, I had a shower and got dressed, washed some of my clothes (in the shower, before realising that they have a washing machine) and then put them in the dryer. 
 
 I headed back Downtown to have a second breakfast. Once I arrived downtown, I went into the coffee shop, *42 & Lawrence,* I ordered a latte and a pecan croissant. Both were pretty good - especially the croissant; it was amazing! I spent half an hour eating and drinking and then went walking around town. 
-![Raleigh](Imgs/usa23/usa-raleigh-monuments.png)
+![Raleigh](imgs/usa23/usa-raleigh-monuments.png)
 *Img caption.* Raleigh is a standard city - just without a good public transport system. 
 
 I passed a cool food mall, *Morgan street food hall* but it looked pretty expensive. As I continued walking, I found a shop called *State of Beer*. The shop was a liquor store and a restaurant/bar with only wine and beer for sale. 
@@ -453,7 +453,7 @@ I got up and walked around the flat. Then I proceeded to iron my dress and get r
 
 I headed back Downtown at 5.20 pm to register for the conference and then walked to the welcome reception, located at Agora Taverna (a Greek restaurant located ~900 m from the convention centre). The restaurant seemed to be an authentic Greek restaurant with some cool cocktails on the bar menu. As I arrived early, I just sat and waited at the bar downstairs and spent sometime going through the program for the conference. Not long after, two people came up to me and tapped me on the shoulder. I did not know who they were, but I soon learned that they were with the conference and one of them was an organiser. 
 
-![The pre-conference reception](phd/../../../phd/Pictures/Fpi2.png)
+![The pre-conference reception](phd/../../../phd/pictures/fpi2.png)
 *Img caption.* The pre-conference reception. 
 
 They were very nice and I felt happy that I had arrived early, because I spent about half an hour sitting with them upstairs. I had finished 3x aperol spritz before anyone else arrived (it was an open bar). At 6.30 pm, I ate some of the food that was served and even though it was just basic finger food, it tasted amazing. I ate the most amazing spinach & cheese triangles and seaweed/rice rolls. 
@@ -491,7 +491,7 @@ Today was the last day of the conference. I woke up at 7 am and packed up the Ai
 As getting around is difficult, I have been very limited in the things that I could do. I did not run since the first day I arrived because it has been way too hot or raining. I have been using Uber. Before this trip, I have used it only once in my life - shows you how desperate I was. 
 
 The Uber arrived at 8.30 am this morning. I left my bags at the reception of the Raleigh Convention Centre and attended all the sessions. The conference ended at 12.30 pm. Afterwards, I walked across the street to a vegan restaurant and sat with a few people from the conference. I enjoyed an impossible burger and fries. Once I paid the check, I headed to a brewery, Crankshaft, close by to buy some take-away beers for Nick (as a gift for our anniversary. Yes we've been together for 1 year as of 17 June). Of course, I had a tasting paddle to choose which beer that I wanted.  
-![[Picture 2.png]]
+![Crankshaft Brewery](imgs/usa23/crank-shaft.png)
 *Img caption.* Crankshaft Brewery
 
 At 2.30 pm, I called an Uber for the airport and arrived really early for my flight. I was very nervous as I was convinced that I would miss the connecting flight - since there was only a 1 hour layover. My worries were correct, because at 6.30 pm, just 45 minutes before boarding, they announced that the flight will be delayed by 3 hours. 
@@ -506,14 +506,14 @@ I had a good sleep and caught the shuttle bus back to the airport at 7 am. From 
 
 The minute that I saw the views of the mountains in San Francisco, I was so excited for the day. It was the coolest landing that I have ever experienced - we were so close to the water and then we quickly touched the land. Exiting the airport was very simple, and as I was heading to the AirTrain, I ran into an old couple with their dog. I asked if I could pat her and then we talked for about 5 minutes. They gave me some tips for the city. 
 
-![The positive of a delayed flight](Imgs/usa23/usa-SF-plane.png)
+![The positive of a delayed flight](imgs/usa23/usa-SF-plane.png)
 *Img caption.* First impressions of San Francisco: I love it!
 
 I jumped on the train for $10 USD - the guard on the platform let me connect to his hotspot (because for some reason I had no reception) to add the transport card, *Clipper*, to my apple wallet. 30 minutes later, I was in the city. I got off the train at Powell St. I walked around for a little bit and then hopped on a bus to the Fisherman's wharf. I enjoyed an egg sandwich on the beach, before walking to the Golden Gate Bridge. 
 
 The Golden Gate Bridge was amazing! The views of the water, mountain and bridge made me feel so happy. My first thoughts were "I wish I could run up that mountain." I enjoyed walking around until my toes started to blister (I wore the wrong shoes today). At 4.30 pm, I hopped on the bus back to Powell Street, where I ate a mac and cheese at a diner. 
 
-!["OMG the Golden Gate Bridge is there"](Imgs/usa23/usa-sf.png)
+!["OMG the Golden Gate Bridge is there"](imgs/usa23/usa-sf.png)
 *Img caption.* The Golden Gate Bridge!!
 
 I got the 6 pm bus to the airport - which saved me money as it only cost $2. I arrived 4 hours early for my flight. I sat and watched Netflix, content with my day. Despite how stressful yesterday was, I am happy that I got to see some of San Francisco. It definitely turned an almost sour mood into a more positive outlook on travelling in the U.S. 
