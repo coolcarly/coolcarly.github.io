@@ -3,7 +3,7 @@ title: Fpi15 conference 17-21 June 2023
 sidebar_position: 4
 ---
 
-![Welcome to Fpi15](../pictures/Fpi1.png)
+![Welcome to Fpi15](../pictures/fpi1.png)
 *Img caption.* Welcome to the Fpi15 conference! 
 
 The Fpi15 conference ran from 16-21 June 2023 in Raleigh, North Carolina. The theme of this conference is *pi-electron systems* - which cover conjugated organics and their applications. On Friday 16 June 2023, there was a welcome reception to kick off the conference. The American "long weekend" consisted of 4.5 days of amazing talks. There was a poster session in the evening on the *Juneteenth* American holiday, and a banquet on the evening of 20 June. Overall it was a great conference, and I got to meet many people who inspired me. I feel motivated to finish my PhD and begin my career in science. 
@@ -12,7 +12,7 @@ From the first day at the Welcome reception, I already knew it would be a great 
 
 Some highlights of that night was speaking with Prof. John Reynolds - a super star in conducting polymer synthesis! He was so kind and introduced me to a few other academics. I also met a lot of cool PhD students and post-docs who I continued to get to know throughout the conference. 
 
-![The pre-conference reception](../pictures/Fpi2.png)
+![The pre-conference reception](../pictures/fpi2.png)
 *Img caption.* The pre-conference reception. 
 
 The first day of the conference was Saturday (17 June 2023). It was pretty strange that the conference started on a Saturday. Not that it bothered me though, all the days seem to blur as I was travelling for sometime prior to the conference. Turns out that the organisers selected these dates as they were the only ones available at the time. 
@@ -32,7 +32,7 @@ The general structure of the conference was:
 Each session was divided into three-coherent streams in Room 301, 302 and 303 - so in each session there was 12 talks in total. This equates to 144 speakers in total. 
 
 Almost everyone at the conference had a presentation. For most of the students, they presented posters during the poster session on Monday night (19/6). Not many students gave oral presentations - which meant that I was selected to present over many other students. This made me feel really good. 
-![poster session](../pictures/Fpi4.png)
+![poster session](../pictures/fpi4.png)
 *Img caption.* A snap at the poster session on Monday evening. 
 
 My presentation was on Monday at 11:40 am in Room 301 (doping). I was really nervous beforehand as a lot of the talks were really good and I was afraid that I would not live up to the great work that other people are doing. Immediately after my 20 min talk, I sat down and just had my head down, in sheer embarrassment. This all went away when an academic, Kevin Noonan, approached me to compliment me and give me some tips to help with my experiments (**I love the tips**). 
