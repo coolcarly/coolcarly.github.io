@@ -1,8 +1,8 @@
 ---
-title: PhD
+title: My PhD
 sidebar_position: 1
 pagination_prev: null
 ---
-
-
+### About 
+In this sidebar, I will post about things related to my PhD. I will try to add things before 2023 (when I created the website) but this may take some time. To see the science that I did during my PhD, check out the [Science](/docs/science/index.md) sidebar. I plan to upload my entire thesis in "plain english" on this website - but don't expect to see this until next year, when I finally submit. 
 

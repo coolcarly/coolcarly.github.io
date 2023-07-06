@@ -4,7 +4,15 @@ title: Home
 hide_table_of_contents: false
 ---
 # Welcome
+
 ![Morning paddles](/img/homepage-hero.png)
+
+## How to navigate
+This website is about random stuff, science and life! 
+
+Anything that I add to this website will be updated in the [blog navigation bar](/blog), along with random anecdotes that didn't fit in any of the other sections. 
+
+I am still working to make this better. 
 
 ## About me
 - Studied a BSc(hons), with a major in Chemistry and [polymer science](/science/polymer-science/polymers) 
