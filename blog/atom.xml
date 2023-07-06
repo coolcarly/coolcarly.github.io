@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coolcarly.github.io/blog</id>
     <title>Carly.cool Blog</title>
-    <updated>2023-07-01T00:00:00.000Z</updated>
+    <updated>2023-07-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coolcarly.github.io/blog"/>
     <subtitle>Carly.cool Blog</subtitle>
     <icon>https://coolcarly.github.io/img/my-icon-favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[History of carly.cool]]></title>
+        <id>https://coolcarly.github.io/blog/2023/07/06/2023-07/</id>
+        <link href="https://coolcarly.github.io/blog/2023/07/06/2023-07/"/>
+        <updated>2023-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are live with the new website!]]></summary>
+        <content type="html"><![CDATA[<p>We are live with the new website! </p><p>Let's not forget how the homepage looked just yesterday!</p><p><img loading="lazy" alt="The first homepage of carly.cool" src="/assets/images/version1-website-701117e0af7c74607570009258cf9c9b.png" width="1418" height="1253" class="img_ev3q"></p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Website!]]></title>
         <id>https://coolcarly.github.io/blog/new-website</id>

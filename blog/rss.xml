@@ -4,10 +4,18 @@
         <title>Carly.cool Blog</title>
         <link>https://coolcarly.github.io/blog</link>
         <description>Carly.cool Blog</description>
-        <lastBuildDate>Sat, 01 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[History of carly.cool]]></title>
+            <link>https://coolcarly.github.io/blog/2023/07/06/2023-07/</link>
+            <guid>https://coolcarly.github.io/blog/2023/07/06/2023-07/</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We are live with the new website!]]></description>
+            <content:encoded><![CDATA[<p>We are live with the new website! </p><p>Let's not forget how the homepage looked just yesterday!</p><p><img loading="lazy" alt="The first homepage of carly.cool" src="/assets/images/version1-website-701117e0af7c74607570009258cf9c9b.png" width="1418" height="1253" class="img_ev3q"></p>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[New Website!]]></title>
             <link>https://coolcarly.github.io/blog/new-website</link>
