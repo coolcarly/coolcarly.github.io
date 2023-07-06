@@ -491,7 +491,7 @@ Today was the last day of the conference. I woke up at 7 am and packed up the Ai
 As getting around is difficult, I have been very limited in the things that I could do. I did not run since the first day I arrived because it has been way too hot or raining. I have been using Uber. Before this trip, I have used it only once in my life - shows you how desperate I was. 
 
 The Uber arrived at 8.30 am this morning. I left my bags at the reception of the Raleigh Convention Centre and attended all the sessions. The conference ended at 12.30 pm. Afterwards, I walked across the street to a vegan restaurant and sat with a few people from the conference. I enjoyed an impossible burger and fries. Once I paid the check, I headed to a brewery, Crankshaft, close by to buy some take-away beers for Nick (as a gift for our anniversary. Yes we've been together for 1 year as of 17 June). Of course, I had a tasting paddle to choose which beer that I wanted.  
-![Crankshaft Brewery](imgs/usa23/crank-shaft.png)
+![Crankshaft Brewery](imgs/usa23/crankshaft.png)
 *Img caption.* Crankshaft Brewery
 
 At 2.30 pm, I called an Uber for the airport and arrived really early for my flight. I was very nervous as I was convinced that I would miss the connecting flight - since there was only a 1 hour layover. My worries were correct, because at 6.30 pm, just 45 minutes before boarding, they announced that the flight will be delayed by 3 hours. 
@@ -506,7 +506,7 @@ I had a good sleep and caught the shuttle bus back to the airport at 7 am. From 
 
 The minute that I saw the views of the mountains in San Francisco, I was so excited for the day. It was the coolest landing that I have ever experienced - we were so close to the water and then we quickly touched the land. Exiting the airport was very simple, and as I was heading to the AirTrain, I ran into an old couple with their dog. I asked if I could pat her and then we talked for about 5 minutes. They gave me some tips for the city. 
 
-![The positive of a delayed flight](imgs/usa23/usa-SF-plane.png)
+![The positive of a delayed flight](imgs/usa23/usa-sf-plane.png)
 *Img caption.* First impressions of San Francisco: I love it!
 
 I jumped on the train for $10 USD - the guard on the platform let me connect to his hotspot (because for some reason I had no reception) to add the transport card, *Clipper*, to my apple wallet. 30 minutes later, I was in the city. I got off the train at Powell St. I walked around for a little bit and then hopped on a bus to the Fisherman's wharf. I enjoyed an egg sandwich on the beach, before walking to the Golden Gate Bridge. 

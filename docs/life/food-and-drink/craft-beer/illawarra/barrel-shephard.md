@@ -6,7 +6,7 @@ title: The Barrel Shephard
 ![inside the Barrel Shephard](../pictures/barrel-shephard2.png)
 *Img caption.* Walking into the seated area of the Barrel Shephard. 
 
-##### 25.2.23
+### 25.2.23
 As we were walking home from the [Wolf & Woman Distillery](../distilleries/wolf-and-woman-distillery) we saw a sign to indicate that there was a brewery around the corner. We followed the sign and ended up at The Barrel Shephard brewery or "blendary". Their specialty are sour beers and their beers are aged in oak! It was a cool mixture of beer and wine. 
 
 The most amazing thing about this place is that they try to use the left-over fruit and vegetables, even grape skins to maranade their drinks, helping the planet by preventing food waste. 
@@ -21,7 +21,7 @@ After our tasting paddle, we ate a burrito each from the Amigos foodtruck that w
 
 The only thing that is not great for this brewery is that it is only open on Fridays 4-7 pm and Saturday's 12-7 pm. I guess it may be from a limited liquor license. Anyway, it is a close walk for us, so it can be an afternoon treat 😊
 
-###### 28.4.23: Friday treat 
+### 28.4.23: Friday treat 
 After work, Nick and I walked with Chip down to the Barrel Sheppard. Tonight, they were serving woodfired pizza from Cirosza pizza. When we arrived, we sat at a table and stools and then I approached the bar and ordered two beers: The Table beer and the Brett Saison. Both had similar tastes, just the Brett Saison was more like a sour, while the table beer was more like a standard lager/belgian beer. 
 
 Next, we ordered pizza: A potato/rosemary pizza initially and wow this pizza was amazing. The sauce that was ontop was 10/10. We ate this with our beers. It matched really well.

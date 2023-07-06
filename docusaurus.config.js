@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Carly.cool',
   tagline: '',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/my-icon-favicon.ico',
 
   // Set the production url of your site here
   url: 'https://coolcarly.github.io',
@@ -68,7 +68,7 @@ const config = {
         title: 'Carly.cool',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.png',
         },
         items: [
           {
@@ -124,7 +124,7 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Carly Baker.`,
       },
-      prism: {
+        prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },

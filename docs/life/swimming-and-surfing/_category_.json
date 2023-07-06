@@ -1,6 +1,9 @@
 {
     "position": 2,
     "label": "Swimming and surfing",
+    "link": {
+       "type": "generated-index"
+    },
     "collapsible": true,
     "collapsed": false
 }

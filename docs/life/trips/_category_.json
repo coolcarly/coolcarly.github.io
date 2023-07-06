@@ -1,6 +1,9 @@
 {
     "position": 5,
     "label": "Trips",
+    "link": {
+           "type": "generated-index"
+       },
     "collapsible": true,
     "collapsed": false
 }

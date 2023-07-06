@@ -7,17 +7,17 @@ There are many things to do in the illawarra and after living here for a few yea
 
 This is a blog about some of the random day trips that I have taken in the illawarra. 
 
-###### 23.5.23: A trip to  #StanwellPark & #Helensburg
+### 23.5.23: A trip to  StanwellPark & Helensburg
 *Highlight:* Gelatoman Icecreamery. 
 
 On this day, I was a little hungover from [[Paul's surprise wedding]]. After breakfast, we went for a walk and then decided to head to Helensburg to try gelato from a highly reviewed gelatoshop, Gelatoman. 
 
-On the way, we stopped at Bald Hill in Stanwell Park. Here, we had a coffee (which was expensive, but alright) and then watched the paragliders for about 30-40 minutes while we drank our coffee on the hill. ![[bald hil.png]]
+On the way, we stopped at Bald Hill in Stanwell Park. Here, we had a coffee (which was expensive, but alright) and then watched the paragliders for about 30-40 minutes while we drank our coffee on the hill. ![Bald hill](imgs/bald-hill.png)
 
 By 11.30 am, we were finished our coffees and then headed to Helensburg. Honestly, the vibe that I got from Helesburg was similar to any other Sydney Suburban town/city. Nick said that it reminded him of Panania. 
 
 We had lunch at a cafe called Coffee Shack. It was really basic and the thing that was the biggest rip off is that I paid an extra $4 to get fries with my burger. I was expecting a bowl of fries (it was $7 on the menu). Instead, I literally got a handfull of fries. This made me really upset. On top of that the vege burger was just okay. Nothing special. Nick ordered a Double egg and bacon burger and said it was good. 
-![[Picture14 2.png]]
+![My disappointing burger](imgs/food-helensburg.png)
 *Img caption.* My disappointing burger and $4 fries. 
 
 Safe to say though, that I would never go back here. 
