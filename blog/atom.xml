@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coolcarly.github.io/blog"/>
     <subtitle>Carly.cool Blog</subtitle>
-    <icon>https://coolcarly.github.io/img/favicon.ico</icon>
+    <icon>https://coolcarly.github.io/img/my-icon-favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[New Website!]]></title>
         <id>https://coolcarly.github.io/blog/new-website</id>
@@ -43,5 +43,13 @@ Standard Monday workday. I feel too tired to go to the lab. I decided to work fr
         <summary type="html"><![CDATA[On this day, I arrived home from USA and headed straight to mum's to get ready for Zayne's First Birthday and Baptism.]]></summary>
         <content type="html"><![CDATA[<p>On this day, I arrived home from <a href="/life/trips/usa">USA</a> and headed straight to mum's to get ready for <a href="/life/events/2023/zayne-bday-1">Zayne's First Birthday and Baptism</a>. </p><p><img loading="lazy" alt="Zayne" src="/assets/images/zayne1-2fa02b8a2368813f24431c87668e431f.png" width="3130" height="1297" class="img_ev3q">
 Zayne, my littlest love.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardly working]]></title>
+        <id>https://coolcarly.github.io/blog/2023/02/25/2023-02/</id>
+        <link href="https://coolcarly.github.io/blog/2023/02/25/2023-02/"/>
+        <updated>2023-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hardly working]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Hardly working" src="/assets/images/hardly-working-f6a45b1113ab407f92157965980c2bdf.png" width="3355" height="1415" class="img_ev3q"></p><p>My day=trying to write but just cuddling with Chip.</p>]]></content>
     </entry>
 </feed>
