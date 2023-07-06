@@ -6,6 +6,7 @@ title: Direct Arylation polymerisation
 In the polymer community, DArP is considered to be the eco-friendly alternative for polymer synthesis. In conventional coupling reactions such as Stille and Suzuki methods, excessive prefunctionalisation of monomers with boranes or stananes are required. This requires lagre amounts of solvents to run multiple columns as well as harsh reaction conditions, all in turn resulting in a poor atomic efficiency.[1, 2]
 
 Direct Arylation polymerisation (DArp) only requires half of the monomers to be prefunctionalised with bromine groups, which is a relatively straight forward reaction.[3] In my PhD, I have synthesised monomers with di-bromo groups. An example is the dibromination of 3,4-ethylenedioxythiophene via n-bromosuccimide (Fig 1). The impurities in this reaction can be washed away with NaOH and water to yield a relatively pure product. Thus, column chromatography is not required.
+
 ![bromination of EDOT](../../pictures/darp1.png)
 
 *Fig 1.* Bromination of 3,4-ethylenedioxythiophene. 
