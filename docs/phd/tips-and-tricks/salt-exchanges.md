@@ -1,5 +1,5 @@
 ---
-title: simple salt exchanges
+title: Simple salt exchanges
 ---
 
 I didn’t do chemistry as a subject at high school. Somehow, I found my way to a PhD in chemistry. It wasn’t because I was particularly good at it either. It seemed like magic, and from the first time I did an organic extraction, I wanted my life to be all about chemistry. 
