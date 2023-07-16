@@ -1,6 +1,6 @@
 {
-    "position": 2,
+    "position": 3,
     "label": "Conferences",
     "collapsible": true,
-    "collapsed": false
+    "collapsed": true
 }

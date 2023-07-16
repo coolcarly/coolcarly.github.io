@@ -1,5 +1,6 @@
 ---
 title: Reub Goldberg Brewing Machine
+sidebar_position: 1
 ---
 ### About: 
 - Location: Tarrawanna

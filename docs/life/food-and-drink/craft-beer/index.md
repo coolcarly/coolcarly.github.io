@@ -19,6 +19,7 @@ This is basically a blog of the breweries that I have visited, with the beers th
 - [Reub Goldberg Brewing Machine](./illawarra/rgbm.md)
 - [The Barrel Shephard](./illawarra/barrel-shephard.md)
 - [Five Barrel Brewing](./illawarra/five-barrel-brewing.md)
+- [Principle Brewing](./illawarra/priciple-brewing.md)
 
 ### North Coast NSW
 - [The Coastal Brewery](./north-coast-nsw/coastal-brewery.md)

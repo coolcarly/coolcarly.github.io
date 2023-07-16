@@ -1,5 +1,6 @@
 ---
 title: The Barrel Shephard
+sidebar_position: 2
 ---
 # The Barrel Shephard
 - Located 16a Bellambi Ln, Bellambi NSW 2518

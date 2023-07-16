@@ -1,5 +1,6 @@
 ---
 title: Five Barrel Brewing
+sidebar_position: 3
 ---
 - Location: 318 Keira St, Wollongong, NSW
   

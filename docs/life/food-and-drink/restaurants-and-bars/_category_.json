@@ -1,6 +1,9 @@
 {
-    "position": 3,
+    "position": 2,
     "label": "Restaurants and bars",
+    "link": {
+        "type": "generated-index"
+    },
     "collapsible": true,
-    "collapsed": false
+    "collapsed": true
 }

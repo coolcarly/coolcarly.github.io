@@ -22,3 +22,6 @@ I am still working to make this better.
 - If I am not working on my thesis or hanging out with Nick or Chip, I spend most of my time at the beach [paddling or swimming](/life/swimming-and-surfing). I really love that community vibe. 
 - I am using this blog to improve my writing skills, but also as a tool to improve my mental wellbeing. 
 
+
+### Contact details
+✉️ hello@carly.cool

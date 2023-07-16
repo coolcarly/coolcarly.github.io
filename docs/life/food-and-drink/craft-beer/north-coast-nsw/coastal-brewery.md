@@ -1,7 +1,6 @@
 ---
-dg-publish: true
+title: The Coastal Brewery
 ---
-# The Coastal Brewery
 - Location: 3 Dalman St, Forster, NSW 2428
 
 ### 7-9 April 2023
