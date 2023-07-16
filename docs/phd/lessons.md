@@ -1,6 +1,6 @@
 ---
 title: Lessons from my PhD
-sidebar_position: 2
+sidebar_position: 3
 draft: false
 ---
 

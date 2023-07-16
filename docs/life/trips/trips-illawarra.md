@@ -2,12 +2,11 @@
 title: Trips in the illawarra
 draft: true
 ---
-# Trips in the Illawarra
 There are many things to do in the illawarra and after living here for a few years, I've realised that I have done quite a bit. I know a lot of people want to know what they can do and where they can explore or what is on offer in certain destinations. 
 
 This is a blog about some of the random day trips that I have taken in the illawarra. 
 
-### 23.5.23: A trip to  StanwellPark & Helensburg
+### 23.5.23: A trip to  Stanwell Park & Helensburg
 *Highlight:* Gelatoman Icecreamery. 
 
 On this day, I was a little hungover from [[Paul's surprise wedding]]. After breakfast, we went for a walk and then decided to head to Helensburg to try gelato from a highly reviewed gelatoshop, Gelatoman. 

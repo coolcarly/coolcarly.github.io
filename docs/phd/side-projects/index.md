@@ -1,5 +1,6 @@
 ---
 title: Side projects
+sidebar_position: 5
 ---
 
 # Starting a new side-project with only a few months left in my PhD. 
