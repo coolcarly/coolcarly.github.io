@@ -8,4 +8,4 @@ Like many other fields of research, polymer science has it's own jargon. There a
 ### Key terms:
 - [Regioregularity](/docs/science/polymer-science/properties/regioregularity.md)
 - [Tacticity](/science/polymer-science/properties/tacticity.md)
-- [Band-gaps](./conducting-polymers/Conduction/conduction-band-gap.md)
+- [Band-gaps](/docs/science/polymer-science/conducting-polymers/conduction/conduction-band-gap.md)
