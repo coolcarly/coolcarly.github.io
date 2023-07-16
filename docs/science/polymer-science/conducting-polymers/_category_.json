@@ -1,6 +1,9 @@
 {
-    "position": 4,
+    "position": 6,
     "label": "Semi-conducting polymers",
+    "link": {
+        "type": "generated-index"
+     },
     "collapsible": true,
-    "collapsed": false
+    "collapsed": true
 }

@@ -14,6 +14,8 @@ Anything that I add to this website will be updated in the [blog navigation bar]
 
 I am still working to make this better. 
 
+If you want to comment on some content, you can send a comment via the Home tab in each side-bar: Life, Science or PhD. 
+
 ## About me
 - Studied a BSc(hons), with a major in Chemistry and [polymer science](/science/polymer-science/polymers) 
 - Currently in 3rd year of PhD in polymer science, with an application in [Organic bioelectronics](/science/organic-bioelectronics)

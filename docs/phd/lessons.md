@@ -1,14 +1,12 @@
 ---
 title: Lessons from my PhD
 sidebar_position: 2
+draft: false
 ---
 
 *Note:* This is a page about struggles and victories during my PhD. I am currently in my third year of PhD. This means that I am writing and finishing up experimental work. Why not share some of the things that I have been going through and some things that I have learned? 
 
 I also have a post about [Things to consider before starting a PhD](./considerations-for-phd.md)
-
-![[Picture4 2.png]]
-*Img caption*. My PhD as a whole has been a pretty great experience. I love research and making things in the lab and then analysing what I've made. This must be what it is like to have a child. I feel like I am creating something from nothing.
 
 #### If you're worried that you have no data in your first two years, Don't stress. A PhD can be done in under a year. 
 
@@ -46,7 +44,6 @@ In a multistep synthesis, I’ve been trying to prepare a cholesteryl triethylen
 Since Oct 2021, I have completed my other chapters (mostly). All I need is this material. For the last month, I have been looking over my data and trying to see what went wrong. I set up a few little experiments but in the end, I needed to pay more attention to detail.
 
 In the Figure  below, the original synthesis resulted in an alcohol group from mixing with NaOH: The hydroxide cleaves the tosylate. Therefore my reaction worked initially. However, overtime, I changed the reaction condition to MeOH/NaOH and instead of getting cleavage of the tosylate group, I ended up substituting for an  -OCH<sub>3</sub> group! I needed to pay attention to the <sup>1</sup>H NMR spectrum, because it showed this specific group. Wow, I had overlooked it.
-![[untitled 1.png]]
 
 
 I wonder where I would be right now, if I had just sat down and really looked at what is happening. Would I have a few papers? Be close to submission? Who cares because at the end of the day, I have learned a valuable lesson, after all it is a Research Training Degree.
@@ -63,13 +60,11 @@ Ahhhhhhhhh!!! For the last 6-7 months of my PhD, I've been trying to remake a mo
 Over the past month, I've attempted to dry the THF. First I tried molecular sieves, but they didn't work because we cannot properly activate them. Next, I tried to soak in sodium metal. It seems to work, but there was a very big layer of sodium hydroxide that formed at the bottom and when I tested the dryness with benzophenone (it should be a deep blue colour when its dry),, it was still wet! 
 
 Next, I set up a distillation. The idea here is that the sodium will soak up the water and it is facilitated by heat. After it is dry, I can use the tap under the condensor to collect dry THF. Yet, after boiling it all day today, it is still not dry!!!!! **Why?** So frustrating. 
-![[Picture14.png]]
-*Img caption:* second attempt to dry the THF with sodium metal. 
+
 
 ##### 17.3.23
 The THF was still not dry after a few days. I disposed of the THF. I then opened a fresh bottle and then recycled the sodium from the last THF (by cutting up the sodium pieces into smaller bits). Next, I added benzophenone and it started to turn blue. However, Pawel doesn't like me refluxing it overnight as it is a hazard, so I left it overnight. When I came in on the Friday, it had turned white: a nice layer of NaOH. I was close to a mental breakdown. I added some fresh sodium, and refluxed it for 1 hour and it still didn't dry!!!! But the thing is, the solvent doesn't need to be 100% dry for my reactions. I distilled out a bit of THF and set up a 0.1 g reaction scale (5 mL). Usually the material will turn pink but this time it remained white. I always thought the pink was a sign that the starting material l is reacting, but now I am realising that it may just be wet and the pink colour is a natural indicator? I guess we will see the outcome on Monday when I work up this reaction.  
-![[Picture15.png]]
-*Img caption:* Colour changes of my reactions just by drying the solvent a bit more. 
+
 
 #### From the start of your PhD everything you write can be used later. Make sure to keep the notes organised. Optimise your system to refer to them early on!
 ##### 13.3.23

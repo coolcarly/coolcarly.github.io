@@ -1,6 +1,9 @@
 {
     "position": 2,
     "label": "Polymer Science",
+    "link": {
+        "type": "generated-index"
+     },
     "collapsible": true,
     "collapsed": true
 }

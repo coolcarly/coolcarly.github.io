@@ -1,6 +1,9 @@
 {
-    "position": 4,
+    "position": 5,
     "label": "Properties",
+    "link": {
+        "type": "generated-index"
+     },
     "collapsible": true,
-    "collapsed": false
+    "collapsed": true
 }

@@ -1,6 +1,6 @@
 ---
 title: Polymers
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 Polymers are life. Literally. We are made of polymers – whether it be the proteins that make our muscles, or the proteins we eat, to the clothes we wear. Most of the materials in our life that we take for granted are polymers.
