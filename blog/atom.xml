@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coolcarly.github.io/blog</id>
     <title>Carly.cool Blog</title>
-    <updated>2023-07-16T00:00:00.000Z</updated>
+    <updated>2023-07-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coolcarly.github.io/blog"/>
     <subtitle>Carly.cool Blog</subtitle>
     <icon>https://coolcarly.github.io/img/my-icon-favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Date night]]></title>
+        <id>https://coolcarly.github.io/blog/2023/07/23/2023-07/</id>
+        <link href="https://coolcarly.github.io/blog/2023/07/23/2023-07/"/>
+        <updated>2023-07-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last night, Nick and I went to the movies to watch Oppenheimer, followed by dinner at Din Tai Fung in Miranda. The movie was really good, it told the story of Robert J Oppenheimer, a theoretical phyicist who helped to build the atomic bomb. I read some other reviews online. They say that Christopher Nolan got a lot of the biography right, with only a little bit of dramatisation.]]></summary>
+        <content type="html"><![CDATA[<p>Last night, Nick and I went to the movies to watch Oppenheimer, followed by dinner at Din Tai Fung in Miranda. The movie was really good, it told the story of Robert J Oppenheimer, a theoretical phyicist who helped to build the atomic bomb. I read some other reviews online. They say that Christopher Nolan got a lot of the biography right, with only a little bit of dramatisation. </p><p>We sat on the beds at the front of the cinema. It was so comfortable and I was so happy that we chose those seats because it was a 3 hour movie! The alternative seating would've been wildly uncomfortable. </p><p>Dinner afterwards was also really great. We had dumplings and steamed buns! Yummy. </p><img loading="lazy" src="/assets/images/dumplings-buns-3e28292d534284e77a7f98dc5ba26e79.jpeg" width="40%" class="centered-image img_ev3q">]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My shoulder]]></title>
+        <id>https://coolcarly.github.io/blog/2023/07/17/2023-07/</id>
+        <link href="https://coolcarly.github.io/blog/2023/07/17/2023-07/"/>
+        <updated>2023-07-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An update on my shoulder(]]></summary>
+        <content type="html"><![CDATA[<p>An update on my shoulder: On 31 May, I fell off my paddle board and hit the right side of my body on the ground (the waves were very dumping at NW beach). As a result, I could barely move my arm or shoulder. As of last week, my shoulder was not in good shape - even after 5 weeks! Last week, I went for an xray. The doctor says that there may be some form of a fracture in my scapula bone. She requested that I get a CT scan. :(</p>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Update]]></title>
         <id>https://coolcarly.github.io/blog/2023/07/16/2023-07/</id>
