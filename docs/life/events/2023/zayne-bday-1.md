@@ -1,11 +1,8 @@
 ---
 title: Zayne's first birthday & baptism
 ---
+### Prologue
 
-# Zayne's first birthday & baptism
-**24.6.23**
-
-###Prologue
 Previously, my sister asked Nathan, Luke and I to be the god parents of Zayne. She asked us to come over for dinner and then asked us through a nice gift: 
 
 ![A very kind gesture from my sister](pictures/zayne-godparent.png)
@@ -22,7 +19,7 @@ I am not saying that it is not real, because no-one knows for sure. I am just sa
 
 -----------------------------------------------------------------------
 
-On 24 June 2023, I landed in Sydney after 3 weeks in the U.S. for travel ([[USA 2023]]) and a work conference [[Fpi15 conference]]. Straight from the airport, Nick and I headed to mum's house to get ready for Zayne's baptism at Denim Court Anglican Church. We arrived at mum's by 8.30 am and I was ready to go within the hour. 
+On 24 June 2023, I landed in Sydney after 3 weeks in the [U.S. for travel](/docs/life/trips/usa.md) and a work conference [Fpi15 conference](/docs/phd/conferences/fpi15-conference.md). Straight from the airport, Nick and I headed to mum's house to get ready for Zayne's baptism at Denim Court Anglican Church. We arrived at mum's by 8.30 am and I was ready to go within the hour. 
 ![my siblings and I with baby Zayne](pictures/zaynesbday2.png)
 *Img caption.* My siblings and I with Baby Zayne. 
 
