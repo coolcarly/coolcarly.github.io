@@ -1,7 +1,7 @@
 ---
 title: Lessons from my PhD
 sidebar_position: 3
-draft: false
+draft: true
 ---
 
 *Note:* This is a page about struggles and victories during my PhD. I am currently in my third year of PhD. This means that I am writing and finishing up experimental work. Why not share some of the things that I have been going through and some things that I have learned? 
