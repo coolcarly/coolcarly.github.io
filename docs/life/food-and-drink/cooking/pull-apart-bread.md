@@ -1,6 +1,5 @@
 ---
 title: Pull apart bread
-draft: true
 ---
 
 # Pull apart bread 
