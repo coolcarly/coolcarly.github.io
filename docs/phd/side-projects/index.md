@@ -5,7 +5,7 @@ sidebar_position: 5
 
 # Starting a new side-project with only a few months left in my PhD. 
 
-### 2023-05-12
+### 12.5.23
 
 
 I am a polymer chemist. Synthesising new polymers is like going on a crazy adventure - it is so exciting. I love creating new polymers with interesting macro-architectures that could have applications in the real world. For example, during my honour’s year at the University of Sydney, I synthesised molecular polymer brushes for potential cartilage replacements. These are polymers with branches extending off the chain to literally look like a bottlebrush (on the nanoscale).
@@ -42,5 +42,11 @@ Special note for PhD students struggling in their first year.. It really doesn't
 
 Now, I am ready to get back to writing my thesis and finishing my PhD. 
 
+### 4.8.23
+As I have been writing my thesis, I have incorporated all the polymers synthesised by direct arylation polymerisation in my final chapter: titled "Improving the ordering". 
+
+Today in particular, I was not feeling like writing, which is a big change from other days when I've loved writing. Instead, I went into the lab to set up the monomer synthesis (the one that kept failing). While doing this, I came across a set of dibrominated compounds that I made in my first/second year. During my first two years, I spent a lot of time synthesising monomers that I didn't end up using. 
+
+I decided to set up another direct arylation polymerisation with a different brominated monomer, but the same hydrogenated monomer. I set up a small 1 mL/200 mg scale (to justify the synthesis as I hate waste!!) and when I left the lab, it was looking very promising. 
 
 

@@ -518,6 +518,8 @@ The Golden Gate Bridge was amazing! The views of the water, mountain and bridge 
 
 I got the 6 pm bus to the airport - which saved me money as it only cost $2. I arrived 4 hours early for my flight. I sat and watched Netflix, content with my day. Despite how stressful yesterday was, I am happy that I got to see some of San Francisco. It definitely turned an almost sour mood into a more positive outlook on travelling in the U.S. 
 
+### ✈️ San Francisco to Sydney
+
 On the flight home, I had a whole row to myself. For the most of the 14 hour flight, I slept, laying out across the four empty seats. I woke only to eat (we were served dinner, a snack and then breakfast) and then watched some pre-downloaded shows to put myself back to sleep afterward. United airlines certainly made up for all the stress that they put me through. 
 
 **24.6.23**

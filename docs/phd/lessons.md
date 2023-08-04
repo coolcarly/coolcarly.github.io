@@ -7,8 +7,12 @@ draft: true
 *Note:* This is a page about struggles and victories during my PhD. I am currently in my third year of PhD. This means that I am writing and finishing up experimental work. Why not share some of the things that I have been going through and some things that I have learned? 
 
 I also have a post about [Things to consider before starting a PhD](./considerations-for-phd.md)
+If I could do my PhD differently, what would I do? Check it out here. 
 
-#### If you're worried that you have no data in your first two years, Don't stress. A PhD can be done in under a year. 
+## You don't have to agree with your supervisors. 
+Throughout my PhD, my supervisors would tell me experiments to do. I would always listen to them and do the experiments that were suggested (sometimes I thought they were not relevant). Then, when I'd present the data a week later, I would get comments like "why did you do this?" "why waste your time on this?". It was very frustrating; however, I have learned to make a note of what they say and only do it if I believe it is valuable. Also, if they tell me to do the experiment 3 times (at different time points), then I will do it, because I can guarantee that in every meeting, they forget what happened at the previous one.
+
+## If you're worried that you have no data in your first two years, Don't stress. A PhD can be done in under a year. 
 
 Its true. A PhD is a process. You learn, you get trained on how to do research, you make mistakes and stress over the smallest things. But everything you do in your first two years only builds you up to be a better researcher. 
 
@@ -18,15 +22,15 @@ Its true. A PhD is a process. You learn, you get trained on how to do research, 
 
 Therefore, the take home message should be: **be kind to yourself.** Enjoy the learning process and spend this time working on yourself, because it is really the only time you will get. 
 
-#### Keep an Ideas notebook
+## Keep an Ideas notebook
 
-The thing that I have learned in my PhD is that not all ideas are good. Some are bad, and while making mistakes helps you learn, sometimes it is not worth your time. At the start of my third year of uni, I decided that whenever I had an idea, I would write it down in a word document that I kept on my cloud. I would add different ideas in there, whether it was about reactions or applications or things to write about, paper ideas. It is only when my mind returns to that idea constantly that I decide to do it. 
+The thing that I have learned in my PhD is that not all ideas are good. Some are bad, and while making mistakes helps you learn, sometimes it is not worth your time. At the start of my third year, I decided that whenever I had an idea, I would write it down in a word document that I kept on my cloud. I would add different ideas in there, whether it was about reactions or applications or things to write about, paper ideas. It is only when my mind returns to that idea constantly that I decide to do it. 
 
-#### Teaching compliments lab work
+## Teaching compliments lab work
 
 If I have any advice for PhD students, it is to take on some teaching. Teaching high-school and undergraduate chemistry forced me to relearn really basic chemistry concepts that complimented some of the things I was doing in the lab. A classic example is in [[Salt exchanges]]. Simple chemistries are often overlooked when doing more complicated chemistries such as a PhD project. It helps to go back to fundamentals and really understand what you’re doing and get paid for it.
 
-#### Take some time to think about everything you do, even if it looks like you are being unproductive.
+## Take some time to think about everything you do, even if it looks like you are being unproductive.
 
 ###### 12.4.23
 This was a hard lesson that I had to learn. Thoughout this blog, I often complain about my PhD meetings. I think it stems from the beginning when I was quite insecure of my intelligence, and was overwhelmed with imposter syndrome (Note, I still am). I think that my supervisors (mostly Damia) were quite harsh about my progress. I realise now that they were just trying to push me to be better.
@@ -43,9 +47,6 @@ In a multistep synthesis, I’ve been trying to prepare a cholesteryl triethylen
 
 Since Oct 2021, I have completed my other chapters (mostly). All I need is this material. For the last month, I have been looking over my data and trying to see what went wrong. I set up a few little experiments but in the end, I needed to pay more attention to detail.
 
-In the Figure  below, the original synthesis resulted in an alcohol group from mixing with NaOH: The hydroxide cleaves the tosylate. Therefore my reaction worked initially. However, overtime, I changed the reaction condition to MeOH/NaOH and instead of getting cleavage of the tosylate group, I ended up substituting for an  -OCH<sub>3</sub> group! I needed to pay attention to the <sup>1</sup>H NMR spectrum, because it showed this specific group. Wow, I had overlooked it.
-
-
 I wonder where I would be right now, if I had just sat down and really looked at what is happening. Would I have a few papers? Be close to submission? Who cares because at the end of the day, I have learned a valuable lesson, after all it is a Research Training Degree.
 
 ##### 13.4.23
@@ -53,7 +54,7 @@ Today I spoke about what I had figured out yesterday in my PhD meeting. To my su
 
 After the meeting I was back in the lab and setting up the correct synthesis. Lets hope it is all straight forward from here and an easier road to my thesis. 
 
-#### Attention to detail makes life much easier. The failures are telling you something and it's best to try and understand why it is failing instead of repeating over and over. 
+## Attention to detail makes life much easier. The failures are telling you something and it's best to try and understand why it is failing instead of repeating over and over. 
 ##### 14.3.23
 Ahhhhhhhhh!!! For the last 6-7 months of my PhD, I've been trying to remake a monomer: that I initially showed had really good properties and was the highlight of my research. I tried and tried and tried. Until I paused and worked on something else. Now, as I'm writing, I still need this monomer... and do you know what the problem was?? The solvent!!!!!! I was collecting the solvent from the dry solvent tap, but turns out it wasn't dry. It was something that I thought was a certainty, just goes to show that nothing is certain and everything should be checked. This whole time I thought it was my fault that the reaction wasn't working. 
 
@@ -70,7 +71,7 @@ The THF was still not dry after a few days. I disposed of the THF. I then opened
 ##### 13.3.23
 I am almost finished writing up the second chapter (experimental chapter) of my thesis. At the moment I am working on MALDI-TOF mass spectrometry and most of the things I am writing about, I had already wrote about previously  - whether it was in random document or a monthly report. Only now, I am starting to realise how important it was to organise everything. Now, I work off an app called obsidian (only thanks to my amazing boyfriend, Nick). This helps to keep all notes in one place and allows me to link files to other files. **This is a note for other honours, masters or PhD students: organising your work earlier on will save a lot of time later.** 
 
-#### Focus on one thing at a time. 
+## Focus on one thing at a time. 
 ##### 10.3.23
 Today is Friday. I feel quite relaxed even after yesterday's weekly PhD meeting (which makes me feel really stressed). Before I talk about it, I should emphasise that this week I have been quite ill. My eyes were really puffy each morning (it even looked like I was getting a stye) and my nose was really runny. I had a stress-induced cold! When I showed up to work on Tuesday, the analytical chemist at our facility, Patricia, approached me to talk about a GPC sample that Damia wanted me to analyse for her other student. I burst out in tears. Patricia was so accomodating and was happy to do it for me. It was quite nice, she even offered to do any of my future samples. This made me relax a little bit. 
 
@@ -84,7 +85,7 @@ I was quite relieved yesterday when I learned that she would not be joining our 
 ##### 29.3.23
 I think that my mind is starting to settle down: that is, I am freaking out less than before. I've smashed out the first 3 chapters of my thesis and now I'm working on Chapter 4 and 5 (the last 2 research chapters). I've tried to focus on one thing at a time: usually I spend 1-2 weeks in the lab and then 1 week writing. It is seeming to work. 
 
-#### Reminding myself to calm down because when I am calm, I can think more logically. 
+## Reminding myself to calm down because when I am calm, I can think more logically. 
 
 ###### 2.3.23
 I've been deep in freak-out mode the past couple of days. Mostly because I have given myself a dead-line of September (that is when my scholarship ends) to finish my PhD and submit my thesis but it is only 6 months away! 
@@ -99,7 +100,7 @@ After I calmed down, I went in the lab to finish some stuff off. By lunchtime I 
 
 What I learned is that when I calm down, I can think more logically and things make more sense, and repeating failed experiments is sometimes a good thing - as it convinces you that it wasn't human error. 
 
-#### Experiments, everything you do just for fun, can be useful when writing up. Just remember to take good notes!
+## Experiments, everything you do just for fun, can be useful when writing up. Just remember to take good notes!
 
 ###### 15.2.23
 I've been going through a range of emotions over the last couple of weeks. I've been quite upset and depressed from things not quite working in the lab. Other things also weigh on me, like the fact that the end is so close but I have a huge mountain to climb - that is writing my thesis and publishing papers with my work.

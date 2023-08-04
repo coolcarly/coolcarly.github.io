@@ -9,7 +9,7 @@ This is a blog about some of the random day trips that I have taken in the illaw
 ### 23.5.23: A trip to  Stanwell Park & Helensburg
 *Highlight:* Gelatoman Icecreamery. 
 
-On this day, I was a little hungover from [[Paul's surprise wedding]]. After breakfast, we went for a walk and then decided to head to Helensburg to try gelato from a highly reviewed gelatoshop, Gelatoman. 
+On this day, I was a little hungover from [Paul's surprise wedding](/life/events/2023/paul-surprise-wedding). After breakfast, we went for a walk and then decided to head to Helensburg to try gelato from a highly reviewed gelatoshop, Gelatoman. 
 
 On the way, we stopped at Bald Hill in Stanwell Park. Here, we had a coffee (which was expensive, but alright) and then watched the paragliders for about 30-40 minutes while we drank our coffee on the hill. ![Bald hill](imgs/bald-hill.png)
 

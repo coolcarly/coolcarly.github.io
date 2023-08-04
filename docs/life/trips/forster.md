@@ -3,7 +3,7 @@ Title: Forster 2023
 ---
 # Easter 2023 trip to Forster
 
-### Overview
+## Overview
 I always said that my ideal spot for vacation is at the beach. The thing is though that I live near the beach. I am at the beach every day. I'm starting to realise that what I needed before is not necessarily what I need now. When I lived in the West, I needed the beach for a vacation. Now that I live near the beach, I think I need something a little different. That thing was the campervan. 
 
 Nick and I rented a campervan and travelled on the Mid-North Coast of NSW from Good Friday until Easter Monday 2023. We also brought our child/furry friend, Chip along with us. Having a dog on the trip really limited the things that we could do. We couldn't do super long walks; we couldn't eat in restaurants or go to National Parks; and some of the beaches that we visited were quite limited. I think it would have been amazing to do a trip to the mountains or do longer bushwalks. Nontheless, we enjoyed our trip and the main thing was that we were in a campervan. It was quite fun! 
@@ -13,7 +13,7 @@ I don't think we got the full campervan experience though, because we mostly ate
 Here is a video summary of our trip and see the full blog below.
 <iframe width="100%" height="400" src="https://player.vimeo.com/video/816445421?h=6190bd2d71&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Forster 2023 in a campervan.mp4"></iframe>
 
-###### Things to do in Forster:
+## Things to do in Forster:
 - Visit some amazing beaches
 - Bicentennial walk 
 - Visit the Coastal Brewery
@@ -21,15 +21,15 @@ Here is a video summary of our trip and see the full blog below.
 - Visit the national parks: Booti Booti or Wollombi (we couldn't do this because of Chip)
 - Take a trip to Old Bar (a small town 30 min North)
 
-### Blog of the trip
-##### 2.4.23
+## Blog of the trip
+### 2.4.23: Prologue
 Last night, Nick and I were joking around about going away for the easter weekend (7-10 April 2023). I cannot remember specifically how we ended up at the decision we came up with. I think it started when I made a joke about renting a campervan (I talk about this so much). Nick went straight on the camplify website and booked us a campervan for the weekend. 
 
 I called mum to let her know that we won't be going for Good Friday lunch. I was a bit worried that she would get upset with us, because Good Friday lunch is a big deal for my family --- not so much the religious side, but more for getting together. She wasn't upset at all but she was so excited about the idea and thought it would be really fun for us. 
 
 We've been putting together a list of things that we want to do including walks, lookouts and of course breweries. I'm so excited! We decided that we would head down the South Coast, and end up in Eden. The South Coast of NSW is so beautiful and neither of us have visited Eden before. 
 
-##### 7.4.23: Good Friday
+### 7.4.23: Good Friday
 Looking at the weather all week, it seemed that Eden was going to be cold and miserable. Therefore, we changed our plans from the South Coast to the North Coast. On Good Friday (7/4/23), Nick, Chip and I woke at 5.30 am. We had a coffee (not Chip though) and breakfast, packed the car and headed to Shell Harbour to pick up the rental van that we booked on campify: The rental was called AJ. The owners Jennie and Bernie spent a few years building up this campervan[@jb.vanjourney](https://www.instagram.com/jb.vanjourney/) They were super friendly and so excited about the #VanLife (My life goals). Due to life getting in the way, they don't get to use the van too often and wanted other people to get use out of it. They were so lovely. 
 
 ![Setting off on a long weekend adventure](imgs/foster1.png)
@@ -47,7 +47,7 @@ After the 4 km beach walk, we went to check out Forster and find somewhere to sl
 *Img caption:* Sunset in Forster
 
 Unfortunately due to the religous holiday, nothing was really open. We settled for a burger foodtruck and enjoyed some burgers and loaded fries --- that were just average. Finally, settling down in the van for the evening, we drank a couple of dark beers (White Rabbit - our favourite), played a few games and then fell asleep. 
-##### 8.4.23: Easter Saturday 
+### 8.4.23: Easter Saturday 
 ![Enjoying the sunrise](imgs/chipsunriseforster.png)
 *Img caption:* Enjoying the sunrise. 
 
@@ -75,7 +75,7 @@ We ate pizza with the wine. The pizza was nice, but I think our local pizzeria i
 
 Tonight, several other vans were parked in the same car-park as us! It seems that this is a very popular spot, which is no suprise as there are bins and toilets close by. 
 
-##### 9.4.23: Easter Sunday
+### 9.4.23: Easter Sunday
 ![Easter sunday](imgs/forster-easter-sunday.png)
 *Img caption:* Sunday morning chilling in bed. 
 
@@ -106,7 +106,7 @@ To be honest, there is nothing spectacular to see here, and we probably would've
 
 I do prefer the vibe of Forster more than the central coast. I love that it is more quiet, there are a lot of runners and cyclists out and there are so many national parks around! ....but being here now saves us some time tomorrow and hopefully we can avoid most of the traffic. 
 
-##### 10.4.23: Easter Monday
+### 10.4.23: Easter Monday
 This morning, we woke up to Chip complaining that he needed to go to the toilet. Nick took him out while I completed my wordle, as usual. We got changed, went to the public toilets nearby and then walked onto the main strip in Long Jetty, The Entrance. We sat down at a cafe, *The Morning Coffee Society*, at 6.50 am for a breakfast. We ordered ourselves a coffee and I ordered a mushroom dish with poached eggs, while Nick ordered a bacon and eggs with smashed avo. It was a great breakfast and we were the only people at the cafe for a while. 
 ![Breakfast](imgs/forster-bfast.png)
 *Img caption:* Our final vacation breakfast on the road. 
