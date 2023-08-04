@@ -3,7 +3,7 @@ title: Pull apart bread
 ---
 
 # Pull apart bread 
-import breadPic from '/Volumes/code/coolcarly.github.io/blog/2023-08/garlic-rosemary-bread.jpeg'
+import breadPic from '/blog/2023-08/garlic-rosemary-bread.jpeg'
 
 ### 02.08.2023
 I was really in the mood to bake today. With my love for bread, I decided that a creative, flavoured bread would be appropriate. 
