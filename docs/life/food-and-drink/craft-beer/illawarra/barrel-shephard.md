@@ -2,6 +2,8 @@
 title: The Barrel Shephard
 sidebar_position: 2
 ---
+import barrelPic from '../pictures/bs_25082023.jpeg';
+
 # The Barrel Shephard
 - Located 16a Bellambi Ln, Bellambi NSW 2518
 ![inside the Barrel Shephard](../pictures/barrel-shephard2.png)
@@ -35,3 +37,16 @@ By the time we had finished our beers and pizza, we were ready to leave. I went 
 
 ![Fun Friday](../pictures/barrel-shephard3.png)
 *Img caption.* Our orders for tonight: 1. Pizza with beer #2 and #3 on the menu, and 2. Beer #7 and the new release plum sour. 
+
+### 25.8.23 
+Since my last post, Nick and I have been to the Barrel Shephard many times; only, I have forgotten to write about it - well not forgotten, I've been meaning to update my blog more often, but my thesis has taken priority. 
+
+Around 5.30pm, Nick, chip and I walked to the Barrel Shephard. We found seats at a barrel table and ordered two pizzas. Ciscos wood fired pizza was the "food-truck" that was serving for the weekend. Turns out, it is there last stall as they are opening a shop in Thirroul. We ordered a potato and a mushroom pizza. While we waited, we drank a couple beers. Nick went with a german ale, while I got the darker beer - the Wolf. 
+
+This beer was really amazing, and one of my favourite dark beers that I've had to date. They have two types of "The wolf" - a standard and an aged one. The standard "the Wolf" tasted like a classic stout; while, the aged one literally tasted of a Bourbon and coke. A few weeks ago, I tried both of these beers. I wanted to buy a bottle and gift it to one of my brothers (or both) but unfortunately, they don't do this beer in bottles. THe worker told me that it was because The Wolf was ready later than expected and bottling would mean that it would not be ready for the winter sales (because dark beers are typical winter drinks). He did say that it would be ready for next winter though. 
+
+Tonight, I enjoyed The Wolf and then a glass of Shiraz. The wine was not the best; and had similar flavours to some of the beers they sell. 
+
+As we ate our pizza and drank our beers, we admired how great the place is. We are so lucky that it is right down the road and we can walk there. Nick said "it's our new Friday hang out". 
+
+<img src={barrelPic} width="40%" className="centered-image" />
