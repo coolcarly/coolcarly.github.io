@@ -25,6 +25,5 @@ If you want to comment on some content, you can send a comment via the Home tab 
 - I am using this blog to improve my writing skills, but also as a tool to improve my mental wellbeing. I feel that once I write things down, they are released from my mind and I've freed up space for other thoughts. 
 - I plan to make this a platform where I share my experiences and hopefully it may help someone going through the same situation. 
 
-
 ### Contact details
 ✉️ hello@carly.cool
