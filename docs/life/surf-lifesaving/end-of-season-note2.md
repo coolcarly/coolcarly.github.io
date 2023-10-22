@@ -1,6 +1,7 @@
 ---
 title: 2022/2023 End of season note
 date: 2023-04-16
+draft: true
 pagination_next: null
 ---
 # End of season note

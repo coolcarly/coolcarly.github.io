@@ -11,8 +11,7 @@ If you are asking this, then you probably don't need to read all the tips that I
 
 *Note:* This is a page about struggles and victories during my PhD. I am currently in my third year of PhD. This means that I am writing and finishing up experimental work. Why not share some of the things that I have been going through and some things that I have learned? 
 
-I also have a post about [Things to consider before starting a PhD](./considerations-for-phd.md)
-If I could do my PhD differently, what would I do? Check it out here. 
+I also have a post about [Things to consider before starting a PhD](./considerations-for-phd.md). I also have a post about "If I could do my PhD differently, what would I do?" Check it out [here](./starting-over-a-phd.md). 
 
 ### At the start of your PhD, no-one expects you to have all the answers. 
 This probably sounds like a really basic piece of adice but it was something that I had to keep reminding myself of over and over again. A PhD is a research training degree. You are not being paid for your work, so everything that you do should be to improve your skills and grow. Therefore, in the first two years of a PhD, you should be learning and really trying to gain as much knowledge as you can in the particular topic. Of course, data is also important but in my experience, I produced enough data for 5 research chapters (most of it I will put in my appendices = a lot of wasted time) and am leaving my PhD feeling like I could've done things better in my first two years. I definitely could have done things "smarter". For more details on what I would do differently, see [here](./starting-over-a-phd.md)

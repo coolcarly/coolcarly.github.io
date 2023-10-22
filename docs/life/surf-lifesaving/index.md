@@ -10,7 +10,6 @@ I am a #patrolling member of North Wollongong Surf Lifesaving Club (NWSLSC) wher
 - [Introduction to SLSA](./my-introduction.md)
 - [Bluebottles](./bluebottles.md)
 - [PCYC community program & NWSLSC](./pcyc-community-program.md)
-- [Patrol days](./patrol-days.md)
-- [End of season note](./end-of-season-note2.md)
+- [A recount from my time on Patrol](./patrol-days.md)
 
 In the off season, I have joined the [Floating Flamingo's Swim Club](/life/swimming-and-surfing/floating-flammingos)
