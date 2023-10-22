@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coolcarly.github.io/blog</id>
     <title>Carly.cool Blog</title>
-    <updated>2023-10-21T00:00:00.000Z</updated>
+    <updated>2023-10-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coolcarly.github.io/blog"/>
     <subtitle>Carly.cool Blog</subtitle>
     <icon>https://coolcarly.github.io/img/my-icon-favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[More content]]></title>
+        <id>https://coolcarly.github.io/blog/2023/10/22/2023-10/</id>
+        <link href="https://coolcarly.github.io/blog/2023/10/22/2023-10/"/>
+        <updated>2023-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A few updates include:]]></summary>
+        <content type="html"><![CDATA[<p>A few updates include: </p><ul><li><a href="/phd/tips-for-writing">Tips for writing</a> in PhD section</li><li><a href="/life/surf-lifesaving/patrol-days">Recap of patrol</a> in Life section / Surf Lifesaving</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another Saturday]]></title>
         <id>https://coolcarly.github.io/blog/2023/10/21/2023-10/</id>

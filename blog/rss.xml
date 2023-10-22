@@ -4,10 +4,18 @@
         <title>Carly.cool Blog</title>
         <link>https://coolcarly.github.io/blog</link>
         <description>Carly.cool Blog</description>
-        <lastBuildDate>Sat, 21 Oct 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Oct 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[More content]]></title>
+            <link>https://coolcarly.github.io/blog/2023/10/22/2023-10/</link>
+            <guid>https://coolcarly.github.io/blog/2023/10/22/2023-10/</guid>
+            <pubDate>Sun, 22 Oct 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[A few updates include:]]></description>
+            <content:encoded><![CDATA[<p>A few updates include: </p><ul><li><a href="/phd/tips-for-writing">Tips for writing</a> in PhD section</li><li><a href="/life/surf-lifesaving/patrol-days">Recap of patrol</a> in Life section / Surf Lifesaving</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[Another Saturday]]></title>
             <link>https://coolcarly.github.io/blog/2023/10/21/2023-10/</link>
