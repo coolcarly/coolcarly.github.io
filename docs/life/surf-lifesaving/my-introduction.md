@@ -2,6 +2,7 @@
 title: My Introduction to SLSA
 sidebar_position: 1
 ---
+import slsa1Pic from './pics/oct23.jpg';
 
 # My introduction to SLSA
 
@@ -50,3 +51,6 @@ The goal heading into 2023/24 is to practice competing. In the 2023/24 season, I
 **17.4.23**: Here is a snippet of me trying to get out in big surf:
 
 <iframe width="100%" height="400" src="https://player.vimeo.com/video/818319769?h=3403dc9b53&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="17.4.23 surf"></iframe>
+
+**23.10.23**: New season, and I am back in the water to get better! 
+<img src={slsa1Pic} width="60%" className="centered-image" /> 
