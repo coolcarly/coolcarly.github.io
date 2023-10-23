@@ -1,6 +1,6 @@
 ---
 title: Lessons from my PhD
-sidebar_position: 3
+sidebar_position: 5
 ---
 ## About this page
 My PhD commenced amidst the COVID-19 pandemic; March 2020. The very next day after moving to North Wollongong, everything closed! Everything then remained closed for 1.5 years. It was a very lonely time. I had no friends and visits to see my family were limited due to the harsh restrictions imposed for travel in NSW. There were so many things that I wish people told me at the start. I wish someone told me that I was doing the right thing. I wish someone gave me tips on the best way to take notes, or the best way to keep track of experiments. Instead, I felt like I was left to figure it out on my own. 

@@ -1,6 +1,6 @@
 ---
 title: Considerations before starting a PhD
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Things to consider before starting a PhD
 
