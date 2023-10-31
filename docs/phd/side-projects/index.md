@@ -25,7 +25,7 @@ Dreaming? ….
 
 Yes, dreaming. I can’t tell you how often I have thoughts about DArp. When I’m running, when I’m cooking, when I am in bed…. This was stored in my idea notebook for quite sometime, and finally today, as a Friday treat, I decided to do this reaction.
 
-I think if it works it will be great and Pawel has often said to methat it is never too late to do something cool. Damia and David disagree and say that I should focus on finishing my thesis. Me, I say that I am going to work on it as a side project, because it makes me excited to do polymer synthesis again! They don’t need to know 😊
+I think if it works it will be great and my supervisor has often said to methat it is never too late to do something cool. 
 
 ### 15.5.23
 I skipped #paddling this morning to go to the lab and workup the polymer that was reacting over the weekend via D(H)Arp. I was so excited when I saw that the solution was purple (this is a good indication that the polymer is present)! I poured the solution into water to precipitate it, then in methanol. The UV-vis spectroscopy showed that the polymer could oxidise with Cu[ClO<sub>4</sub>]<sub>2</sub> and in DCM which is a good sign. The polarising optical microscope showed that this polymer displayed some crystallinity. So far it is a good sign. Currently, I sit in a classroom for CHEM103 teaching and I am so excited to head back to the lab to do more characterisations of this polymer. I am in love!!! 😍😍😍😍

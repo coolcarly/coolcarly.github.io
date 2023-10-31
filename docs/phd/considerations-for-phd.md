@@ -24,7 +24,7 @@ The supervisor is the most important consideration in starting to look for a PhD
 
 Also, I should note here that before I started my PhD, I met with a few different supervisors. I even applied for a PhD at UCL in London. I told the supervisor what I was interested in and what I wanted out of a PhD. She then tailored a PhD project for me! Thus, if you find the right supervisor, you may land the perfect project. 
 
-Although, most of these opportunities are funding dependent. If they are paying you to do your PhD out of their grant money, then you must do the projects that were assigned (as it's from a specific grant). BUT if you have your own scholarship, you can do whatever you want. This is what Pawel said to me when I was awarded my scholarship. He said I could keep working in microfluidics if I wanted to (which is what I was doing as a research assistant). I declined and stuck with the original project because I love polymers and didn't have the skills to design my own project. 
+Although, most of these opportunities are funding dependent. If they are paying you to do your PhD out of their grant money, then you must do the projects that were assigned (as it's from a specific grant). BUT if you have your own scholarship, you can do whatever you want. This is what my supervisor said to me when I was awarded my scholarship. He said I could keep working in microfluidics if I wanted to (which is what I was doing as a research assistant). I declined and stuck with the original project because I love polymers and didn't have the skills to design my own project. 
 
 **However, not all supervisors are as accomodating.**
 
@@ -37,14 +37,14 @@ During my honours degree, 6 students were sharing one fume-hood. I didn't have a
 3. What is their title? Professor? or Lecturer? While this shouldn't matter, I have experienced so many people chasing a supervisor for the prestige. In general, the better title they have, the less time they have for you. 
 At my institute, we had some really big names in 3D printing. Previously there were so many students with the same supervisor, that they only really met with him once every 3 months! Crazy! 
 
-In my case though, my principal supervisor, David, is a Professor of organic chemistry. He is really busy with everything he is doing, but he will always stop to help me out when I need it. He is a really good supervisor and I am very lucky to have him. 
+In my case though, my principal supervisor, is a Professor of organic chemistry. He is really busy with everything he is doing, but he will always stop to help me out when I need it. He is a really good supervisor and I am very lucky to have him. 
 
-I can say that I was lucky - which I am, but I did my due dilligence before hand. I worked with all my supervisors (aside from Damia) for 6 months before starting my PhD. I heard so many good things from people. Everyone around the building only ever had nice things to say about Pawel and David - even their students. Thus, I was convinced to stay. 
+I can say that I was lucky - which I am, but I did my due dilligence before hand. I worked with all my supervisors (aside from Damia) for 6 months before starting my PhD. I heard so many good things from people. Everyone around the building only ever had nice things to say about my supervisors - even their students. Thus, I was convinced to stay. 
 
 *The importance of co-supervisors*
-It is important to have a co-supervisor without any personal relationship with your principal supervisor. This is to ensure that you have adequate supervision. For me, having Pawel and David was so effective. Pawel is a researcher as well, and spends a lot of time in the lab with me. He has some really good skills and helped me a lot in my first two years. 
+It is important to have a co-supervisor without any personal relationship with your principal supervisor. This is to ensure that you have adequate supervision. For me, having two supervisors was very effective. Both have great skills; while my cosupervisor spends a lot of time in the lab. It was so great having a supervisor that was in touch with lab research.
 
-David has a lot of experience in so many different research areas. He was friends with MacDiarmond (one of the Nobel prize winners for CPs). He has a wealth of knowledge and while he is less in tune with the lab, he still takes time to come into the lab every now and then to see how I am going. 
+My principle supervisor has a lot of experience in so many different research areas. He was friends with MacDiarmond (one of the Nobel prize winners for CPs). He has a wealth of knowledge and while he is less in tune with the lab, he still takes time to come into the lab every now and then to see how I am going. 
 
 Finally, if one of your supervisors is harsh, says mean things or is not giving you adequate supervision, you can confide in the other supervisor for support. Thus, that is why there should be no conflicts of interest. 
 

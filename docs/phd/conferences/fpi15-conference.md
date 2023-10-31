@@ -42,8 +42,6 @@ Later that evening in the poster session, John Reynolds also made me feel a lot 
 I also used the time in the poster session to get more information about how to analyse GIWAXs data - that I have been struggling with in the lab. It seems to be clearer now and hopefully I can complete this without help from my supervisors (They told me if I wanted help, I needed to add someone else to my future publications - which isn't fair considering I just need a little bit of guidance). 
 
 The banquet on Tuesday night was so awesome! The food was great, and I spoke a lot with different people. One person in particular was Prof. Thuc-Quyen Nguyen, from Santa Barbara University. She gave me some useful tips for starting my career and said that the best thing to do after my PhD is just take a post-doc and learn something that I've always wanted to learn. 
-![Banquet dinner](../pictures/fpi3.png)
-*Img caption.* Fpi15 banquet dinner with new friends
 
 I told her that I would love to learn how to program. She said that instead of doing nothing - just take a post doc where you do programming. I didn't realise that you could do this, but she said that it is very common. She also expressed the importance of meeting new people and expanding my network. Of course I already knew this, but she said it in a way that really motivated me. But she also expressed the importance of looking for a post-doc ASAP.
 
