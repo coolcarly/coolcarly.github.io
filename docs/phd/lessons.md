@@ -16,16 +16,20 @@ I also have a post about [Things to consider before starting a PhD](./considerat
 ### At the start of your PhD, no-one expects you to have all the answers. 
 This probably sounds like a really basic piece of adice but it was something that I had to keep reminding myself of over and over again. A PhD is a research training degree. You are not being paid for your work, so everything that you do should be to improve your skills and grow. Therefore, in the first two years of a PhD, you should be learning and really trying to gain as much knowledge as you can in the particular topic. Of course, data is also important but in my experience, I produced enough data for 5 research chapters (most of it I will put in my appendices = a lot of wasted time) and am leaving my PhD feeling like I could've done things better in my first two years. I definitely could have done things "smarter". For more details on what I would do differently, see [here](./starting-over-a-phd.md)
 
+### Best way to store data, graphs etc. 
+Over the four years of my PhD, there were a lot of files. So much that it was hard to keep track of them. I managed my data through OriginLab. For each polymer system that I synthesised, I kept only one origin file. In the file, I would have a folder for each method of polymerisation, then a sub folder for each method of characterisation. Then within the sub folder would be additional folders with either the experiment number or the date. This helped me quickly find data that I needed and then use my lab books to find the experimental protocol. 
+
+![OriginLab files](pictures/origin-lab.png)
+
+**Fig caption.** Storing my data within a single OriginLab file. 
+
 ### Focus on one thing at a time. 
 ##### 10.3.23
-Today is Friday. I feel quite relaxed even after yesterday's weekly PhD meeting (which makes me feel really stressed). Before I talk about it, I should emphasise that this week I have been quite ill. My eyes were really puffy each morning (it even looked like I was getting a stye) and my nose was really runny. I had a stress-induced cold! When I showed up to work on Tuesday, the analytical chemist at our facility, Patricia, approached me to talk about a GPC sample that Damia wanted me to analyse for her other student. I burst out in tears. Patricia was so accomodating and was happy to do it for me. It was quite nice, she even offered to do any of my future samples. This made me relax a little bit. 
+Today is Friday. I feel quite relaxed even after yesterday's weekly PhD meeting (which makes me feel really stressed). Before I talk about it, I should emphasise that this week I have been quite ill. My eyes were really puffy each morning (it even looked like I was getting a stye) and my nose was really runny. I had a stress-induced cold! When I showed up to work on Tuesday, the analytical chemist at our facility, Patricia, approached me to talk about a GPC sample that my supervisor wanted me to analyse for her other student. I burst out in tears. Patricia was so accomodating and was happy to do it for me. It was quite nice, she even offered to do any of my future samples. This made me relax a little bit. 
 
 We discussed how I am coping with my PhD. Obviously not well if I broke down in tears at the mention of work. She gave me some tips:
 1. *To write out a plan for the structure of my thesis*. I've done this so many times, but I redid a plan and started to fill in what I have and what I need. This has made me feel more organised. 
 2. *To focus on just one thing.* Noone can do both writing and lab work simultaneously! - This also made me feel better. Having so much on my mind was sending me crazy. I honestly felt like I was losing my mind! She suggested that I should focus on writing for now, if I am not enjoying lab. That way, when I am sick of writing, I might be more happy in the lab and it will be fun again. 
-3. T*o tell my supervisors how I feel.* While my main supervisors are really great and understanding, one of them I am quite scared of. I don't think she remembers what it is like to be a PhD student. She was the one to tell me that I should be doing writing and lab work simultaneously. 
-
-I was quite relieved yesterday when I learned that she would not be joining our meeting. I told my other supervisors, without crying that I was stressing myself into an illness. They agreed that I should focus on one thing. David said that I should do more labwork. I do not agree with this, but I do agree that I should try to prepare for my trip to New Zealand. - Yeah I forgot to mention that I get to go to NZLD for a few weeks to study my polymers using [[Raman spectroscopy]] at the end of March. 
 
 ##### 29.3.23
 I think that my mind is starting to settle down: that is, I am freaking out less than before. I've smashed out the first 3 chapters of my thesis and now I'm working on Chapter 4 and 5 (the last 2 research chapters). I've tried to focus on one thing at a time: usually I spend 1-2 weeks in the lab and then 1 week writing. It is seeming to work. 
@@ -80,9 +84,11 @@ Throughout my PhD, my supervisors would tell me experiments to do. I would alway
 ### Take some time to think about everything you do, even if it looks like you are being unproductive.
 
 ###### 12.4.23
-This was a hard lesson that I had to learn. Thoughout this blog, I often complain about my PhD meetings. I think it stems from the beginning when I was quite insecure of my intelligence, and was overwhelmed with imposter syndrome (Note, I still am). I think that my supervisors (mostly Damia) were quite harsh about my progress. I realise now that they were just trying to push me to be better.
+This was a hard lesson that I had to learn. Thoughout this blog, I often complain about my PhD meetings. I think it stems from the beginning when I was quite insecure of my intelligence, and was overwhelmed with imposter syndrome (Note, I still am).
 
-From the start of my PhD, when I had nothing much to present at my PhD meetings, comments would be thrown at me like: “is this all you’ve done?”. Of course, these comments pushed me to do more and more, but when I was stumped by a problem, I didn’t take the opportunity to sit and really think about it. Instead, I did more and more lab work that probably didn’t need to be done. In turn, it wasted more time than if I had just sat down for a few days and thought about it. ***Afterall, a PhD is a marathon. You have time.***
+From the start of my PhD, when I had nothing much to present at my PhD meetings, comments would be thrown at me like: “is this all you’ve done?”. Of course, these comments pushed me to do more and more, but when I was stumped by a problem, I didn’t take the opportunity to sit and really think about it. Instead, I did more and more lab work that probably didn’t need to be done. In turn, it wasted more time than if I had just sat down for a few days and thought about it.
+
+ ***Afterall, a PhD is a marathon. You have time.***
 
 From the start of my PhD, my supervisor said to me “A Day of reading can save you a week in the lab.” He often said this to me in my first year. I’m starting to really respect the things that he told me. While I worked hard and am close to finishing, I could have done less and still been at the same point. Imagine, 10-hour days of running around the lab: would make you quite sick of it. Well, it has and I’m trying my hardest to stay out of the lab these days.
 
@@ -92,19 +98,9 @@ Now I’ll tell you about some of the struggles ive been facing lately that has 
 
 In a multistep synthesis, I’ve been trying to prepare a cholesteryl triethyleneglycol derivative. I did it successfully the first time in Oct 2021, but since then I can’t seem to make it. **1.5 years!** I did all my characterisations with this material, and while I could probably write my thesis with the data I have, I need more to fill in missing pieces of the story.
 
-Since Oct 2021, I have completed my other chapters (mostly). All I need is this material. For the last month, I have been looking over my data and trying to see what went wrong. I set up a few little experiments but in the end, I needed to pay more attention to detail.
+Since Oct 2021, I have completed my other chapters (mostly). All I need is this material. For the last month, I have been looking over my data and trying to see what went wrong. I set up a few little experiments but in the end, I needed to pay more attention to detail and that detail was the proton NMR spectrum. 
 
-I wonder where I would be right now, if I had just sat down and really looked at what is happening. Would I have a few papers? Be close to submission? Who cares because at the end of the day, I have learned a valuable lesson, after all it is a Research Training Degree.
-
-##### 13.4.23
-Today I spoke about what I had figured out yesterday in my PhD meeting. To my surprise, I was commended for solving the problem. TBH it does feel good to have solved this problem without assistance. 
-
-After the meeting I was back in the lab and setting up the correct synthesis. Lets hope it is all straight forward from here and an easier road to my thesis. 
-
-### Attention to detail makes life much easier. The failures are telling you something and it's best to try and understand why it is failing instead of repeating over and over. 
-##### 14.3.23
-Ahhhhhhhhh!!! For the last 6-7 months of my PhD, I've been trying to remake a monomer: that I initially showed had really good properties and was the highlight of my research. I tried and tried and tried. Until I paused and worked on something else. Now, as I'm writing, I still need this monomer... and do you know what the problem was?? The solvent!!!!!! I was collecting the solvent from the dry solvent tap, but turns out it wasn't dry. It was something that I thought was a certainty, just goes to show that nothing is certain and everything should be checked. This whole time I thought it was my fault that the reaction wasn't working. 
-
+I wonder where I would be right now, if I had just sat down and really looked at what is happening. Would I have a few papers? 
 
 
 ### From the start of your PhD everything you write can be used later. Make sure to keep the notes organised. Optimise your system to refer to them early on!

@@ -13,8 +13,7 @@ There is no set way that you should write. Everyone has their own ways. I know s
  Early on, in my Fourth Year (around March 2023), an additional strategy that I used to channel my bad vibes in a good way, was to work from home and write on the days that I hated my PhD. I would think to myself "I really want to get out of here." I would use this very negative feeling to write. You want to finish ASAP right? Well on those days that I was sick of my PhD work, I really wanted to do something new. It was a driving force for writing. Even if you don't want to write or feel that you're not ready to write, I suggest you try it! It may work out well for you. 
 
 #### How did this strategy help me?
-It was so helpful, because whenever I started thinking about the **whole** thesis, the 10,000 word document, I was so overwhelmed and would freak out, rendering me unproductive. By seperating the sections, it helped to seperate the writing from the thesis. I believe that this strategy really developed an interest in writing for me, which is what inspired me to start this blog. I cannot wait for thesis writing to officially be over so that I can write random little articles or "mini-reviews" of topics that I would like to learn more about. 
-
+It was so helpful, because whenever I started thinking about the **whole** thesis, the >60,000 word document, I was so overwhelmed and would freak out, rendering me unproductive. By seperating the sections, it helped to seperate the writing from the thesis. I believe that this strategy really developed an interest in writing for me, which is what inspired me to start this blog. I cannot wait for thesis writing to officially be over so that I can write random little articles or "mini-reviews" of topics that I would like to learn more about. 
 
 #### What about when I am feeling really de-motivated?
 Whenever I was feeling demotivated, I would either go and have a lay down to recharge, seperate my screens into two and watch/listen to Netflix shows that I have already seen or do that while writing my methods section. The methods section is tedious work, but does not require much focus. Therefore, working through that is something that can be done when you feel least motivated. For me, this usually occured on a Friday while I was waiting for Beer O'clock. 
@@ -22,5 +21,9 @@ Whenever I was feeling demotivated, I would either go and have a lay down to rec
 #### How long did it take me to write?
 Throughout my phd, I would always write things down. However, I started writing my introduction in July 2023. I started with half a day writing and half a day in the lab. This lasted until late August, when I stopped doing lab work and focused on writing. I finished writing my first draft at the end of October. I suggest to give yourself at least 6 months of writing time - combining lab and writing together initially. If you are writing full-time, I would suggest 3-4 months. 
 
+#### Don't forget to account for reviewing time
+I was pushing myself to finish my PhD my 31 Dec 2023. However, I didn't account for how long the review process takes before submitting my thesis. For example, I finished writing my PhD at the end of October. It took me about 2-3 weeks to address comments in my PhD and still my two other supervisors need to read it. I probably will not submit until January.
+
 #### A final word of advice
 Whether or not you think that my strategy for writing is helpful, writing a little bit everyday helps. Early on in the writing stage of my thesis, I met with my GP and she asked me how my PhD was going. I was feeling a bit demotivated about writing and the whole finishing process. She said to me "if you write a little bit everyday, eventually you will finish." These words were so basic but they were so meaningful! If you give yourself enough time, all you need to do is write a little bit each day and at some point, you will finish, right? 
+
