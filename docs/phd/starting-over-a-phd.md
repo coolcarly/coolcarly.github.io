@@ -21,6 +21,7 @@ In late October, my laptop crashed! Lucky for me, I kept everything on the cloud
 This remote desktop connection saved me so much time and allowed me to do analyses at anytime without spending hours at work. It also gave my mac access to a PC to use the PC analysis softwares. Now, while I did redo all my thesis figures with GraphPad Prism and the figures appeared much nicer, I feel like it was such a waste of time. I now much prefer OriginLab as the storage of data within a single file is much better and easier to access.  
 **I highly recommend this to anyone, even at early stages of your PhD. I wish that I did this in my first year!**
 
-
+### 25 Feb 2024
+Yep, it is now February and I still haven't submitted my PhD thesis. The problem isn't with my writing (well it sort of is), it is more with the review process. You see, my thesis is very long. I did waaaaay too much and I don't want to cut it out, either because I think my later works were really interesting. However, if I had just stopped and started writing a year ago, I would've cut out a few chapters and made my life much easier. Maybe I would have finished my PhD sooner? 
 
 

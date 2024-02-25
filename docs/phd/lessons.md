@@ -9,9 +9,10 @@ You're probably thinking (and maybe if my supervisors read this at some point) "
 
 If you are asking this, then you probably don't need to read all the tips that I have written below. I didn't ask my supervisors, because they are so experienced and with all my insecurities, I thought that they would laugh at me for not having it figured out by now. 
 
-*Note:* This is a page about struggles and victories during my PhD. I am currently in my third year of PhD. This means that I am writing and finishing up experimental work. Why not share some of the things that I have been going through and some things that I have learned? 
+### Writing is everything!
+While I was writing up this page, I wrote down many things that I thought would be useful to people starting their PhD. Yet, I originally left this one out. This lesson is so important and I've only realised it now that I am a month away from submitting my thesis. No matter how good your work is, it will never be excellent until you can properly communicate it. 
 
-I also have a post about [Things to consider before starting a PhD](./considerations-for-phd.md). I also have a post about "If I could do my PhD differently, what would I do?" Check it out [here](./starting-over-a-phd.md). 
+Through the thesis writing process, I have realised how difficult writing up a scientific argument is. I also hear academics complain about the writing of PhD students. This is such a hippocracy, because we need to learn somehow, right? I wish that I had spend more time writing out scientific arguments and writing more essays or discussions of my work before beginning to write out my thesis, because while lab work is a skill that you develop over time, so are your writing skills. 
 
 ### At the start of your PhD, no-one expects you to have all the answers. 
 This probably sounds like a really basic piece of adice but it was something that I had to keep reminding myself of over and over again. A PhD is a research training degree. You are not being paid for your work, so everything that you do should be to improve your skills and grow. Therefore, in the first two years of a PhD, you should be learning and really trying to gain as much knowledge as you can in the particular topic. Of course, data is also important but in my experience, I produced enough data for 5 research chapters (most of it I will put in my appendices = a lot of wasted time) and am leaving my PhD feeling like I could've done things better in my first two years. I definitely could have done things "smarter". For more details on what I would do differently, see [here](./starting-over-a-phd.md)
@@ -105,19 +106,4 @@ I wonder where I would be right now, if I had just sat down and really looked at
 
 ### From the start of your PhD everything you write can be used later. Make sure to keep the notes organised. Optimise your system to refer to them early on!
 ##### 13.3.23
-I am almost finished writing up the second chapter (experimental chapter) of my thesis. At the moment I am working on MALDI-TOF mass spectrometry and most of the things I am writing about, I had already wrote about previously  - whether it was in random document or a monthly report. Only now, I am starting to realise how important it was to organise everything. Now, I work off an app called obsidian (only thanks to my amazing boyfriend, Nick). This helps to keep all notes in one place and allows me to link files to other files. **This is a note for other honours, masters or PhD students: organising your work earlier on will save a lot of time later.** 
-
-### Reminding myself to calm down because when I am calm, I can think more logically. 
-
-###### 2.3.23
-I've been deep in freak-out mode the past couple of days. Mostly because I have given myself a dead-line of September (that is when my scholarship ends) to finish my PhD and submit my thesis but it is only 6 months away! 
-
-While I've been in freak-out mode, I've completely messed a few things up in the lab. I repeated past synthetic mistakes which caused me a lot of grief. 
-
-In talking to Sulo earlier today, she helped me relax by telling me that it is okay to spend more time solving problems but instead of having a September deadline, maybe aim to have lab-work complete by September instead. That way, when the scholarship stops, you can work while you write your thesis. 
-
-This was an extremely great point. I am doing well, I am writing everyday so it won't take me long to pull my thesis together. Now, instead of a September deadline, I've told myself that my dead-line to finish all experimental is September. After which, I will find a job and write my thesis at the same time. The real date that I should be most concerned about is March 2024. This is when I will start paying $20K per semester. 
-
-After I calmed down, I went in the lab to finish some stuff off. By lunchtime I was at home writing. I realised that the silly experiments and errors I made over the last few days actually gave me some really important data into the properties of my materials. It opened up my eyes to better understand what is happening which is actually a really good thing for my thesis! 
-
-What I learned is that when I calm down, I can think more logically and things make more sense, and repeating failed experiments is sometimes a good thing - as it convinces you that it wasn't human error. 
+I am almost finished writing up the second chapter (experimental chapter) of my thesis. At the moment I am working on MALDI-TOF mass spectrometry and most of the things I am writing about, I had already wrote about previously  - whether it was in random document or a monthly report. Only now, I am starting to realise how important it was to organise everything. Now, I work off an app called obsidian. This helps to keep all notes in one place and allows me to link files to other files. **This is a note for other honours, masters or PhD students: organising your work earlier on will save a lot of time later.** 

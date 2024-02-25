@@ -1,6 +1,7 @@
 ---
 title: Travel during my PhD
 sidebar_position: 6
+draft: true
 ---
 ### 2023-05-03
 I used to be fuelled by the thought of travelling the world. From 2016-2019, I had been in and out of the country a couple times per year. I backpacked Asia, Europe (twice), travelled around Australia. 
