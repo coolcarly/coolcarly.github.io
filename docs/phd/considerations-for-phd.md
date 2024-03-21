@@ -35,20 +35,18 @@ Although, most of these opportunities are funding dependent. If they are paying 
 1. How big is their research group? If it is a large research group, chances are that you will learn a lot in the really specific research area. BUT, will you have enough fume cupboard space? 
 During my honours degree, 6 students were sharing one fume-hood. I didn't have a designated spot. It was very uncomfortable having others constantly looking over your shoulder. Now during my PhD, I have a whole fume-cupboard to myself. It's very nice and very comfortable for me to do research. 
 3. What is their title? Professor? or Lecturer? While this shouldn't matter, I have experienced so many people chasing a supervisor for the prestige. In general, the better title they have, the less time they have for you. 
-At my institute, we had some really big names in 3D printing. Previously there were so many students with the same supervisor, that they only really met with him once every 3 months! Crazy! 
 
 In my case though, my principal supervisor, is a Professor of organic chemistry. He is really busy with everything he is doing, but he will always stop to help me out when I need it. He is a really good supervisor and I am very lucky to have him. 
 
-I can say that I was lucky - which I am, but I did my due dilligence before hand. I worked with all my supervisors (aside from Damia) for 6 months before starting my PhD. I heard so many good things from people. Everyone around the building only ever had nice things to say about my supervisors - even their students. Thus, I was convinced to stay. 
+I can say that I was lucky - which I am, but I did my due dilligence before hand. I worked with all my supervisors for 6 months before starting my PhD. I heard so many good things from people. Everyone around the building only ever had nice things to say about my supervisors - even their students.
 
 *The importance of co-supervisors*
 It is important to have a co-supervisor without any personal relationship with your principal supervisor. This is to ensure that you have adequate supervision. For me, having two supervisors was very effective. Both have great skills; while my cosupervisor spends a lot of time in the lab. It was so great having a supervisor that was in touch with lab research.
 
-My principle supervisor has a lot of experience in so many different research areas. He was friends with MacDiarmond (one of the Nobel prize winners for CPs). He has a wealth of knowledge and while he is less in tune with the lab, he still takes time to come into the lab every now and then to see how I am going. 
+My principle supervisor has a lot of experience in so many different research areas. He was friends with MacDiarmond (one of the Nobel prize winners for CPs). He has a wealth of knowledge, and takes time to come into the lab every now and then to see how I am going. 
 
 Finally, if one of your supervisors is harsh, says mean things or is not giving you adequate supervision, you can confide in the other supervisor for support. Thus, that is why there should be no conflicts of interest. 
 
 From this post, it should be apparent that the project shouldn't be the sole focus of your search for a PhD project. The most important thing is your supervisor, so due dilligence is required to find a supervisor that will properly support you. At the end of the day, it just depends on the type of person you are and how well you fit in with the research group. The best advice to give is to investigate the vibe of the group, meet with the supervisor several times before hand or even join the group prior to starting your PhD - either by doing an honours degree, volunteering or working. 
 
-If you have any questions, please contact me at hello@carly.cool 
 
