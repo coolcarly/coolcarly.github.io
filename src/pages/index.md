@@ -18,7 +18,7 @@ If you want to comment on some content, you can send a comment via the Home tab 
 
 ## About me
 - Studied a BSc(hons), with a major in Chemistry and [polymer science](/science/polymer-science/polymers) 
-- Currently in 4th year of PhD in polymer science, with an application in [Organic bioelectronics](/science/organic-bioelectronics). I am very close to finishing! 
+- I've recently submitted my PhD in [Organic bioelectronics](/science/organic-bioelectronics).
 - I love to try different Craft beer and wine. It is an art-form that I appreciate a lot. 
 - I am a volunteer surf lifesaver [SLSA](life/surf-lifesaving) & a member of [North Wollongong Surf Club](https://nwslsc.com.au/)
 - If I am not working on my thesis or hanging out with Nick or Chip, I spend most of my time at the beach [paddling or swimming](/life/swimming-and-surfing). I really love that community vibe. 

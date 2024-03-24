@@ -37,7 +37,7 @@ I think that my mind is starting to settle down: that is, I am freaking out less
 
 ### Teaching compliments lab work
 
-If I have any advice for PhD students, it is to take on some teaching. Teaching high-school and undergraduate chemistry forced me to relearn really basic chemistry concepts that complimented some of the things I was doing in the lab. A classic example is in [Salt exchanges](./tips-and-tricks/salt-exchanges). Simple chemistries are often overlooked when doing more complicated chemistries such as a PhD project. It helps to go back to fundamentals and really understand what you’re doing and get paid for it.
+If I have any advice for PhD students, it is to take on some teaching. Teaching high-school and undergraduate chemistry forced me to relearn really basic chemistry concepts that complimented some of the things I was doing in the lab. Simple chemistries are often overlooked when doing more complicated chemistries such as a PhD project. It helps to go back to fundamentals and really understand what you’re doing and get paid for it.
 
 ### Try to attend as many conferences/symposia as possible! 
 This is a tip that I cannot stress enough. Conferences/symposia were the key motivator behind my research. They not only introduced me to a community of like-minded people who accepted me as a researcher and a person, but they also helped grow some ideas that I had in the lab. They were definitely the highlight of my PhD and where I built a lot of confidence in my social and presenting skills. I also met many academics who I have maintained communications with. 
