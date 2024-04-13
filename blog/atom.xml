@@ -2,15 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coolcarly.github.io/blog</id>
     <title>Carly.cool Blog</title>
-    <updated>2024-04-01T00:00:00.000Z</updated>
+    <updated>2024-04-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coolcarly.github.io/blog"/>
     <subtitle>Carly.cool Blog</subtitle>
     <icon>https://coolcarly.github.io/img/my-icon-favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Update]]></title>
-        <id>https://coolcarly.github.io/blog/2024/04/01/2024/</id>
-        <link href="https://coolcarly.github.io/blog/2024/04/01/2024/"/>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://coolcarly.github.io/blog/2024/04/13/2024/april/</id>
+        <link href="https://coolcarly.github.io/blog/2024/04/13/2024/april/"/>
+        <updated>2024-04-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Added new post All about salt.]]></summary>
+        <content type="html"><![CDATA[<p>Added new post <a href="/science/salt">All about salt</a>.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://coolcarly.github.io/blog/2024/04/01/2024/april/</id>
+        <link href="https://coolcarly.github.io/blog/2024/04/01/2024/april/"/>
         <updated>2024-04-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I have been writing more!]]></summary>
         <content type="html"><![CDATA[<p>I have been writing more!</p><p>Check out my new section titled: <a href="/science/cholesterol_polymers/introduction">How to manipulate the self-assembling properties of cholesterol to create ordered polymers?</a></p>]]></content>

@@ -4,14 +4,20 @@
         <title>Carly.cool Blog</title>
         <link>https://coolcarly.github.io/blog</link>
         <description>Carly.cool Blog</description>
-        <lastBuildDate>Mon, 01 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Update]]></title>
-            <link>https://coolcarly.github.io/blog/2024/04/01/2024/</link>
-            <guid>https://coolcarly.github.io/blog/2024/04/01/2024/</guid>
+            <link>https://coolcarly.github.io/blog/2024/04/13/2024/april/</link>
+            <guid>https://coolcarly.github.io/blog/2024/04/13/2024/april/</guid>
+            <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Added new post All about salt.]]></description>
+            <content:encoded><![CDATA[<p>Added new post <a href="/science/salt">All about salt</a>.</p>]]></content:encoded>
+        </item>
+        <item>
+            <link>https://coolcarly.github.io/blog/2024/04/01/2024/april/</link>
+            <guid>https://coolcarly.github.io/blog/2024/04/01/2024/april/</guid>
             <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[I have been writing more!]]></description>
             <content:encoded><![CDATA[<p>I have been writing more!</p><p>Check out my new section titled: <a href="/science/cholesterol_polymers/introduction">How to manipulate the self-assembling properties of cholesterol to create ordered polymers?</a></p>]]></content:encoded>
