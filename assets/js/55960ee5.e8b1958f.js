@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[4121],{8070:a=>{a.exports=JSON.parse('[{"label":"travel","permalink":"/tags/travel","count":1},{"label":"New Zealand","permalink":"/tags/new-zealand","count":1}]')}}]);
