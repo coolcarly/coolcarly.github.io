@@ -2,7 +2,7 @@
 title: All about salt
 ---
 
-*Created: 13.4.24*
+*Created: 13.4.24*<br/>
 *Updated: 9.5.24*
 
 ### Context
