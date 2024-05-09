@@ -1,14 +1,13 @@
 ---
 title: Exploration of bread making
-date: 2024-05-08
-updated: 2024-05-09
+date: 2024-05-09
 ---
 
 import bread1Pic from './img/bread1.jpeg';
 
 Over the past few weeks, I have had the desire to improve my baking skills. You see, a few months prior, I made bread following a very simple recipe. However, it didn't taste good. I realised that there was a science to bread that made me so intrigued. 
 
-Flour contains proteins glutenin and gliadin, which combine to form gluten. Prior to the addition of water, glutenin exists as a coiloid. Upon addition of water to the flour, the chains are allowed to stretch, seperate, and form new linkages as a disulfide. These disulfide linkages create a network of glutenin polymer that produces the strength and elasticity of bread dough. At the same time, the smaller gliadin proteins will disperse through the glutenin polymer network, which allows the bread to "rise". Thus, the gluten content in bread is attributed to the type of flour that is used to make the bread. 
+Flour contains proteins glutenin and gliadin, which combine to form gluten. Prior to the addition of water, glutenin exists as a colloid. Upon addition of water to the flour, the chains are allowed to stretch, seperate, and form new linkages as a disulfide. These disulfide linkages create a network of glutenin polymer that produces the strength and elasticity of bread dough. At the same time, the smaller gliadin proteins will disperse through the glutenin polymer network, which allows the bread to "rise". Thus, the gluten content in bread is attributed to the type of flour that is used to make the bread. 
 
 ![Schematic of gluten formation](./img/bread_schematic.jpeg)
 
@@ -30,7 +29,7 @@ There were other things I wanted to know. What is the impact of leaving the doug
 
 ![third batch](./img/bread-3.jpeg)
 
-The next step is to try 10 minutes of kneading before allowing the dough to rise. Other tips that I got from [vegpatchkitchen](https://vegpatchkitchen.co.uk/what-is-oven-spring/) is to *score* the loaf to make the rise more uniform. 
+The next step is to try 10 minutes of kneading before allowing the dough to rise. Other tips that I got from [vegpatchkitchen](https://vegpatchkitchen.co.uk/what-is-oven-spring/) is to *score* the loaf to make the rise more uniform, instead of having that weird bubble in the middle of the loaf (as seen in the middle image above).
 
 Stay tuned for the next batch. 
 

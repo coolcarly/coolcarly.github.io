@@ -2,20 +2,24 @@
 title: All about salt
 ---
 
-**Created: 13.4.24**
+*Created: 13.4.24*
+*Updated: 9.5.24*
+
+### Context
+Often when you hear "salt" you think of that delicious thing we add to foods: sodium chloride or table salt. However, salts are a general term that describe ionic compounds, such as potassium chloride, calcium carbonate, magnesium sulfate (or any sulfate for that instance), even bicarb soda. In this blog post, I will talk mostly of Sodium chloride (NaCl), however, sometimes when I mention "salt" I am talking about other ionic compounds, which I will try to make more explicit. 
 
 I have adapted to a vegetarian diet over the past few years. I enjoy it because it means that I need to be more creative with the meals that I prepare. Lately, I have taken an interest in preparing tofu dishes. For stir fries, I will just marinade in a sauce that I either found a recipe to or that I invented myself. For other dishes such as a "parmigiana", I will crumb the tofu and fry it. However, simply crumbing and frying tofu does not guarantee that it will be crispy. 
 
 A few days ago, I was in search of inspiration for a meal. Thats when I found a blog post for crispy tofu. She simply soaked the tofu in salt water and then fried it. This made so much sense to me as a chemist. She was basically "salting-out" the tofu. Therefore, I decided to try it out. I cut the tofu into small bite size pieces, and submerged in salt water (1 tsp in 2 cups of water). I left it to sit for 1 hour, then I drained the water and let the tofu dry. In the evening, I glazed the uncooked tofu with a small amount of vegetable oil and air fried for half an hour (rotated the tofu after 15 mins). It was the crispiest tofu that I had ever made. I was so excited and therefore, I felt the need to write a short article about salt. 
 
-First I will start with how we use it in chemistry. Then I will talk about how these concepts can be further used in cooking. Finally, I will talk about salt in the oceans and how it is connected to climate change. the concept of “salting out” and how we can use salt to our advantage. 
+First I will start with how we use it in chemistry. Then I will talk about how these concepts can be further used in cooking. Finally, I will talk about salt in the oceans and how it is connected to climate change. 
 
 ### Using salt in organic synthesis:
 One of the fields that I am trained in is organic chemistry. A common washing technique that is used in organic synthesis is “salting out”. Salting out is a concept used to describe the washing or rinsing of an oil layer with saturated sodium chloride, or in other words, washing oil with highly concentrated salt water. In this instance, salt water is used to dry the organic layer (oil layer), as we want the compound that is dissolved in the organic layer to be as dry as possible to allow for easier purification. 
 
-As mentioned in [solvation effects](./polymer-science/solvation.md), sodium chloride is an ionic compound/salt consisting of Na<sup>+</sup> and Cl<sup>-</sup>. The slight charges associated with water allow the salt to dissolve. However, there is a point that the salt dissolution becomes hindered. This is termed “saturated”. In a saturated salt solution, also known as brine, the salt molecules will try to pull water from sources that it meets. Thus, when washing an organic solvent with brine, the salt will prefer to be more dilute and pull the excess water molecules from the organic solvent. 
+As mentioned in [solvation effects](./polymer-science/solvation.md), sodium chloride is an ionic compound/salt consisting of Na<sup>+</sup> and Cl<sup>-</sup>. The slight charges associated with water allow the salt to dissolve. However, there is a point that the salt dissolution becomes hindered. This is termed “saturated”. In a saturated salt solution, also known as brine, the salt molecules will try to pull water from the places that it is exposed to, as it prefers to be more dilute
 
-Another reason for washing an organic solvent/mixture with brine is to decrease the solubility of the compound of interest and thus push it into the organic layer. This idea is represented through the Sechenov equation, which states that the salt concentration is proportional to the salting-out effect.[1] Yet, there are some cases where the addition of salt (other than NaCl) to water may produce a salting-in effect. In this case, the salt usually consists of a higher molecular weight or an increase in the number of alkyl groups to render it “hydrotropic”: both organic and water soluble.[2]
+Another reason for washing an organic solvent/mixture with brine is to decrease the solubility of the compound of interest and thus push it into the organic layer. This idea is represented through the Sechenov equation, which states that the salt (any salt) concentration is proportional to the salting-out effect.[1] Yet, there are some cases where the addition of salt (other than NaCl) to water may produce a salting-in effect. In this case, the salt usually consists of a higher molecular weight or an increase in the number of alkyl groups to render it “hydrotropic”: both organic and water soluble.[2]
 
 ### Using salt for cooking:
 Organic synthesis is very similar to cooking. I often say that organic chemists are just highly qualified chefs. Many principles of organic chemistry can be used in cooking. 
