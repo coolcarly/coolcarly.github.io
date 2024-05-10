@@ -2,9 +2,6 @@
 title: Job prospects
 draft: True
 ---
-**What do I want out of my career?**
-I want to be a scientist. But this is very broad. What do I want to do? I want to be an expert in a topic that is respectable. I want to write papers and publish but not be on the constraint of academia - that is I do not want to chase grants or funding. 
-
 
 *Date 01.05.2024*
 Received correspondance from Nikia from Evolve Scientific asking about my background. We spoke on the phone for 10 minutes and then I sent through a cover letter for a potential job with ANSTO. 
@@ -24,13 +21,10 @@ Some industrial examples include:
 - Alkyd resins (derived from animal fats): often used in paints. Alkyd emulsions reduce the organic solvent content in paint and have potential to remove the need for organic solvent.([Hofland](https://www.sciencedirect.com/science/article/pii/S0300944011000324#fig0030))
 - oxazolines
 
-Questions: What will sucess look like as an employee? Will I be given the opportunity to grow? I am looking for a place where I can have a wide range of responsibilities. I want to perform innovative research to solve problems, assist in technical knowledge. 
-What are the daily tasks like? Will I be on my feet all day? Will I get down time to think? Will I be given opportunity to speak or present? 
-
 *Date: 6.5.2024* <br/>
-Received correspondance from Nikita from Evolve Scientific Recruitment: ANSTO would like to meet with me on Friday at 10 am via MS Teams, for a potential Research Chemist role. I asked what the interview will be like and she replied "It will be quite casual. Some technical questions but more to get to know if you would be a good fit before an onsite interview."
+Received correspondance from Nikita from Evolve Scientific Recruitment: ANSTO would like to meet with me on Friday at 10 am via MS Teams, for a potential Research Chemist role. I asked what the interview will be like and she replied "It will be quite casual. Some technical questions but more to get to know if you would be a good fit before an onsite interview." The next day, Nikita emailed to inform me that the interview was cancelled and instead they would like to meet face-to-face. 
 
-## About
+## About the job
 #### Responsibilities include:
 - Planning and implementing experiments that involve processing of critical minerals, uranium and ores containing radioactivity - leaching, solvent extraction, ion exchange and precipitation techniques.
 - Analyse and assess data, recognise the value of data and identify gaps that need to be filled in order to draw conclusions and develop process solutions.
@@ -42,8 +36,22 @@ Received correspondance from Nikita from Evolve Scientific Recruitment: ANSTO wo
 - Australian Citizenship required
 - Research experience in Applied Chemistry or Hydrometallurgy
 - Experience with leaching of minerals, separation science such as solvent extraction, ion exchange,  crystallisation, membrane separation or water treatment would be an advantage
+
+Examples of seperations: organic/water extractions; chromatography; crystallisation; dialysis; 
+
 - Excellent verbal and written communication skills – previous publication in journals
+
+I believe that I have great verbal communication skills: I like telling research stories and presenting. 
+I have published one first author article. It was mostly a review. I have prepared other manuscripts; however, they have been sitting in my supervisors inbox for a while. 
+
 - Ability to present at professional forums
+
+
+
+#### Job research
+According to glassdoor, many people feel dissatisfied with ANSTO, with very little career growth. I am okay with that, because I will be keen to move on after 2 years. 
+
+The minerals team works with uranium, rare earth and lithium processing. 
 
 
 Some interview questions: 
