@@ -44,7 +44,29 @@ This is a tip that I cannot stress enough. Conferences/symposia were the key mot
 
 In the acknowledgements section of my PhD thesis, I am 100% going to thank everyone that I have met and befriended at these events, because they changed my life. For more information, see the conferences tab. Also, for all those in polymer science, be sure to join the polyNSW community. They are amazing! 
 
-### Experiments, everything you do just for fun, can be useful when writing up. Just remember to take good notes!
+### keeping a great lab notebook will save your life in the end. 
+###### 21.5.24
+At this point in time, I have submitted my PhD thesis and have had time to reflect on some of the mistakes that I made. One of them is the upkeep of my lab notebook. Considering that I have 4+ years of experience, you would think that my lab book is in great condition. In fact, this is wrong and there is a lot of room for improvement. Therefore, I recommend practicing and putting emphasis on the maintenance of your lab notebook. This video has some great tips and tricks for maintaining a lab notebook:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3isoitK-Ac?si=wZOePeGmOcDMkLXl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The key takeaways are: 
+•	The key notes to write down are: What you did, how you did it, why you did it, what you used. 
+• Always write down the protocol you used and the reference. 
+•	Check with supervisor for requirements of record keeping. What makes a good notebook?
+•	Date, keep a wider margin in the lab notebook, to write down notes, thoughts, ideas. Alternatively, use the back page for the notes and thoughts
+•	Keep a small time block out of your day for writing and reviewing your lab notes. Try to stick to it every day. 
+•	Write as you go, dont leave it until the last minute. 
+•	Ask does it need to be signed off?
+
+Can someone pick it up and replicate the experiment?
+
+### From the start of your PhD, everything you write can be used later. Make sure to keep the notes organised. Optimise your system to refer to them early on!
+##### 21.5.24
+This lesson carries on from the previous. However, reflecting on all my experiences, I think that the best way to do this is to keep everything together. In your lab-book, when you write down the reason for carrying out an experiment: if it is because your supervisor requested it, then write it down. Write all the reasons and motivations down. In your lab book, you should reference where you can find the notes from the meeting, research papers or any other information that lead you to carry out that experiment. 
+
+##### 13.3.23
+I am almost finished writing up the second chapter (experimental chapter) of my thesis. At the moment I am working on MALDI-TOF mass spectrometry and most of the things I am writing about, I had already wrote about previously  - whether it was in random document or a monthly report. Only now, I am starting to realise how important it was to organise everything. Now, I work off an app called obsidian. This helps to keep all notes in one place and allows me to link files to other files. **This is a note for other honours, masters or PhD students: organising your work earlier on will save a lot of time later.** 
 
 ###### 15.2.23
 I've been going through a range of emotions over the last couple of weeks. I've been quite upset and depressed from things not quite working in the lab. Other things also weigh on me, like the fact that the end is so close but I have a huge mountain to climb - that is writing my thesis and publishing papers with my work.
@@ -57,6 +79,15 @@ However, she did motivate me a little after that meeting and now, on Wednesday a
 
 I went back to my July 2022 folder with experimental data: Experiments that I did in the lab "just for fun." Well looking back at these experiments, I say to my past self "thankyou!!!" It was cool data that I didn't realise at the time and something that I can put into my first research paper (I am working on having 3 research papers by the end of my PhD). When my paper is published I will post about all these cool things I found! 
 
+### You should definitely make detailed notes of every PhD meeting that you attend
+When you have your weekly, biweekly or monthly PhD meeting with your supervisors, you should be writing down everything that they say, suggest or request you to do. Early on in my PhD, one of my supervisors asked me to do a set of experiments. The following week when I presented the results she said to me "I don't understand why you did this work." My response was "You requested it last week" but in her defence she said "I do not recall." This happened several times in my PhD work before I stopped doing what they requested, I noted their interests down and if they asked more than 3 times, I would do the experiment. 
+
+### Keep an Ideas notebook
+
+The thing that I have learned in my PhD is that not all ideas are good. Some are bad, and while making mistakes helps you learn, sometimes it is not worth your time. At the start of my third year, I decided that whenever I had an idea, I would write it down in a word document that I kept on my cloud. I would add different ideas in there, whether it was about reactions or applications or things to write about, paper ideas. It is only when my mind returns to that idea constantly that I decide to do it. 
+
+Now, as I write my thesis, I realise that some of these ideas that I noted down were useful, because I could use them in my Outlook and Future work chapter. It is also worth noting that all the work that you do throughout - whether it is writing, or noting things down, it will never be wasted!
+
 ### If you're worried that you have no data in your first two years, Don't stress. A PhD can be done in under a year. 
 
 Its true. A PhD is a process. You learn, you get trained on how to do research, you make mistakes and stress over the smallest things. But everything you do in your first two years only builds you up to be a better researcher. 
@@ -66,12 +97,6 @@ Its true. A PhD is a process. You learn, you get trained on how to do research, 
 *This is a little anecdote about experience. A guy fixes an instrument in 20 minutes and charges $20,000. When the customer remarks about the cost of fixing, he then says "it's 20K now, but also 20 years of my life". I am starting to realise the depth of this as the work that I did in two weeks is equivalent to about a year of my PhD. If I started my PhD fresh, right now, I could probably smash it out in 6-9 months.... But it took me 3 years to get to this point.* 
 
 Therefore, the take home message should be: **be kind to yourself.** Enjoy the learning process and spend this time working on yourself, because it is really the only time you will get. 
-
-### Keep an Ideas notebook
-
-The thing that I have learned in my PhD is that not all ideas are good. Some are bad, and while making mistakes helps you learn, sometimes it is not worth your time. At the start of my third year, I decided that whenever I had an idea, I would write it down in a word document that I kept on my cloud. I would add different ideas in there, whether it was about reactions or applications or things to write about, paper ideas. It is only when my mind returns to that idea constantly that I decide to do it. 
-
-Now, as I write my thesis, I realise that some of these ideas that I noted down were useful, because I could use them in my Outlook and Future work chapter. It is also worth noting that all the work that you do throughout - whether it is writing, or noting things down, it will never be wasted!
 
 ### The best advice I can give about presenting: No-one knows what you will say, so don't panic if you stumble!
 ###### 21.8.23
@@ -102,8 +127,3 @@ In a multistep synthesis, I’ve been trying to prepare a cholesteryl triethylen
 Since Oct 2021, I have completed my other chapters (mostly). All I need is this material. For the last month, I have been looking over my data and trying to see what went wrong. I set up a few little experiments but in the end, I needed to pay more attention to detail and that detail was the proton NMR spectrum. 
 
 I wonder where I would be right now, if I had just sat down and really looked at what is happening. Would I have a few papers? 
-
-
-### From the start of your PhD everything you write can be used later. Make sure to keep the notes organised. Optimise your system to refer to them early on!
-##### 13.3.23
-I am almost finished writing up the second chapter (experimental chapter) of my thesis. At the moment I am working on MALDI-TOF mass spectrometry and most of the things I am writing about, I had already wrote about previously  - whether it was in random document or a monthly report. Only now, I am starting to realise how important it was to organise everything. Now, I work off an app called obsidian. This helps to keep all notes in one place and allows me to link files to other files. **This is a note for other honours, masters or PhD students: organising your work earlier on will save a lot of time later.** 
