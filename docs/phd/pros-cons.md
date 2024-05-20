@@ -2,6 +2,8 @@
 title: Pros and Cons for commencing a PhD
 sidebar_position: 2
 ---
+*Date created: 23.10.23*
+
 Sometimes, I look back at myself during Highschool. I wonder what I would be if I had chosen subjects like business, or economics. Would I have enjoyed them? Would it have pushed me to pursue a degree in Finance? I wonder if I was stupid for getting into science. 
 
 Sometimes, I think back to my younger self and wonder whether the reason that I started a PhD was because I couldn't get a job, or because I didn't know what else to do... but all of these thoughts are not true. I pursued science because I was passionate about it, I loved solving problems and I wanted to make a contribution to science. 
