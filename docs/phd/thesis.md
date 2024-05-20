@@ -1,7 +1,7 @@
 ---
 title: details about my thesis
-draft: true
 ---
+
 |  Chapter | Content |	Words |	Pages |
 | :--------| :------:| :-----:| -----:|
 | 1 | Intro | 13520	| 48|
