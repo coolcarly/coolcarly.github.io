@@ -3,6 +3,7 @@ title: Considerations before starting a PhD
 sidebar_position: 3
 ---
 # Things to consider before starting a PhD
+*Date created: 2.7.23*
 
 Prior to starting my PhD, I had many people telling me that I should not choose the project, but the supervisor. They told me that the difference between a good and a bad PhD project is all to do with the supervision. I only half-believed them. Now I feel really lucky that I got great supervisors, but others in my cohort weren't so lucky. 
 
