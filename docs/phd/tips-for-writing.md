@@ -1,6 +1,9 @@
 ---
 title: Tips for Writing 
 ---
+
+*Date created: 22.10.23*
+
 I'm going to start this post with an apology, because there is no secret to writing. Nor is there a "cheat way" to write your thesis. You just do it. 
 
 When I asked for tips and tricks in early August 2023 on how to effectively write my thesis, some people would say "you just gotta do it. Sit down and do it." When people said this to me, I would roll my eyes. Isn't it obvious that I need to do that? Why won't anyone tell me their secrets? I guess for someone who writes and submits a thesis and then joins the workforce, you forget what it was like to write a thesis. That's why I'm writing this page now, while it is fresh in my mind. 
