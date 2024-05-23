@@ -12,8 +12,10 @@ Over the past few weeks, I have had the desire to improve my baking skills, so I
 Flour contains proteins glutenin and gliadin, which combine in the presence of water to form gluten (Fig 1). Prior to the addition of water, glutenin exists as a colloid. Upon addition of water to the flour, the chains are allowed to stretch, seperate, and form new disulfide linkages. These disulfide linkages create a network of glutenin polymer that produces the strength and elasticity of bread dough. At the same time, the smaller gliadin proteins will disperse through the glutenin polymer network, which allows the bread to "rise". Thus, the gluten content in bread is attributed to the type of flour that is used to make the bread. 
 
 
-![Schematic of gluten formation](./img/bread_schematic.jpeg)
-*Fig 1. Schematic of gluten formation*
+| ![Schematic of gluten formation](./img/bread_schematic.jpeg) |
+|:---:|
+|*Fig 1. Schematic of gluten formation*|
+
 
 Mixing and kneading of the flour/water mixture encourages the gluten network to further develop. During this process, carbon dioxide is incorporated, producing a more porous dough once it is baked. Yet, we dont want the gluten networks to be so strong that they become chewy and tough. This is the reason that people turn to a "no-knead" method. Sometimes, a high water content is enough to facilitate formation of strong gluten networks. 
 
