@@ -1,12 +1,13 @@
 ---
 title: Inductively Coupled Plasma (ICP) mass spectrometry (MS)/Optical emission spectroscopy (OES)
-date: 2024-05-20
+date_created: 2024-05-20
+date: 2024-05-23
 ---
-import fig1 from './img/fig1-icp.jpeg'
-
-
-
 Recently I started a position as a lab technician with Australian National Fabrication Facility (ANFF). One of the requirements of this position is to maintain the ICP. Therefore, I decided to write a short post here about ICP, which I will update with the various things that I have learned along the way. 
+
+|![](./img/icp-fig-2.jpg)|
+|:---:|
+|*Fig 1. The ICP in my lab at the University of Wollongong, with the labelled components*|
 
 ## What is ICP?
 Inductively coupled plasma (ICP) mass spectrometry (MS) or optical emission spectroscopy (OES) is a method of elemental analysis which utilises a plasma source. In ICP-MS, the ions are directly measured. In contract, ICP-OES uses an optical spectrometer to measure the photons emitted as they pass through the plasma. While both methods are extremely fast to use, cheap and straightforward, the ICP-OES has a higher sensitivity to detection. 
