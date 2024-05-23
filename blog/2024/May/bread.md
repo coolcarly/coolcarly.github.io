@@ -9,7 +9,7 @@ tags: [baking, bread]
 *9.5.2024* <br/>
 Over the past few weeks, I have had the desire to improve my baking skills, so I have invested time into making a perfect loaf of bread. With every small tweak in a recipe, I realised that there are dramatic changes, which motivated me to write about the changes in bread quality in relation to the chemistry. 
 
-Flour contains proteins glutenin and gliadin, which combine in the presence of water to form gluten (Fig 1). Prior to the addition of water, glutenin exists as a colloid. Upon addition of water to the flour, the chains are allowed to stretch, seperate, and form new disulfide linkages. These disulfide linkages create a network of glutenin polymer that produces the strength and elasticity of bread dough. At the same time, the smaller gliadin proteins will disperse through the glutenin polymer network, which allows the bread to "rise". Thus, the gluten content in bread is attributed to the type of flour that is used to make the bread. 
+Flour contains proteins glutenin and gliadin, which combine in the presence of water to form gluten (Fig 1). Prior to the addition of water, glutenin exists as a colloid. Upon addition of water to the flour, the chains are allowed to stretch, seperate, and form new disulfide linkages. These disulfide linkages create a network of glutenin polymer that produces the strength and elasticity of bread dough. At the same time, the smaller gliadin proteins will disperse through the glutenin polymer network, which allows the bread to "rise". It is the constituent that facilitates formation of the gluten network. Due to it's self-assembling properties (as it is highly hydrophobic), it will associate into spherical particles and absorb other nutrients such as vitamin E. Thus, the quality of the gluten network that forms is dependent on the type of flour that is used.
 
 
 | ![Schematic of gluten formation](./img/bread_schematic.jpeg) |
@@ -73,3 +73,7 @@ The bread was probably the best that I have made so far (I know I say this every
 | *Fig 5. Batch 5. (img 1) risen dough, (img 2) scored dough, (img 3) baked bread out of the oven and (img 4) image of the face of the bread, showing a higher level of porosity.* |
 
 The second half of the mixture was left in the fridge for 2 more days. When I removed it from the fridge (22.5.24), the dough revealed bubbles which is indicative of gas being released. It was very sticky and very difficuit to pick up. I managed to mould it into a ball, with the aid of a small amount of flour. The dough was then wrapped in plastic wrap and placed in the freezer, where it sits until I am ready to bake again. Unfortunately due to my new working commitments, I get less time to bake! I will probably bake this loaf next week. Stay tuned!
+
+### References
+1. Cho, I.H. and D.G. Peterson, Chemistry of bread aroma: A review. Food Science and Biotechnology, 2010. 19(3): p. 575-582.
+2. Sha, X., et al., The prolamins, from structure, property, to the function in encapsulation and delivery of bioactive compounds. Food Hydrocolloids, 2024. 149: p. 109508.
