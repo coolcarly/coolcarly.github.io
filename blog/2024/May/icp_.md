@@ -23,7 +23,7 @@ Inductively coupled plasma (ICP) mass spectrometry (MS) or optical emission spec
 A schematic of an ICP is displayed in Fig 2. The liquid sample is injected into a spray chamber which is converted to an aerosol via a nebuliser. During this process, only the very fine particles are injected into the inductor. In the inductor, the sample aerosol is further dried and vapourised due to the high temperatures (10000 K) in the sample carrier. In this process, all chemical bonds are broken, allowing for the vapourisation of each individual atom (Fig 2b). The free atoms collide with plasma, allowing them to transition to an excited state. Upon relaxation to ground state, the ions/atoms will emit a photon of characteristic energies, which can be used to determine the elemental origin of the ions. The total number of photons emitted is proportional to the concentration.
 
 The ionisation plasma is typically argon gas as it is chemically inert and contains a high proportion of cations and electrons with a high electron density. In the set up shown in Fig 1a, radiofrequency (RF) is applied to a coil which produces “seed” electrons which are accelerated and collide with argon gas to form argon plasma and electrons:
-                        Ar(g) → Ar<sup>+</sup> + e<sup>-</sup>
+<p align="center"> Ar(g) → Ar<sup>+</sup> + e<sup>-</sup> </p>
 
 ## About sample preparation
 Solubilised solutions (aqueous or organic) are required to perform ICP analysis. Therefore, samples (<0.2 %>) are typically treated with nitric acid (HNO<sub>3</sub>) or HCl, in a process referred to as "acid digestion".  Sample concentrations of <0.2% are crucial to avoid any matrix effects.
