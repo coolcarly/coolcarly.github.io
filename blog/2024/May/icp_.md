@@ -5,6 +5,7 @@ date: 2024-05-20
 import fig1 from './img/fig1-icp.jpeg'
 
 
+
 Recently I started a position as a lab technician with Australian National Fabrication Facility (ANFF). One of the requirements of this position is to maintain the ICP. Therefore, I decided to write a short post here about ICP, which I will update with the various things that I have learned along the way. 
 
 ## What is ICP?
@@ -13,13 +14,12 @@ Inductively coupled plasma (ICP) mass spectrometry (MS) or optical emission spec
 ## How does ICP work?
 
 
-![Schematic of ICP](./img/fig1-icp.jpeg)
+| ![Schematic of ICP](./img/fig1-icp.jpeg)|
+|:---:|
+|*Figure 2. Schematic of ICP: (a) engineered setup and (b) behaviour of the sample inside the sample channel. Images taken from (Hou and Jones) and (McCurdy and Potter)* |
 
- Figure 1. Schematic of ICP: (a) engineered setup and (b) behaviour of the sample inside the sample channel. Images taken from (Hou and Jones) and(McCurdy and Potter) 
 
-
-
-A schematic of an ICP is displayed in Fig 1. The liquid sample is injected into a spray chamber which is converted to an aerosol via a nebuliser. During this process, only the very fine particles are injected into the inductor. In the inductor, the sample aerosol is further dried and vapourised due to the high temperatures (10000 K) in the sample carrier. In this process, all chemical bonds are broken, allowing for the vapourisation of each individual atom (Fig 1b). The free atoms collide with plasma, allowing them to transition to an excited state. Upon relaxation to ground state, the ions/atoms will emit a photon of characteristic energies, which can be used to determine the elemental origin of the ions. The total number of photons emitted is proportional to the concentration.
+A schematic of an ICP is displayed in Fig 2. The liquid sample is injected into a spray chamber which is converted to an aerosol via a nebuliser. During this process, only the very fine particles are injected into the inductor. In the inductor, the sample aerosol is further dried and vapourised due to the high temperatures (10000 K) in the sample carrier. In this process, all chemical bonds are broken, allowing for the vapourisation of each individual atom (Fig 2b). The free atoms collide with plasma, allowing them to transition to an excited state. Upon relaxation to ground state, the ions/atoms will emit a photon of characteristic energies, which can be used to determine the elemental origin of the ions. The total number of photons emitted is proportional to the concentration.
 
 The ionisation plasma is typically argon gas as it is chemically inert and contains a high proportion of cations and electrons with a high electron density. In the set up shown in Fig 1a, radiofrequency (RF) is applied to a coil which produces “seed” electrons which are accelerated and collide with argon gas to form argon plasma and electrons:
                         Ar(g) → Ar<sup>+</sup> + e<sup>-</sup>
