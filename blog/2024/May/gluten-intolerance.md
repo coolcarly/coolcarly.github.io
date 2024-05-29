@@ -20,11 +20,11 @@ Deamidation of gliadin produces negatively charged peptides at physiological pH 
 
 
 ### References
-1. Sha, X., et al., The prolamins, from structure, property, to the function in encapsulation and delivery of bioactive compounds. Food Hydrocolloids, 2024. 149: p. 109508.</br>
-2. Aboulaghras, S., et al., Pathophysiology and immunogenetics of celiac disease. Clinica Chimica Acta, 2022. 528: p. 74-83.1. </br>
-3. Lerner, A. and C. Benzvi, "Let Food Be Thy Medicine": Gluten and Potential Role in Neurodegeneration. Cells, 2021. 10(4). </br>
-4. Parzanese, I., et al., Celiac disease: From pathophysiology to treatment. World J Gastrointest Pathophysiol, 2017. 8(2): p. 27-38. </br>
-5. Lorand, L. and R.M. Graham, Transglutaminases: crosslinking enzymes with pleiotropic functions. Nature Reviews Molecular Cell Biology, 2003. 4(2): p. 140-156. </br>
+1. Sha, X., et al., The prolamins, from structure, property, to the function in encapsulation and delivery of bioactive compounds. Food Hydrocolloids, 2024. 149: p. 109508.
+2. Aboulaghras, S., et al., Pathophysiology and immunogenetics of celiac disease. Clinica Chimica Acta, 2022. 528: p. 74-83.1. 
+3. Lerner, A. and C. Benzvi, "Let Food Be Thy Medicine": Gluten and Potential Role in Neurodegeneration. Cells, 2021. 10(4). 
+4. Parzanese, I., et al., Celiac disease: From pathophysiology to treatment. World J Gastrointest Pathophysiol, 2017. 8(2): p. 27-38.
+5. Lorand, L. and R.M. Graham, Transglutaminases: crosslinking enzymes with pleiotropic functions. Nature Reviews Molecular Cell Biology, 2003. 4(2): p. 140-156.
 
 
  
