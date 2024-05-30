@@ -78,9 +78,10 @@ The second half of the mixture was left in the fridge for 2 more days. When I re
 Yesterday morning, I took the bread dough out of the freezer and placed it ontop of a plastic board, with the plastic wrap still covering it. I allowed it to sit in the fridge while it defrosted. The appearance was no different to when I put it in the freezer, however, it seemed to have less structural integrity (i.e. everytime I tried to mould it into a ball, overtime it would loss the shape). At 4.30pm, I begun preparing the oven to bake the dough. I popped it in for another half an hour bake, followed by 15 minutes without the lid.
 
 When I pulled it out of the oven, it had a very large circumference which is consistent with the dough losing its shape. It rose a bit, but was not as inflated as previous. I suspect that some of the yeast died when it was frozen and to compensate for this, I shouldve added extra yeast to the batch. The bread was hard on the outside and soft on the inside, just like I like it. It was very porous and tasted good. I think this bread was great overall. 
-|![](./img/bread-20240530.svg)|
+
+| ![](./img/bread-20240530.svg) |
 |:---:|
-|*Fig 6. Batch 6: after the dough was frozen for 1 week, it was defrosted for 2 days in the fridge and then baked as usual.|
+|*Fig 6. Batch 6: after the dough was frozen for 1 week, it was defrosted for 2 days in the fridge and then baked as usual.* |
 
 ### References
 1. Cho, I.H. and D.G. Peterson, Chemistry of bread aroma: A review. Food Science and Biotechnology, 2010. 19(3): p. 575-582.
