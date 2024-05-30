@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[9114],{7924:l=>{l.exports=JSON.parse('{"label":"conducting polymers","permalink":"/blog/tags/conducting-polymers","allTagsPath":"/blog/tags","count":1}')}}]);
