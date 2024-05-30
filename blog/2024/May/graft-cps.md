@@ -1,6 +1,7 @@
 ---
 title: Graft copolymers consisting of poly(3-hexylthiophene)
 date: 2024-05-30
+tags: [conducting polymers, science, chemistry, biocompatibility, graft copolymers]
 ---
 
 Jadranka Travas-Sejdic is a polymer scientist and professor over at the University of Auckland. As a condition of PhD submission, you needed to send through a form including five nominated examiners. Jadranka was one of them. At this point, I am not sure if she was my reviewer but I admire her a lot and if she was, I am hoping that she enjoyed reading my thesis.
