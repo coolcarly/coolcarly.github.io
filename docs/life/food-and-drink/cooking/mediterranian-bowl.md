@@ -1,5 +1,6 @@
 ---
 title: Mediterranian Bowl 
+tags: [my vegetarian cookbook]
 ---
 import mediterranianPic from './pics/mediterranian-bowl.jpeg';
 

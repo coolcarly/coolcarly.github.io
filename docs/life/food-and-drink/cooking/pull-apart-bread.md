@@ -1,5 +1,6 @@
 ---
 title: Pull apart bread
+tags: [my vegetarian cookbook]
 ---
 
 # Pull apart bread 

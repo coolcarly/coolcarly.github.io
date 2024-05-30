@@ -1,6 +1,7 @@
 ---
 title: Zucchini tart 
 pagination_next: null
+tags: [my vegetarian cookbook]
 ---
 import tartPic from './pics/zucchini-tart.jpeg'
 

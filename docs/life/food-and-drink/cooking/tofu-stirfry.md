@@ -1,5 +1,6 @@
 ---
 title: Tofu Stir fry
+tags: [my vegetarian cookbook]
 ---
 import tofuPic from './pics/bbq-tofu.jpeg'; 
 

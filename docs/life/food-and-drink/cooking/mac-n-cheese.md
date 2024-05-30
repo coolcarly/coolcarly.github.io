@@ -1,5 +1,6 @@
 ---
 title: Mac n Cheese
+tags: [my vegetarian cookbook]
 ---
 
 import macPic from './pics/mac-cheese.jpeg';

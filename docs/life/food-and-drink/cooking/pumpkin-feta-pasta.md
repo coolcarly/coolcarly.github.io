@@ -1,5 +1,6 @@
 ---
 title: Pumpkin & Feta Pasta
+tags: [my vegetarian cookbook]
 ---
 
 I was too lazy to write out this recipe, but it is one of my faves. See here: 

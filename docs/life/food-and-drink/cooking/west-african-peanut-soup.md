@@ -1,5 +1,6 @@
 ---
 title: West African Peanut Soup
+tags: [my vegetarian cookbook]
 ---
 import peanutsoupPic from './pics/peanut-soup.jpeg';
 

@@ -1,5 +1,6 @@
 ---
 title: Vegetarian lasagne
+tags: [my vegetarian cookbook]
 ---
 import lasagnePic from './pics/lasagne.jpeg';
 

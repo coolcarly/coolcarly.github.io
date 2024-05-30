@@ -2,9 +2,10 @@
 title: About
 sidebar_position: 1
 pagination_prev: null
+tags: [my vegetarian cookbook]
 ---
 
-This is a section about the things that I make. Sometimes they are my own creation, sometimes they are links to recipes I really enjoyed and many will be modified versions of existing recipes. Sometimes my throws together are great and work well, sometimes they can be improved and other times not so much.
+This is a section is my vegetarian cook book. Sometimes they are my own creation, sometimes they are links to recipes I really enjoyed and many will be modified versions of existing recipes. Sometimes my throws together are great and work well, sometimes they can be improved and other times not so much.
 
 The thing is, I do not organise my meals for the week. Only on a Saturday when Nick and I hit the supermarket for our weekly grocery shop does it occur to me that I should've planned for the week. I usually buy a standard set of ingredients and work off what I have in the fridge. I buy things that are cheaper: for example when broccoli or cauliflower is like $2. I try to buy things that will soon expire to prevent food waste (make the world better). For example, Nick and I endulge ourselves in croissants when they are about to expire. :) 
 
