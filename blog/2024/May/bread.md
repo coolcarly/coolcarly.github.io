@@ -1,8 +1,8 @@
 ---
 title: Exploration of bread making
 date_created: 2024-05-09
-date: 2024-05-20
-tags: [baking, bread]
+date: 2024-05-30
+tags: [baking, bread, my vegetarian cookbook]
 ---
 <!-- import Figure from '/Volumes/code/coolcarly.github.io/src/components/Figures/figures'; -->
 
@@ -74,6 +74,14 @@ The bread was probably the best that I have made so far (I know I say this every
 
 The second half of the mixture was left in the fridge for 2 more days. When I removed it from the fridge (22.5.24), the dough revealed bubbles which is indicative of gas being released. It was very sticky and very difficuit to pick up. I managed to mould it into a ball, with the aid of a small amount of flour. The dough was then wrapped in plastic wrap and placed in the freezer, where it sits until I am ready to bake again. Unfortunately due to my new working commitments, I get less time to bake! I will probably bake this loaf next week. Stay tuned!
 
+*Date updated: 30.5.24*
+Yesterday morning, I took the bread dough out of the freezer and placed it ontop of a plastic board, with the plastic wrap still covering it. I allowed it to sit in the fridge while it defrosted. The appearance was no different to when I put it in the freezer, however, it seemed to have less structural integrity (i.e. everytime I tried to mould it into a ball, overtime it would loss the shape). At 4.30pm, I begun preparing the oven to bake the dough. I popped it in for another half an hour bake, followed by 15 minutes without the lid.
+
+When I pulled it out of the oven, it had a very large circumference which is consistent with the dough losing its shape. It rose a bit, but was not as inflated as previous. I suspect that some of the yeast died when it was frozen and to compensate for this, I shouldve added extra yeast to the batch. The bread was hard on the outside and soft on the inside, just like I like it. It was very porous and tasted good. I think this bread was great overall. 
+|![](./img/bread-20240530.svg)|
+|:---:|
+|*Fig 6. Batch 6: after the dough was frozen for 1 week, it was defrosted for 2 days in the fridge and then baked as usual.|
+
 ### References
 1. Cho, I.H. and D.G. Peterson, Chemistry of bread aroma: A review. Food Science and Biotechnology, 2010. 19(3): p. 575-582.
-2. Sha, X., et al., The prolamins, from structure, property, to the function in encapsulation and delivery of bioactive compounds. Food Hydrocolloids, 2024. 149: p. 109508.
+2. Sha, X., et al., The prolamins, fro structure, property, to the function in encapsulation and delivery of bioactive compounds. Food Hydrocolloids, 2024. 149: p. 109508.
