@@ -5,7 +5,7 @@ date: 2024-05-30
 tags: [baking, bread, my vegetarian cookbook]
 ---
 <!-- import Figure from '/Volumes/code/coolcarly.github.io/src/components/Figures/figures'; -->
-
+## A bit of science behind bread
 *9.5.2024* <br/>
 Over the past few weeks, I have had the desire to improve my baking skills, so I have invested time into making a perfect loaf of bread. With every small tweak in a recipe, I realised that there are dramatic changes, which motivated me to write about the changes in bread quality in relation to the chemistry. 
 
@@ -22,7 +22,7 @@ Mixing and kneading of the flour/water mixture encourages the gluten network to 
 Yet, there is one more ingredient that is required to create the gluten network... and that is salt. As mentioned in the ["salting-out"](/science/salt) post, salt helps to decrease the water content. In this instance, salt will remove water from the protein/polymer network to increase the strength and elasicity. 
 
 --------- 
-
+## Making the initial loaf
 The initial recipe that I started with came from Nagi: [RecipeTinEats](https://www.recipetineats.com/easy-yeast-bread-recipe-no-knead/). The ingredients required were:
 <p align="center"> 450 g flour <br/> 2 tsp yeast <br/> 2 tsp salt <br/> 375 mL of warm watern (~40 °C) </p>
 
@@ -38,12 +38,13 @@ A few days later, I used the recommended amount of yeast (2 tsp), weighed out th
 
 Without a job at this point, I wanted to bake more and change the conditions to geet the best loaf. I wondered what is the impact of leaving the dough to sit for longer? What is the impact of kneading? Surely I can google this, but I wanted to experience the feeling and taste differences. Therefore, the next batch that I made, was using the same contents as above only, I allowed the dough to sit for 3 hours at room temperature, then 2 days in the fridge (covered). The day before cooking, I pulled out the dough, moulded it into a ball and allowed it to sit covered in plastic wrap in the fridge overnight. When I baked this loaf, it rose slightly more than the last batch, and was also more porous (Fig 3). From what I understand, it seems that when you put the dough in the fridge, fermentation is slowed down to allow the development of more complex flavours.
 
+## Optimising a few conditions
 
 | ![third batch](./img/bread-3.jpeg) |
 |:---:|
 |*Fig 3. Batch 3: (img 1) moulded dough for baking, (img 2) final product and (img 3) a photo of the sliced bread, observing the porosity of the loaf.* |
 
-*15.5.2024* <br/>
+### *15.5.2024* <br/>
 
 The next parameter that I wanted to test is the impact of kneading on the dough. Therefore, a dough was prepared as previous, however, it was kneaded for 5 minutes of before allowing the dough to rise. Due to the better properties of the previous batch of bread, the dough was immediately placed in the fridge, in a covered bowel. The dough was left for close to 22 hours in the fridge. The dough appeared to have similar textures as the previous batch, however, was less soft upon touching it.
 
@@ -56,7 +57,7 @@ While the final bread loaf in Fig 4 (img 3) appears to be more uniform, without 
 |:---:|
 |*Fig 4. Batch 4: (img 1) dough after kneading and ready to be placed in the frige, (img 2) moulded dough for baking, (img 3) final product and (img 4) a photo of the sliced bread, observing the porosity of the loaf.* |
 
-*20.5.2024* <br/>
+### *20.5.2024* <br/>
 
 This time, I doubled the batch size using the following ingredients:
 
@@ -74,7 +75,7 @@ The bread was probably the best that I have made so far (I know I say this every
 
 The second half of the mixture was left in the fridge for 2 more days. When I removed it from the fridge (22.5.24), the dough revealed bubbles which is indicative of gas being released. It was very sticky and very difficuit to pick up. I managed to mould it into a ball, with the aid of a small amount of flour. The dough was then wrapped in plastic wrap and placed in the freezer, where it sits until I am ready to bake again. Unfortunately due to my new working commitments, I get less time to bake! I will probably bake this loaf next week. Stay tuned!
 
-*Date updated: 30.5.24*
+### *30.5.24*
 Yesterday morning, I took the bread dough out of the freezer and placed it ontop of a plastic board, with the plastic wrap still covering it. I allowed it to sit in the fridge while it defrosted. The appearance was no different to when I put it in the freezer, however, it seemed to have less structural integrity (i.e. everytime I tried to mould it into a ball, overtime it would loss the shape). At 4.30pm, I begun preparing the oven to bake the dough. I popped it in for another half an hour bake, followed by 15 minutes without the lid.
 
 When I pulled it out of the oven, it had a very large circumference which is consistent with the dough losing its shape. It rose a bit, but was not as inflated as previous. I suspect that some of the yeast died when it was frozen and to compensate for this, I shouldve added extra yeast to the batch. The bread was hard on the outside and soft on the inside, just like I like it. It was very porous and tasted good. I think this bread was great overall. 
@@ -83,6 +84,19 @@ When I pulled it out of the oven, it had a very large circumference which is con
 |:---:|
 |*Fig 6. Batch 6: after the dough was frozen for 1 week, it was defrosted for 2 days in the fridge and then baked as usual.* |
 
-### References
+
+## Making dough with the intention of freezing it...
+
+### *1.5.2024* <br/>
+In preparation of a new dough, I used the following ingredients: 
+<div align="center">451 g flour<br/> 3 tsp yeast <br/> 1.5 cups of water + extra 48 g <br/>1 pinch sugar <br/> 2 tsp salt </div>
+
+In this recipe, I used extra yeast as I intend to freeze the bread. In the [last batch](./bread/#30524), the bread was really flat and seemed to keep losing it's shape. I attributed the poor shape to yeast dying during the freezing process. This enticed me to use more yeast this time, as I plan to freeze it. 
+
+*Method*
+To the yeast, add the warm water and a pinch of sugar. Wait 5-10 minutes for the yeast to foam (I love this part! It's like I am controlling my own little world). Add all dry ingredients to a bowl. Mix around and add the water/yeast mixture. Stir through. (Note: the mixture will be very wet. That is great. The more wet or sticky it is, the more porous it will be! Although I'm not sure how freezing will affect this though) and cover for 3 hours. (Note: I put my dough in the microwave, seems to be a warm spot). Next, I will wrap it up in gladwrap (maybe add a slight bit of flour to prevent it sticking), and then put in the freezer. 
+
+
+## References
 1. Cho, I.H. and D.G. Peterson, Chemistry of bread aroma: A review. Food Science and Biotechnology, 2010. 19(3): p. 575-582.
 2. Sha, X., et al., The prolamins, fro structure, property, to the function in encapsulation and delivery of bioactive compounds. Food Hydrocolloids, 2024. 149: p. 109508.
