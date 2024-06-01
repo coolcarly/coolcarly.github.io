@@ -94,7 +94,11 @@ In preparation of a new dough, I used the following ingredients:
 In this recipe, I used extra yeast as I intend to freeze the bread. In the [last batch](/blog/2024/May/bread#30524), the bread was really flat and seemed to keep losing it's shape. I attributed the poor shape to yeast dying during the freezing process. This enticed me to use more yeast this time, as I plan to freeze it. 
 
 *Method*
-To the yeast, add the warm water and a pinch of sugar. Wait 5-10 minutes for the yeast to foam (I love this part! It's like I am controlling my own little world). Add all dry ingredients to a bowl. Mix around and add the water/yeast mixture. Stir through. (Note: the mixture will be very wet. That is great. The more wet or sticky it is, the more porous it will be! Although I'm not sure how freezing will affect this though) and cover for 3 hours. (Note: I put my dough in the microwave, seems to be a warm spot). Next, I will wrap it up in gladwrap (maybe add a slight bit of flour to prevent it sticking), and then put in the freezer. 
+To the yeast, add the warm water and a pinch of sugar. Wait 5-10 minutes for the yeast to foam (I love this part! It's like I am controlling my own little world). Add all dry ingredients to a bowl. Mix around and add the water/yeast mixture. Stir through. (Note: the mixture will be very wet. That is great. The more wet or sticky it is, the more porous it will be! Although I'm not sure how freezing will affect this though) and cover for 3 hours. (Note: I put my dough in the microwave, seems to be a warm spot). 
+
+After 3 hours, I pulled the dough out of the bowl, a lightly covered with flour, being careful not to press it (i.e. knead) too much. Next, I placed it in a bread bag, allowing a little bit of air in and room for the dough to still grow and then put into the freezer where it will sit for a few days. I plan to bake it sometime next week. 
+
+Stay tuned!
 
 
 ## References
