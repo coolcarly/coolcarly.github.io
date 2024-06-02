@@ -1,6 +1,6 @@
 ---
 title: Pros and Cons for commencing a PhD
-sidebar_position: 2
+sidebar_position: 3
 ---
 *Date created: 23.10.23*
 

@@ -1,5 +1,7 @@
 ---
 title: Tips for Writing 
+sidebar_position: 7
+date: 2023-10-22
 ---
 
 *Date created: 22.10.23*

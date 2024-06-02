@@ -1,6 +1,6 @@
 ---
 title: If I could start over, what would I do differently?
-sidebar_position: 4
+sidebar_position: 6
 ---
 
 ### 3 August 2023

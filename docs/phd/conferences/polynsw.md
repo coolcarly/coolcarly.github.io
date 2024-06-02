@@ -1,5 +1,6 @@
 ---
 title: PolyNSW
+draft: True
 ---
 ## 2023 ECR symposium
 *(20.10.2023) *As I write, I am sitting in my final symposium of my PhD: PolyNSW. This society is made up of researchers around NSW with interests in polymer science. This particular symposium is an early career researcher event at University of New South Wales. I submitted an abstract several months ago and found out last week that it was accepted for a talk. Yesterday, I received  the final version of the prpgram, only to realise that my talk is the last one. 
