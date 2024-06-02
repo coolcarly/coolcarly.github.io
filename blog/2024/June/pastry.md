@@ -23,17 +23,21 @@ In a large mixing bowl, the flour and salt were combined. Butter was chopped int
 
 I think 2 hours is adequate enough to chill the pastry, however, I left it in the fridge until I wanted to use it. 
 
+## Further preparation
 *2.6.24*<br/>
-I pulled the dough out of the fridge and unwrapped it. There were folding marks present, however once I rolled it out with a rolling pin, the dough became smooth again. I tried to roll it out as thin as I could and then cut it into three sections. One filled the inside of a pan, and the other is to act as a pie top (for dinner tomorrow night). Both were covered and placed in the fridge again. 
-
-With the third section, I divided it into five small triangles. 1 tsp of filling was placed in the centre of each triangle and then it was folded onto itself several times to make a triangle like shape. The triangles were placed in the oven to bake for 30 minutes.  
-
-The filling consisted of: 
-<div align="center"> 1/4 cup ricotta <br/> 1/4 cup crumbled feta <br/>  pinch of nutmeg + pepper <br/> 1/4 cup tasty cheese<br/> sprinkle of bread crumbs <br/> 1 egg </div> 
-
+I pulled the dough out of the fridge and unwrapped it. There were folding marks present, however once I rolled it out with a rolling pin, the dough became smooth again. I tried to roll it out as thin as I could and then cut it into three sections. One filled the inside of a pan, and the other is to act as a pie top (for dinner tomorrow night, see image 1 below). Both were covered and placed in the fridge again. 
 
 | ![](./img/pastry3.jpeg) |
 |:---:|
 |*Img caption: Preparation of a pie (left) and the cheese triangles after baking (right)*|
 
+### Cheese trianges
+With the third section, I divided it into five small triangles. 1 tsp of filling was placed in the centre of each triangle and then it was folded onto itself several times to make a triangle like shape. The triangles were placed in the oven to bake for 30 minutes.  
+
+The filling consisted of: 
+<div align="center"> 1/4 cup ricotta <br/> 1/4 cup crumbled feta <br/>  pinch of nutmeg + pepper <br/> 1/4 cup tasty cheese<br/> sprinkle of bread crumbs <br/> 1 egg <br/></div> 
+
 I have to say, I enjoyed this pastry! It tasted very savoury, and you could not pick up any sweetness, only from that of the cheese. 
+
+### Spinach and ricotta pie 
+On the menu tomorrow night! Stay tuned. 
