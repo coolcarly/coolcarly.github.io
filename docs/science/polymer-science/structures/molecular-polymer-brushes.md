@@ -1,5 +1,6 @@
 ---
 title: Molecular Polymer Brushes (MPB)
+sidebar_position: 1
 ---
 import graftingPic from './pics/grafting-mpb.png'; 
 import mpbPic from '/docs/phd/pictures/polymerbrush.png'

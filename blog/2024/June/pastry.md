@@ -1,9 +1,14 @@
 ---
 title: Puff pastry
 date_created: 2024-06-01
-date: 2024-06-02
-showLastUpdateTime: true
+date: 2024-06-01
+keywords: 
+- Pastry
+- baking
 tags: [pastry, my vegetarian cookbook, cooking]
+last_update:
+  date: 2024-06-02
+  author: Carly Baker
 ---
 
 ## Preparation of the pastry
