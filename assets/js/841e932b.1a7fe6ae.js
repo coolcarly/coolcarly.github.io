@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[6077],{5902:t=>{t.exports=JSON.parse('{"label":"PhD","permalink":"/tags/ph-d","allTagsPath":"/tags","count":1,"items":[{"id":"phd/about-my-phd","title":"About my PhD","description":"Date created: 3.5.2023","permalink":"/phd/about-my-phd"}]}')}}]);

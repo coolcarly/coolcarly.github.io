@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[4481],{9004:l=>{l.exports=JSON.parse('{"label":"graft copolymers","permalink":"/blog/tags/graft-copolymers","allTagsPath":"/blog/tags","count":1}')}}]);

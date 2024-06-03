@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[5418],{4036:l=>{l.exports=JSON.parse('{"label":"biocompatibility","permalink":"/blog/tags/biocompatibility","allTagsPath":"/blog/tags","count":1}')}}]);
