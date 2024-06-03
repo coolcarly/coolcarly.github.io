@@ -1,7 +1,7 @@
 ---
 title: Puff pastry
 date_created: 2024-06-01
-date: 2024-06-01
+date: 2024-06-03
 keywords: 
 - Pastry
 - baking
@@ -45,4 +45,19 @@ The filling consisted of:
 I have to say, I enjoyed this pastry! It tasted very savoury, and you could not pick up any sweetness, only from that of the cheese. 
 
 ### Spinach and ricotta pie 
-On the menu tomorrow night! Stay tuned. 
+*3.6.24*
+**Ingredients list:**
+<div align="center"> 100 g ricotta<br/> 50 g crumbled feta<br/> 1/2 cup tasty cheese <br/> 2 eggs <br/> hand full of spinach <br/> 1 cup of sliced mushroom <br/> 1 tbsp olive oil <br/> 1/2 brown onion <br/>
+
+</div>
+
+When I arrived home from work, around 5 pm, I preheated the oven to 200 degrees. In a frypan, I cooked onion in ~1tbsp of olive oil until it was translucent. Next, the mushrooms were added and fried for about 7 minutes (until brown and sweating), finally I added 2 handfulls of fresh spinach and cooked until wittled. Mixture was cooled for a few minutes.
+
+The mushroom mixture was added to a bowl filled with ricotta, feta, tasty cheese and egg. The mixture was stirred and then transferred to the baking dish containing the pastry. Next, the second sheet of pastry was placed on top and the edges were joined together using a fork. Holes were marked in the top of the pie using a fork and then the pie was briefly brushed with milk. 
+
+The pie was baked for 40 minutes, and left to sit at room temperature for 10 minutes before eating. 
+
+|![](./img/pastry-pie.jpeg)|
+|:---:|
+| *Img Caption: Tonights dinner, Mushroom & spinach pie. Sorry I cut it before I could take a pic..... I really need to get better at remembering to photograph what I do! |
+
