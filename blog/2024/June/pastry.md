@@ -59,5 +59,5 @@ The pie was baked for 40 minutes, and left to sit at room temperature for 10 min
 
 |![](./img/pastry-pie.jpeg)|
 |:---:|
-| *Img Caption: Tonights dinner, Mushroom & spinach pie. Sorry I cut it before I could take a pic..... I really need to get better at remembering to photograph what I do! |
+| *Img Caption: Tonights dinner, Mushroom & spinach pie. Sorry I cut it before I could take a pic..... I really need to get better at remembering to photograph what I do!*|
 
