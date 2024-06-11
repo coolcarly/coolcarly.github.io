@@ -1,14 +1,16 @@
 ---
-title: Mudgee 🍷
+title: Mudgee, NSW 🍷
 date_created: 2024-06-07
 date: 2024-06-11
 tags: [Mudgee, Wine tours, Wine, Vineyards, Shiraz, Long weekend]
 ---
 
-#### *Friday 7 June 2024*
-Over the long weekend, Nick and I headed to Mudgee with a group of Nick's friends. We were staying in a cute house in Erudgere (~10 mins from Mudgee centre). It was a large house, with 2 bathrooms, which were very modern. It seemed like they were recently renovated. There were 7 bedrooms, containing double beds. We took the bedroom opposite the kitchen. 
+Over the long weekend, Nick and I headed to 📍 [Mudgee, NSW, Australia](https://maps.app.goo.gl/mc1zKcQgysVsQXE17) with a group of Nick's friends. We were staying in a cute house in Erudgere (~10 mins from Mudgee centre). It was a large house, with 2 bathrooms (and an ensuite, which was apart of a different bedroom - not ours), which were very modern. The house appeared to be recently renovated. There were 7 bedrooms, each containing double beds. We took the bedroom opposite the kitchen. 
 
-We drove up on Friday afternoon. We were very lucky that our neighbours were happy to mind Chip. We arrived at 8.30 pm, after a 4 hour long trip, with very little traffic (most traffic through the Blue Mountains). On the drive, I was astound at how many cars were travelling this far west, surely they are not all going to Mudgee?
+This place had a large backyard with the most incredible spa (we went in every night!!! I cannot resist a large body of water). There was also a fire pit located in the yard (about 25 m from the house). Every night, we sat by the fire. It was pretty great. Over the time that we were here, the temperatures were very cool with a maximum of 14 °C. 
+
+#### *Friday 7 June 2024*
+We drove up on Friday afternoon. We were very lucky that our neighbours were happy to mind Chip and we said that we should gift them some wine as a thankyou. We arrived at 8.30 pm, after a 4 hour long trip, with very little traffic (most traffic through the Blue Mountains). On the drive, I was astounded at how many cars were travelling this far west. I thought to myself that surely they are not all going to Mudgee? Once we passed Lithgow, all the traffic mostly subsided and we drove alone on the roads.
 
 #### *Saturday 8 June 2024*
 On the Saturday morning, we headed into town and bought coffee from *Althea by Zin.* This was a very cute little bakery, which sold artisan bread and other pastry treats. The coffee was pretty good, despite us having to order a double shot, and also considering that it was pretty expensive ($11 for two coffees). 
@@ -132,7 +134,7 @@ Despite the group buying a number of liquers, we still had to pay a tasting fee.
 
 Next, we headed for lunch at Blue Wren.
 
-### Blue Wren
+### Blue Wren Farm
 
 Lunch was booked for 1.30 pm, but we showed up to Blue Wren Farm ~40 minutes early. They allowed us to sit. The waiters were very good and accomodated us very well. However, there was not much to eat for vegetarians, so I had bread and potatos for lunch + a lemon lime and bitters. I wasn't too fussed though because I was still full from our large breakfast. It just annoyed me that it costed $40 just for bread and potatos. Once everyone was finished eating, I was pretty keen to leave and do other things with the day. 
 
@@ -147,7 +149,7 @@ Pieter Van Gent is located on a large farm. As you enter the drive way there wer
 
 Our tasting consisted of five wines ($10 pp/tasting) including a vermentino, moscato, Shiraz, Tawny and a "white port". We learned that this place specialises in Tawny and so many members of our group loved it. Most of the wines here were not my style, however, the 2013 Shiraz was pretty nice and we ended up purchasing a bottle ($20 special, but with tasting fee it costed $30). 
 
-I was glad that we got back before the sunset today, so I could go for quick 5 km run. It made me feel great after a long weekend of drinking wine. 
+I was glad that we got back before the sunset today, so I could go for quick 5 km run. It made me feel great after a long weekend of drinking wine. Other wineries were suggested to us, which will be on the list for the next time we go, including [Lowe Family Wines](https://maps.app.goo.gl/kXz5CTgC7jScMVzX6) and Di Lusso (although, the owners are planning to sell so may not be around for much longer).
 
 In the evening, we enjoyed another fire. 
 
@@ -157,6 +159,8 @@ In the evening, we enjoyed another fire.
 
 #### *Tuesday 11 June 2024*
 We were up at 7 am, cleaning and packing before heading off at 8 am. We stopped at the Dancing Goat Cafe in Mudgee and ordered a coffee and takeaway rolls: a B&E roll for Nick and an Egg roll for me. Note: they weren't so much rolls as they were burgers, and they were pretty great as well. This was my favourite cafe in Mudgee and I would go back here again if we ever come back to Mudgee. 
+
+As we drove in the dark on the way to Mudgee, we did not get to see any of the features such as the rolling hills and the mountenous backdrop. The drive home was pretty great, especially heading through the Blue Mountains. Nick and I spoke about the rolling hills and how how cool they were. In terms of country and land, Mudgee is a lot nicer to look at than the Hunter Valley (in my opinion).
 
 A 4-hour drive later and we were back in Wollongong.
 
