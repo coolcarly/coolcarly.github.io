@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[1811],{31936:e=>{e.exports=JSON.parse('{"label":"Long weekend","permalink":"/blog/tags/long-weekend","allTagsPath":"/blog/tags","count":1}')}}]);

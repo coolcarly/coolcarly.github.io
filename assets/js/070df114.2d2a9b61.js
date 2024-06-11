@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[8738],{519:a=>{a.exports=JSON.parse('{"label":"LaTeX","permalink":"/blog/tags/la-te-x","allTagsPath":"/blog/tags","count":1}')}}]);

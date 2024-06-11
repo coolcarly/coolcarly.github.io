@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[8010],{80119:l=>{l.exports=JSON.parse('{"label":"gluten","permalink":"/blog/tags/gluten","allTagsPath":"/blog/tags","count":1}')}}]);
