@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[1330],{73922:s=>{s.exports=JSON.parse('{"label":"thesis corrections","permalink":"/blog/tags/thesis-corrections","allTagsPath":"/blog/tags","count":1}')}}]);
