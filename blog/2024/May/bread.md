@@ -87,7 +87,7 @@ When I pulled it out of the oven, it had a very large circumference which is con
 
 ## Making dough with the intention of freezing it...
 
-### *1.5.2024* <br/>
+### *1.6.2024* <br/>
 In preparation of a new dough, I used the following ingredients: 
 <div align="center">451 g flour<br/> 3 tsp yeast <br/> 1.5 cups of water + extra 48 g <br/>1 pinch sugar <br/> 2 tsp salt </div>
 
@@ -98,8 +98,10 @@ To the yeast, add the warm water and a pinch of sugar. Wait 5-10 minutes for the
 
 After 3 hours, I pulled the dough out of the bowl, a lightly covered with flour, being careful not to press it (i.e. knead) too much. Next, I placed it in a bread bag, allowing a little bit of air in and room for the dough to still grow and then put into the freezer where it will sit for a few days. I plan to bake it sometime next week. 
 
-Stay tuned!
+### *14.6.2024* <br/>
+On Tuesday 11.6.24, I pulled the dough out of the freezer and let it defrost in the fridge for 48 hours. On Thursday 13.6.24, when I arrived home from work, I moulded the bread (using some new bread moulders that I got last week) and baked in a preheated dutch oven. The bread was very tasty, with an even amount of pores. It rose a significant amount, indicating that the yeast was still active. The bread remained soft and fresh tasting for 3 days. I will definitely use this freezing method from now on. 
 
+The next task that I will undertake is crafting sourdough bread. I will begin with making a sourdough startup. 
 
 ## References
 1. Cho, I.H. and D.G. Peterson, Chemistry of bread aroma: A review. Food Science and Biotechnology, 2010. 19(3): p. 575-582.
