@@ -1,15 +1,20 @@
 ---
 title: Exploration of bread making
 date_created: 2024-05-09
-date: 2024-05-30
+date: 2024-06-22
 tags: [baking, bread, my vegetarian cookbook]
 ---
 <!-- import Figure from '/Volumes/code/coolcarly.github.io/src/components/Figures/figures'; -->
+
+## What I will cover in this post?
+In this post, I will talk briefly about the science of bread, go through the optimisation of a bread recipe, testing several parameters including yeast content, hydration and the impact of freezing the dough before cooking. I will end this post by investigating wheat-based composites (basically mixtures of various wheat and non-wheat based flours).
+
+
 ## A bit of science behind bread
 *9.5.2024* <br/>
-Over the past few weeks, I have had the desire to improve my baking skills, so I have invested time into making a perfect loaf of bread. With every small tweak in a recipe, I realised that there are dramatic changes, which motivated me to write about the changes in bread quality in relation to the chemistry. 
+<!-- Over the past few weeks, I have had the desire to improve my baking skills, so I have invested time into making a perfect loaf of bread. With every small tweak in a recipe, I realised that there are dramatic changes, which motivated me to write about the changes in bread quality in relation to the chemistry.  -->
 
-Flour contains proteins glutenin and gliadin, which combine in the presence of water to form gluten (Fig 1). Prior to the addition of water, glutenin exists as a colloid. Upon addition of water to the flour, the chains are allowed to stretch, seperate, and form new disulfide linkages. These disulfide linkages create a network of glutenin polymer that produces the strength and elasticity of bread dough. At the same time, the smaller gliadin proteins will disperse through the glutenin polymer network, which allows the bread to "rise". It is the constituent that facilitates formation of the gluten network. Due to it's self-assembling properties (as it is highly hydrophobic), it will associate into spherical particles and absorb other nutrients such as vitamin E. Thus, the quality of the gluten network that forms is dependent on the type of flour that is used.
+Flour contains proteins glutenin and gliadin, which are hydrophobic (water-hating) peptides. In the presence of water, they will self-assemble to form gluten (Fig 1), which is a result of the molecule preventing the hydrophobic regions from interacting with water. Prior to the addition of water, glutenin exists as a colloid. Upon addition of water to the flour, the chains are allowed to stretch, seperate, and form new disulfide linkages. These disulfide linkages create a network of glutenin polymer that produces the strength and elasticity of bread dough. At the same time, the smaller gliadin proteins will disperse through the glutenin polymer network, which allows the bread to "rise". It is the constituent that facilitates formation of the gluten network. Due to it's self-assembling properties (as it is highly hydrophobic), it will associate into spherical particles and absorb other nutrients such as vitamin E. Thus, the quality of the gluten network that forms is dependent on the type of flour that is used.
 
 
 | ![Schematic of gluten formation](./img/bread_schematic.jpeg) |
@@ -80,6 +85,7 @@ Yesterday morning, I took the bread dough out of the freezer and placed it ontop
 
 When I pulled it out of the oven, it had a very large circumference which is consistent with the dough losing its shape. It rose a bit, but was not as inflated as previous. I suspect that some of the yeast died when it was frozen and to compensate for this, I shouldve added extra yeast to the batch. The bread was hard on the outside and soft on the inside, just like I like it. It was very porous and tasted good. I think this bread was great overall. 
 
+
 | ![](./img/bread-20240530.svg) |
 |:---:|
 |*Fig 6. Batch 6: after the dough was frozen for 1 week, it was defrosted for 2 days in the fridge and then baked as usual.* |
@@ -103,6 +109,35 @@ On Tuesday 11.6.24, I pulled the dough out of the freezer and let it defrost in 
 
 The next task that I will undertake is crafting sourdough bread. I will begin with making a sourdough startup. 
 
+## Incorporating Soy Flour
+### *22.6.24*
+I was in the process of growing my sourdough starter, when I had an urge to bake more bread. This post is exhausted with the optimisation of bread, which I did not want to add to as it would get repetitive overtime. But this loaf was a little different. 
+
+On Thursday evening (20/6/24), I started to foam the yeast in warm water, and weigh out all the ingredients, when I found that we had no flour left. I used 300 g of plain flour. Then I scummaged the cupboard for anything that we may have and I found soy and coconut flour. After doing a quick search online, I found that people often add soy flour to their recipe to create softer bread. The highest % of soy flour incorporated was 10%. Therefore, I changed the recipe and used soy flour with plain flour. In my recipe, I used 16% of soy flour.
+
+**Ingredients:**
+<div align="center"> 300 g plain flour <br/> 50 g soy flour <br/> 295 g water <br/> 2 tsp yeast <br/> 1 tsp salt <br/> a little flour for working up the dough <br/> </div>
+
+**Steps:**
+1. As usual, the yeast was grown in the warm water until it foamed (5 mins). 
+2. Dry ingredients were combined
+3. Everything was mixed with a wooden spoon. The dough was very sticky and hydrated!
+4. The mixing bowl was covered and left and placed in the fridge for 36 hours. (note: by putting it in the fridge it slows the fermentation process. I think it was perfect at about 24 hours.)
+5. The dutch oven was preheated to 220 °C for 30 minutes
+6. The dough was taken from the fridge and folded a few times (with a little bit of spared flour for working). I believe this is a crucial step to ensure that the bread is porous but not too porous. 
+7. The dough was placed in the dutch oven (using baking paper to transfer) and cooked for 30 minutes with the lid on, then 10 minutes with the lid off. 
+8. The bread was allowed to cool for 10 minutes before we had it for breakfast! 😊
+
+The bread was so soft! Unlike the other loaves that I made, this one was very easy to cut through. It was so soft in the mouth and had a different flavour to it. I'm not sure if the flavour was because there was a lower flour to yeast ratio, or due to the Soy flour, but it was definitely tasty and slightly sweeter than usual. It should also be noted that previous studies with soy flour have indicated that 10% incorporation is best for the texture and flavour of bread. 
+
+|![](./img/bread6.jpeg)|
+|:---:|
+|*Img caption: Bread made with 16% soy flour*|
+
+As you can see from the images, the crumb of soy flour is slightly browner than previous loaves, with the crust being more golden. Soy bean itself is hydrophillic (water-loving) compared to wheat-flour which is water-hating. In bread recipes using 100% wheat flour, the hydrophobic associations (forms of non-covalent bonds, or interactions between molecules) between the gluten network make the bread quite tough. On the other hand, as soy flour is hydrophillic, it is more effective at absorbing water, which means that by incorporating soy flour into the dough, you will retain a higher level of water during the baking process. The proteins in soy will interact with water, and as the water evaporates, the bonds are less tough and therefore the bread will be softer.
+
+
 ## References
 1. Cho, I.H. and D.G. Peterson, Chemistry of bread aroma: A review. Food Science and Biotechnology, 2010. 19(3): p. 575-582.
 2. Sha, X., et al., The prolamins, fro structure, property, to the function in encapsulation and delivery of bioactive compounds. Food Hydrocolloids, 2024. 149: p. 109508.
+3. Taghdir M, Mazloomi SM, Honar N, Sepandi M, Ashourpour M, Salehi M. Effect of soy flour on nutritional, physicochemical, and sensory characteristics of gluten-free bread. Food Sci Nutr. 2017; 5: 439–445. https://doi.org/10.1002/fsn3.411
