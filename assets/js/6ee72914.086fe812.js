@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[5644],{89945:a=>{a.exports=JSON.parse('{"label":"sourdough discard","permalink":"/blog/tags/sourdough-discard","allTagsPath":"/blog/tags","count":2}')}}]);
