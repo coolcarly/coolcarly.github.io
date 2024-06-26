@@ -57,12 +57,12 @@ At this point, I was convinced that the yeast was alive. Just before I was going
 Now, I decided to increase the feed content of the starter. I took 22 g of the starter and fed it with 40 g of flour and 99 g of water. 
 
 ## *Day 9 Saturday 22 June 2024*
-Again, when I checked the sourdough starter (at 4 pm), it was very foamy but did not appear to rise. 
+Again, when I checked the sourdough starter (at 7 am), it was very foamy but did not appear to rise. However, while we were out during the day, I placed the starter into the warm-ish oven (it was no hotter than 30 degrees). When I returned home, the starter was more bubbly than before and it grew by about 60%. I suspect that 4 hours in a warm oven helped the bacteria to grow.
 
-I weighed 22 g of the mixture into a fresh jar and fed it with 45 g of rye flour and 75 g water. While we were out during the day, I placed the starter into the warm-ish oven (it was no hotter than 30 degrees). When I returned home, the starter was more bubbly than before. 
+At 4.30 pm, I weighed 22 g of the mixture into a fresh jar and fed it with 45 g of rye flour and 75 g water.
 
 ## *Day 10 Sunday 23 June 2024*
-When I checked the starter at 8 am, I saw that the starter grew almost to double it's size. I suspect that 4 hours in a 30 degree oven helped the bacteria to grow. How exciting! By 4 pm, the starter appeared more active and grew a little more. 
+When I checked the starter at 8 am, I saw that the starter grew almost to double it's size. How exciting! By 4 pm, the starter appeared more active and grew a little more. 
 
 In a fresh jar, I weighed 20 g of starter, added 40 g of rye flour and 84 g water. With the left over discard, I made banana pancakes ! They were very tasty and fluffy too. 
 
@@ -70,7 +70,7 @@ In a fresh jar, I weighed 20 g of starter, added 40 g of rye flour and 84 g wate
 I checked the starter at 6 am and I saw that the starter grew slightly but it seemed to collapse by 4 pm. It looks like it is ready to bake. I just need to get my timing right. Once again, in a fresh jarr, I weighed 16 g of starter, 47 g flour and 99 g water. It was more watery than usual (I wanted to know if it wasn't rising because of the water content). The discard was placed in a fresh container and left in the fridge for 2 days (I made pastry with it later on).
 
 ## *Day 12 Tuesday 25 June 2024*
-In the morning, it appeared to rise (not double it's size, but by 50%), but once again by 4 pm - it shrunk. 
+In the morning, the starter appeared to rise (not double it's size, but by 50%), but once again by 4 pm - it shrunk. 
 
 I repeated the procedure. I weighed 16 g of starter in a fresh jar, and fed it with 50 g of flour and 82 g of water. With this discard, I made [pancakes](./sourdough-pancakes.md).
 
