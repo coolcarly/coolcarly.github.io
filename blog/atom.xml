@@ -2,11 +2,39 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://coolcarly.github.io/blog</id>
     <title>Carly.cool Blog</title>
-    <updated>2024-06-22T00:00:00.000Z</updated>
+    <updated>2024-06-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://coolcarly.github.io/blog"/>
     <subtitle>Carly.cool Blog</subtitle>
     <icon>https://coolcarly.github.io/img/my-icon-favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sourdough Pancakes]]></title>
+        <id>https://coolcarly.github.io/blog/2024/June/sourdough-pancakes</id>
+        <link href="https://coolcarly.github.io/blog/2024/June/sourdough-pancakes"/>
+        <updated>2024-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 23.6.24, I used my sourdough discard for the first time. At this point it was 10 days old. Just before I was preparing to use it, I noticed that it had rose almost double its initial size. It was very gaseous and therefore, I thought it was active and ready.]]></summary>
+        <content type="html"><![CDATA[<p>On 23.6.24, I used my sourdough discard for the first time. At this point it was 10 days old. Just before I was preparing to use it, I noticed that it had rose almost double its initial size. It was very gaseous and therefore, I thought it was active and ready. </p><p>The first recipe I used was the following:
+Makes 5 pancakes. Serving size is probably 1-2. </p><p>97 g starter (discard)<br>
+112 g plain flour<br>
+1 tsp sugar<br>
+1/2 tsp salt<br>
+2 tsp baking powder<br>
+3/4 cup of milk (warmed)<br>
+1/2 frozen banana<br>
+1 egg. <br></p><p>The method was as follows: </p><ol><li>Combine dry ingredients</li><li>Add wet ingredients</li><li>Let it sit for 5 minutes (it will bubble a bit because of the sourdough discard)</li><li>Fry 30 sec each side. </li><li>Serve with butter</li></ol><p>The pancakes were indeed very fluffy and full! I enjoyed these pancakes so much that a few days later, on 25.6.24, I made more! </p><p>The next time I made them, I changed the ingredients as follows (methods are the same): </p><p>50-100 g starter<br>
+112 g plain flour <br>
+1 scoop of protein powder<br>
+1/2 tsp salt<br>
+2 tsp baking powder<br>
+3/4 cup milk (warmed)<br>
+1/2 frozen banana<br>
+1 egg. <br></p><p>These pancakes were delicious and I ate two for lunch the following day! </p><table><thead><tr><th align="center"><img loading="lazy" src="/assets/images/pancakes-40fb114e4f68df91687fbbf394ed3f36.jpeg" width="1280" height="359" class="img_ev3q"></th></tr></thead><tbody><tr><td align="center"><em>Img caption: The batter (left image), pancakes cooking (middle image) and the final product (right image)</em></td></tr></tbody></table>]]></content>
+        <category label="cooking" term="cooking"/>
+        <category label="my vegetarian cookbook" term="my vegetarian cookbook"/>
+        <category label="sourdough starter" term="sourdough starter"/>
+        <category label="sourdough discard" term="sourdough discard"/>
+        <category label="pancakes" term="pancakes"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exploration of bread making]]></title>
         <id>https://coolcarly.github.io/blog/2024/May/bread</id>
