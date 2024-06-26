@@ -2,7 +2,7 @@
 title: Sourdough pastry
 date_created: 2024-06-26
 date: 2024-06-26
-Tags: [cooking, my vegetarian cookbook, sourdough starter, sourdough discard, pancakes]
+tags: [cooking, my vegetarian cookbook, sourdough starter, sourdough discard, pancakes]
 ---
 
 What can we do with sourdough discard? I would hate to waste my sourdough discards, which is why I have been searching for different things to do with it. Did you know that discard lasts for a few days in the fridge? This recipe uses a 2 day old discard.
