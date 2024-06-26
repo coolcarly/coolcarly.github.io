@@ -5,7 +5,7 @@ date: 2024-06-17
 tags: [sourdough starter, my vegetarian cookbook]
 ---
 
-*Date created: 17.06.2024; Date modified: 27.06.2024*
+*Date created: 17.06.2024; Date modified: 27.06.2024* <br/>
 In order to prepare a sourdough starter, I needed 1 week where I wasn't going to be away from home. After the [Mudgee](./mudge-24.md) weekend, I decided that this week would be a perfect opportunity to get the starter up and running. What do I mean by a sourdough starter? I mean to grow the bacteria necessary to craft sourdough bread. 
 
 I started with the following equipment/ingredients: 
