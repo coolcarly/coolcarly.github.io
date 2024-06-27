@@ -80,7 +80,7 @@ By 8 am, it grew as per yesterday. This time, I wanted to see if feeding it woul
 ## *Day 14 Thursday 27 June 2024*
 At 6 am, I saw that the sourdough starter had deflated since last night. There's no wonder considering that I did not feed it yesterday. As usual, I weighed out 22 g of starter and fed it with 40 g of flour and 64 g of water. The reason for using more starter this time, is that I am worried that the yeast is not strong enough yet. 
 
-........... this will continue.
+At 5 pm, I observed that the sourdough did not grow a lot. Maybe 20%? I know it is alive and well, I am not sure what is wrong. Therefore, just before I went to bed, I placed it in the warm oven. I suspect that when I did that on Saturday, it grew a lot. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
