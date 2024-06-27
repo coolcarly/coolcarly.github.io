@@ -1,7 +1,7 @@
 ---
 title: Sourdough starter
 date_created: 2024-06-17
-date: 2024-06-17
+date: 2024-06-27
 tags: [sourdough starter, my vegetarian cookbook]
 ---
 
@@ -77,13 +77,17 @@ I repeated the procedure. I weighed 16 g of starter in a fresh jar, and fed it w
 ## *Day 13 Wednesday 26 June 2024*
 By 8 am, it grew as per yesterday. This time, I wanted to see if feeding it would sustain the yeast for a little longer. Therefore, at 8 am, I added 13 g of flour and 17 g of water. Over the day, it grew but not a lot. At 8 pm, I watched the starter and it looked like it was breathing with gas bubbles popping occasionally. I left the sourdough starter to sit overnight. 
 
-## *Day 14 Wednesday 27 June 2024*
+## *Day 14 Thursday 27 June 2024*
 At 6 am, I saw that the sourdough starter had deflated since last night. There's no wonder considering that I did not feed it yesterday. As usual, I weighed out 22 g of starter and fed it with 40 g of flour and 64 g of water. The reason for using more starter this time, is that I am worried that the yeast is not strong enough yet. 
 
 ........... this will continue.
 
 ## Outlook:
-- Since Day 1, the temperature has been average of 18.2 ± 1.2, with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
+- Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
+  
+| ![](./img/temp.jpeg)|
+|:---:|
+|*Figure 1. Temperature fluctuation over 7 days in the kitchen*|
 
 <!-- Things to note: 
 Your starter is healthy and vigorous — in other words, good for baking — when it doubles in size within 6 to 8 hours. A helpful blog post: [here](https://www.kingarthurbaking.com/blog/2020/06/10/10-tips-for-new-sourdough-bakers#I-read) -->
