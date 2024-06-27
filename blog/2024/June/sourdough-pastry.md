@@ -19,7 +19,7 @@ Ingredients:
 1/2 tsp garlic powder<br/>
 50-100 g of sourdough starter*<br/>
 
-Method: 
+Method (pastry): 
 1. The butter was cut into small cubes (0.5 cmx0.5cm) 
 2. The butter and flour was rubbed together to make a crumbled flour
 3. The oil was added and mixed in, then the flour was rubbed further
@@ -28,6 +28,29 @@ Method:
 6. A small amount of water was added (just to make it come together)
 7. Stretch and fold of the pastry several times
 8. Moulded the pastry into a Dish, covered and placed in the fridge overnight.*
+
+**Filling:**
+1/2 brown onion <br/> 
+1 garlic cloves<br/>
+1/4 cup cream<br/>
+60 g ricotta<br/>
+1/3 cup tasty cheese<br/>
+200 g button mushrooms, sliced<br/>
+2 handfulls of spinach<br/>
+1 tsp salt
+1/2 tsp pepper
+
+9. Over medium heat, melt butter and fry onion and garlic until onion is translucent. 
+10. Add mushrooms and fry until they start to sweat. 
+11. Add spinach.
+12. In a seperate bowl, combine the cheese and cream. Add the mushroom mixture and salt and pepper. 
+13. Pour mixture into the dish (pre-moulded with pastry)
+14. Cover the top with the second layer of pastry. 
+15. Bake at 200 °C (fan forced) for 30 minutes. 
+
+|![](./img/pastry-sourdough.jpeg)||
+|:---:|
+|*Img caption: The rolling out of one pastry (left), the filling of the pastry in the dish (middle) and the final product (right).*|
 
 **Notes about this recipe:**
 Note about the starter: This was a disguard that I kept in the fridge for 2 days. I think it is safe to leave sourdough disguard for 3 days in the fridge, so I wanted to use it before I needed to throw it away. 
