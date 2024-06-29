@@ -19,7 +19,7 @@ Note: Some say that you should use bottled water for the initial week (because c
 
 The ideal environment is 24–28 °C. As it is winter, sometimes I used warmer water (30°C) and wrapped it in a towel to warm it up. 
 
-Here I have listed the method that I used to create my sourdough starter. It is still young at the moment and I have not yet baked bread with it.
+Here I have listed the method that I used to create my sourdough starter. For the first month of life, I fed (and plan to feed) it everyday. This post therefore covers the first month with references to things I've baked with it (where appropriate).
 
 ## *Day 1, Friday 14 June 2024*
 First, I weighed out my jar. Next, I measured 20 g of rye flour and 30 g of water and combined. The mixture was as viscous as a "thick pancake batter." The jar was covered with a breathable lid (in my case, paper towl) and left to sit at room temperature for 24 hours. Note here that the temperature will determine the speed at which the bacteria will grow. At the moment, it is winter so the temperatures will be max 20 °C. 
