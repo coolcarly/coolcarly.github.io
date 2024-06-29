@@ -1,7 +1,7 @@
 ---
 title: Sourdough starter
 date_created: 2024-06-17
-date: 2024-06-27
+date: 2024-06-29
 tags: [sourdough starter, my vegetarian cookbook]
 ---
 
@@ -25,7 +25,7 @@ Here I have listed the method that I used to create my sourdough starter. It is 
 First, I weighed out my jar. Next, I measured 20 g of rye flour and 30 g of water and combined. The mixture was as viscous as a "thick pancake batter." The jar was covered with a breathable lid (in my case, paper towl) and left to sit at room temperature for 24 hours. Note here that the temperature will determine the speed at which the bacteria will grow. At the moment, it is winter so the temperatures will be max 20 °C. 
 
 ## *Day 2, Saturday 15 June 2024*
-I repeated the process. I added 20 g of rye flour and 30 g of water, mixed to combine so it appeared as a "thick pancake batter", covered and let it sit at room temperature for 24 hours. 
+I repeated the process. I added 20g of rye flour and 30 g of water, mixed to combine so it appeared as a "thick pancake batter", covered and let it sit at room temperature for 24 hours. 
 
 ## *Day 3, Sunday 16 June 2024*
 I repeated the process: 20 g of rye flour and 30 g of water, mixed to combine so it appeared as a "thick pancake batter", covered and let it sit at room temperature for 24 hours. At this stage, the starter was beginning to smell very sour, almost like our food bin/compost bin. 
@@ -46,7 +46,6 @@ I checked the sourdough again this morning. The temperature was 16.7 °C. There 
 It is unusual that there was no activity. There could be many reasons for this. Perhaps that the temperature is so cold. Therefore, I wrapped the container in a tea towel to assist in warming up the jar. 
 
 At the usual time of 4.30 pm, I halved the starter (31 g) and fed the starter more flour (30 g) and water (53 g). 
-
 
 ## *Day 7 Thursday 20 June 2024*
 The starter appeared to grow slightly when I checked it this morning. As the last few days, I gave it a stir and added a little bit of water (10 g). In the afternoon, I halved the mixture (33 g starter) and fed it with 30 g rye flour and 54 g of water.
@@ -80,7 +79,18 @@ By 8 am, it grew as per yesterday. This time, I wanted to see if feeding it woul
 ## *Day 14 Thursday 27 June 2024*
 At 6 am, I saw that the sourdough starter had deflated since last night. There's no wonder considering that I did not feed it yesterday. As usual, I weighed out 22 g of starter and fed it with 40 g of flour and 64 g of water. The reason for using more starter this time, is that I am worried that the yeast is not strong enough yet. 
 
-At 5 pm, I observed that the sourdough did not grow a lot. Maybe 20%? I know it is alive and well, I am not sure what is wrong. Therefore, just before I went to bed, I placed it in the warm oven. I suspect that when I did that on Saturday, it grew a lot. 
+At 5 pm, I observed that the sourdough did not grow a lot. Maybe 20%? I know it is alive and well, I am not sure what is wrong. Therefore, just before I went to bed, I placed it in the warm-ish oven. I suspect that when I did that on Saturday, it grew a lot. 
+
+## *Day 15 Friday 28 June 2024*
+I suspected right, because at 5.55 am I observed that the starter deflated (based on the marks on the jar). In a seperate jar, I fed 24 g of starter with 50 g of flour and 80 g of water. On this day, I came home from work at 2 pm. I saw that the starter had risen and as I watched it over the rest of the day, I saw that it began to deflate at 3 pm. So I've figured out that it is 9 hours. 
+
+At 8.10 pm, I went to feed the starter to get my timing right. However, I did not have a clean jar present. Therefore, I emptied half of my starter (I put it in the fridge) and fed with 45 g of flour and 88 g of water. I placed the covered jar in the oven over night. 
+
+## *Day 16 Saturday 29 June 2024*
+At 7.30 am, I checked the starter and I saw once again that it deflated. No suprise since I left it for 11 hours. In addition, I did a float test and observed that the starter sunk to the bottom of the cup. Now, it was 7.30 am and I wanted to try baking today! Therefore, once again, in a clean jar, I took 24 g of starter and fed with 55 g of water. I placed in the oven (30 degrees). The discard was kept in the same jar (which I planned to feed later in the day to keep). At 10am, I checked the sourdough starter and no bubbles were forming. I gave it a vigorous mix which produced air bubbles, and more began to form. At 12.45 pm, the starter passed the float test. 
+
+At 1.30 pm, I used the entirety of the sourdough (that was fed in the morning) to prepare a loaf of sourdough bread.
+
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
@@ -88,6 +98,11 @@ At 5 pm, I observed that the sourdough did not grow a lot. Maybe 20%? I know it 
 | ![](./img/temp.jpeg)|
 |:---:|
 |*Figure 1. Temperature fluctuation over 7 days in the kitchen*|
+
+## Notes for this post/future directions
+- I am updating this for the first month of life. Afterwards, I would hope that it is healthy enough to keep in the fridge and maintain once a week. 
+- I plan to move the starter to a different type of flour - because rye flour is so expensive. This will be covered in a different post. 
+- I will prepare a video to show the appearances of my starter overtime. I also will include photos. 
 
 <!-- Things to note: 
 Your starter is healthy and vigorous — in other words, good for baking — when it doubles in size within 6 to 8 hours. A helpful blog post: [here](https://www.kingarthurbaking.com/blog/2020/06/10/10-tips-for-new-sourdough-bakers#I-read) -->
