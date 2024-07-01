@@ -106,7 +106,7 @@ Just before I headed off to work (8 am), I checked the starter and it is very cl
   
 | ![](./img/temp.jpeg)|
 |:---:|
-|*Figure 1. Temperature fluctuation over 7 days in the kitchen*|
+|*Figure 1. Temperature fluctuation over 7 days in the kitchen. The arrows indicate times where I was using the stove.*|
 
 ## Notes for this post/future directions
 - I am updating this for the first month of life. Afterwards, I would hope that it is healthy enough to keep in the fridge and maintain once a week. 
