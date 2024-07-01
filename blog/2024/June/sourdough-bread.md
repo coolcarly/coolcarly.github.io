@@ -25,3 +25,6 @@ As I cut into the loaf, it was very soft and easy to cut. However, the bread was
 
 In terms of smell and taste, it had a sourness to it - as expected. All in all, it was a good attempt at my first loaf of sourdough. 
 
+|![](./img/dough-to-bread.jpeg)|
+|:---:|
+|*Img caption: From dough to bread.*|
