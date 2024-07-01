@@ -98,7 +98,7 @@ I did not check the starter at all today. At 4 pm, it appeared to have risen sub
 ## *Day 18 Monday 1 July 2024*
 At 5 pm, I weighed 32 g of sourdough starter into a fresh jar and fed with 30 g rye flour and 47 g of water. It sat on the bench at room temperature overnight. With the discard, I prepared another pizza dough. I think I am addicted to baking now and I need to stop before my waist grows too large (ha ha!)
 
-## *Day 20 Tuesday 2 July 2024*
+## *Day 19 Tuesday 2 July 2024*
 Just before I headed off to work (8 am), I checked the starter and it is very close to doubling its size. 
 
 ## Outlook:
