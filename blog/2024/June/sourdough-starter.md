@@ -14,10 +14,11 @@ I started with the following equipment/ingredients:
 - 2 x 500 g jars
 - food scale
 
-Note: I chose rye flour as the starting flour because it is meant to have a higher level of good bacteria. 
-Note: Some say that you should use bottled water for the initial week (because chlorine is not present). I filled a drink bottle and left it overnight. By doing this, the chlorine dissapates from the water. You could also use boiled water (cooled down of course).
-
-The ideal environment is 24–28 °C. As it is winter, sometimes I used warmer water (30°C) and wrapped it in a towel to warm it up. 
+**Some general things to note:**
+- I chose rye flour as the starting flour because it is meant to have a higher level of good bacteria and enzymes to aid in healthy fermentation.
+- Some say that you should use bottled water for the initial week (because chlorine is present in tap water, which kills all bacteria). I filled a drink bottle with tap water and left it overnight. By doing this, the chlorine dissapates from the water. You could also use boiled water (cooled down of course).
+- The ideal environment is 24–28 °C. As it is winter, sometimes I used warmer water (30°C) and wrapped it in a towel to warm it up.
+- While the starter is on the bench at room temperature, you need to cover it with a breathable lid: such as paper towel and rubber band. Once you place it in the fridge (because you are not using it frequently), you can put a lid on (but very loosely). This is because the microorganisms in the starter are constantly converting the carbohydrates/sugars in the flour to carbon dioxide. If you do not let the gas out, then there will be a build up of pressure in the gar, leading to an explosion. 
 
 Here I have listed the method that I used to create my sourdough starter. For the first month of life, I fed (and plan to feed) it everyday. This post therefore covers the first month with references to things I've baked with it (where appropriate).
 
@@ -92,10 +93,13 @@ At 7.30 am, I checked the starter and I saw once again that it deflated. No supr
 At 1.30 pm, I used the entirety of the sourdough (that was fed in the morning) to prepare a loaf of sourdough bread.At 4.30 pm, I fed the sourdough discard (25 g) with 42 g flour and 78 g of water. After adding water, the temperature of the starter was 31 °C, and it immediately began bubbling. It was left for 24 hours at room temperature. 
 
 ## *Day 17 Sunday 30 June 2024*
-I did not check the starter at all today. At 4 pm, it appeared to have risen substantially. I used 80 g of the starter to make sourdough pizza crust and with the remaining sourdough starter in the jar, I added 37 g of rye and 58 g of water. I allowed it to sit on the bench at room temperature for another 24 hours. 
+I did not check the starter at all today. At 4 pm, it appeared to have risen substantially. I used 80 g of the starter to make [sourdough pizza crust](./sourdough-pizza.md) and with the remaining sourdough starter in the jar, I added 37 g of rye and 58 g of water. I allowed it to sit on the bench at room temperature for another 24 hours. 
 
 ## *Day 18 Monday 1 July 2024*
-At 5 pm, I weighed 32 g of sourdough starter into a fresh jar and fed with 30 g rye flour and 47 g of water. 
+At 5 pm, I weighed 32 g of sourdough starter into a fresh jar and fed with 30 g rye flour and 47 g of water. It sat on the bench at room temperature overnight. With the discard, I prepared another pizza dough. I think I am addicted to baking now and I need to stop before my waist grows too large (ha ha!)
+
+## *Day 20 Tuesday 2 July 2024*
+Just before I headed off to work (8 am), I checked the starter and it is very close to doubling its size. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
