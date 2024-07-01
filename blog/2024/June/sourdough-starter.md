@@ -89,8 +89,13 @@ At 8.10 pm, I went to feed the starter to get my timing right. However, I did no
 ## *Day 16 Saturday 29 June 2024*
 At 7.30 am, I checked the starter and I saw once again that it deflated. No suprise since I left it for 11 hours. In addition, I did a float test and observed that the starter sunk to the bottom of the cup. Now, it was 7.30 am and I wanted to try baking today! Therefore, once again, in a clean jar, I took 24 g of starter and fed with 55 g of water. I placed in the oven (30 degrees). The discard was kept in the same jar (which I planned to feed later in the day to keep). At 10am, I checked the sourdough starter and no bubbles were forming. I gave it a vigorous mix which produced air bubbles, and more began to form. At 12.45 pm, the starter passed the float test. 
 
-At 1.30 pm, I used the entirety of the sourdough (that was fed in the morning) to prepare a loaf of sourdough bread.
+At 1.30 pm, I used the entirety of the sourdough (that was fed in the morning) to prepare a loaf of sourdough bread.At 4.30 pm, I fed the sourdough discard (25 g) with 42 g flour and 78 g of water. After adding water, the temperature of the starter was 31 °C, and it immediately began bubbling. It was left for 24 hours at room temperature. 
 
+## *Day 17 Sunday 30 June 2024*
+I did not check the starter at all today. At 4 pm, it appeared to have risen substantially. I used 80 g of the starter to make sourdough pizza crust and with the remaining sourdough starter in the jar, I added 37 g of rye and 58 g of water. I allowed it to sit on the bench at room temperature for another 24 hours. 
+
+## *Day 18 Monday 1 July 2024*
+At 5 pm, I weighed 32 g of sourdough starter into a fresh jar and fed with 30 g rye flour and 47 g of water. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
