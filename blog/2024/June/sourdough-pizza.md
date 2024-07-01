@@ -6,12 +6,12 @@ tags: [my vegetarian cookbook, sourdough]
 Note: this makes 1 x pizza dough. 
 
 **Ingredients:**
-143 g pizza flour 
-1 tsp salt
-2 tsp olive oil
-71 g sourdough discard
-93 g water
-50 g extra plain flour 
+143 g pizza flour <br/>
+1 tsp salt<br/>
+2 tsp olive oil<br/>
+71 g sourdough discard<br/>
+93 g water<br/>
+50 g extra plain flour <br/>
 
 **Methods:**
 1. Combine dry ingredients and oil.
@@ -28,6 +28,6 @@ The crust was so soft! I cannot wait to acquire a woodfired oven so we can make 
 
 |![](./img/pizza.jpeg)|
 |:---:|
-|*Img Caption: Preparation of garlic (+ mushroom and halloumi) pizza for a side dish with dinner tonight |
+|*Img Caption: Preparation of garlic (+ mushroom and halloumi) pizza for a side dish with dinner tonight* |
 
 Note: I used the discard. I think it is okay to facilitate growth, as the extra flour is feeding the yeast, you just may need to leave it much longer. 
