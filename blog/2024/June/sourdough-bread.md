@@ -21,7 +21,7 @@ I preheated the oven to 220 °C, and then the Dutch oven for 30 minutes. Followi
 
 When I pulled the loaf from the oven, it was quite small. Yet, it did rise a significant amount, indicating that the yeast was active. I forgot to score the loaf. However, the loaf did not break during baking. My initial thoughts were that the loaf is going to be very dense. I let it sit for 20 mins to cool, before cutting into the loaf.
 
-As I cut into the loaf, it was very soft and easy to cut. However, the bread was also very moist and damp. I think that the water content was too high and I didn’t bake it with the lid on for long enough. Next time, I should do 30 minutes on and 10 mins off. In addition, I definitely need to decrease the water content. As a result of the remaining water, it was more dense than I expected, which gave it a cake-like texture. 
+As I cut into the loaf, it was very soft and easy to cut. However, the bread was also very moist and damp. I think that the water content was too high and I didn’t bake it with the lid on for long enough. Next time, I should do 30 minutes on and 10 mins off. In addition, I definitely need to decrease the water content. As a result of the remaining water, it was more dense than I expected, which gave it a cake-like texture. For days following, the bread remained pretty fresh likely due to that high water density.  
 
 In terms of smell and taste, it had a sourness to it - as expected. All in all, it was a good attempt at my first loaf of sourdough. 
 
