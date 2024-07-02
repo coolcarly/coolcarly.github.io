@@ -100,7 +100,9 @@ I did not check the starter at all today. At 4 pm, it appeared to have risen sub
 At 5 pm, I weighed 32 g of sourdough starter into a fresh jar and fed with 30 g rye flour and 47 g of water. It sat on the bench at room temperature overnight. With the discard, I prepared another pizza dough. I think I am addicted to baking now and I need to stop before my waist grows too large (ha ha!)
 
 ## *Day 19 Tuesday 2 July 2024*
-Just before I headed off to work (8 am), I checked the starter and it is very close to doubling its size. 
+Just before I headed off to work (8 am), I checked the starter and it is very close to doubling its size. When I returned home, it deflated but was still larger than it was after the original feeding. 
+
+After preparing dinner (5.30 pm), I fed the starter. As I am thinking to bake less for the next few days, I halved the mixture. In a fresh jar, I weighed 11 g of starter. I fed it with 20 g of flour and 41 g of water. The addition of this much water was a mistake (I tipped the water bottle too heavily). It was not too much of an issue though, all I observed was that it became more porous. The starter was left to sit at room temperature for 24 hours. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
