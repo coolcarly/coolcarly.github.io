@@ -5,7 +5,7 @@ date: 2024-06-29
 tags: [sourdough starter, my vegetarian cookbook]
 ---
 
-*Date created: 17.06.2024; Date modified: 27.06.2024* <br/>
+*Date created: 17.06.2024; Date modified: 03.07.2024* <br/>
 In order to prepare a sourdough starter, I needed 1 week where I wasn't going to be away from home. After the [Mudgee](./mudge-24.md) weekend, I decided that this week would be a perfect opportunity to get the starter up and running. What do I mean by a sourdough starter? I mean to grow the bacteria necessary to craft sourdough bread. 
 
 I started with the following equipment/ingredients: 
@@ -103,6 +103,9 @@ At 5 pm, I weighed 32 g of sourdough starter into a fresh jar and fed with 30 g 
 Just before I headed off to work (8 am), I checked the starter and it is very close to doubling its size. When I returned home, it deflated but was still larger than it was after the original feeding. 
 
 After preparing dinner (5.30 pm), I fed the starter. As I am thinking to bake less for the next few days, I halved the mixture. In a fresh jar, I weighed 11 g of starter. I fed it with 20 g of flour and 41 g of water. The addition of this much water was a mistake (I tipped the water bottle too heavily). It was not too much of an issue though, all I observed was that it became more porous. The starter was left to sit at room temperature for 24 hours. 
+
+## *Day 20 Wednesday 3 July 2024*
+When I checked the starter in the morning, it grew by 50%. By 5 pm, it deflated back to the original level. At 6.30 pm, I fed 12 g of the starter (in a fresh jar) with 18 g of flour and 25 g of water. I combined the remaining starter with the discard in the fridge. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
