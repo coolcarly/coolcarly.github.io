@@ -107,6 +107,15 @@ After preparing dinner (5.30 pm), I fed the starter. As I am thinking to bake le
 ## *Day 20 Wednesday 3 July 2024*
 When I checked the starter in the morning, it grew by 50%. By 5 pm, it deflated back to the original level. At 6.30 pm, I fed 12 g of the starter (in a fresh jar) with 18 g of flour and 25 g of water. I combined the remaining starter with the discard in the fridge. 
 
+## *Day 21 Thursday 4 July 2024*
+At 8 pm, I fed the sourdough starter. I did not discard any of the starter (~30 g in total), instead I added 16 g of flour and 28 g of water. 
+
+The following morning (8 am), on *Day 22 Friday 5 July 2024*, I fed the entirety of the starter 15 g of flour and 25 g of water. 
+
+At 4 pm on Day 22, I used most of the starter (81 g) to prepare dough for bread. The mixture consisted of 81 g starter; 601 g bread flour; 1.5 tsp salt and 320 g of water. 
+
+As I was preparing the dough, the starter formed a shape, revealing ~20 g of starter in the jar. It smelt slightly alcoholic. I realised that I probably didn't feed it enough this morning and I will need to leave the dough much longer to rise than previously. Nontheless, with the scrapings of starter remaining in the jar, I added 20 g of flour and 29 g of water. 
+
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
   
