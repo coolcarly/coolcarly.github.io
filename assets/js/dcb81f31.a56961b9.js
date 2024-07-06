@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[7247],{94224:a=>{a.exports=JSON.parse('{"label":"illawarra breweries","permalink":"/blog/tags/illawarra-breweries","allTagsPath":"/blog/tags","count":1}')}}]);
