@@ -1,8 +1,10 @@
 ---
-title: Date night at Seeker Brewery
+title: Seeker Brewery
 date: 2024-06-30
 tags: [illawarra breweries, beer, craft beer]
 ---
+# Date night at Seeker Brewery
+Date: 30.6.24* <br/>
 Service: ★★★★★ <br/>
 Beers: ★★★★★<br/>
 food: ★★☆☆☆☆ * <br/>
@@ -13,7 +15,7 @@ We headed to Seeker Brewery on Saturday night for a night out. We read online th
 
 We arrived at 5.40 pm to Seeker Brewery in the Industrial area in Unanderra. There was some parking available, which we reversed into. As we headed up the driveway, we walked up a set of 5-7 steps, walked past a food truck which was located ~10 m from a basketball hoop. The brewery itself was located in a factory, with the entrace parallel to the foodtruck. As we walked in, it did not look busy. There were a few tables and seating available. We sat down at Table #9, underneath the stairs. Yet, we could see everything around us quite well, including the stage, located 5 metres away at 275 degree angle from us. 
 
-|![](./img/seeker-brewery.jpeg)|
+|![](../pictures/seeker-brewery.jpeg)|
 |:---:|
 |*Img caption: My view of the bar from where we were sitting*|
 

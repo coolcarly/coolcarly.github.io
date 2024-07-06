@@ -20,6 +20,7 @@ This is basically a blog of the breweries that I have visited, with the beers th
 - [The Barrel Shephard](./illawarra/barrel-shephard.md)
 - [Five Barrel Brewing](./illawarra/five-barrel-brewing.md)
 - [Principle Brewing](./illawarra/priciple-brewing.md)
+- [Seeker brewery](./illawarra/seeker-brewery)
 
 ### North Coast NSW
 - [The Coastal Brewery](./north-coast-nsw/coastal-brewery.md)
