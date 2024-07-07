@@ -39,6 +39,9 @@ The crystallisation of cholesterol arises in part from the level of hydration. A
 
 In addition, a few parameters which influence the crystallisation of cholesterol include the temperature and pH. As the state of matter will change from a solid to a liquid with heating and a liquid to a solid with cooling, it should be no supprise that the temperature will affect cholesterol crystalisation. While our body works to maintain temperature homeostasis at 37 °C, on hot or cold days, our internal systems may rise by ± 3 °C, which can determine the difference between cholesterol in a gel-like state and crystalline state.[16] In addition, Vedre et al. showed that a higher volume is occupied by cholesterol at higher pH.[16]
 
+Now, within lipid bilayers/cell membranes, cholesterol is also susceptible to oxidation. Oxidation products of cholesterol are known as oxysterols, which may contain an oxidised side-chain or sterol ring to increase the polarity of cholesterol. These metabolic products have biological functions such as modulating the membrane permeability (particularly cholesteryl sulfate), regulate cholesterol homeostasis, modulate the estogen receptor, cause cell apoptosis, involved with cytokine expression and inflammation. Keto- and alcoholic oxidation products are also known to promote foam cell formation. In addition, some of the oxysterols can become cytotoxic and are often used as biomarkers for neurodegenerative diseases.[17](http://dx.doi.org/10.1016/j.chemphyslip.2016.03.001)
+
+The complexity of this biomolecule is outstanding and there is potential to solve some of our great scientific problems with cholesterol, it's just figuring out what and how. 
 
 ## References
 
@@ -74,3 +77,4 @@ In addition, a few parameters which influence the crystallisation of cholesterol
 
 (16) Vedre et al. *Atherosclerosis* **2009**, 203 (1), 89-96.
 
+(17) Kulig et al. Chem. Phys. Lipids **2016**, 199, 144-160.
