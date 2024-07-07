@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[5516],{18895:a=>{a.exports=JSON.parse('{"label":"Indian food","permalink":"/blog/tags/indian-food","allTagsPath":"/blog/tags","count":1}')}}]);

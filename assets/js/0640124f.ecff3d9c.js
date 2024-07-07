@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[2373],{41091:a=>{a.exports=JSON.parse('{"label":"food in Illawarra","permalink":"/blog/tags/food-in-illawarra","allTagsPath":"/blog/tags","count":1}')}}]);
