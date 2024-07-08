@@ -5,7 +5,7 @@ date: 1 Apr 2024
 ---
 *1 April 2024*
 
-As you should be aware, my PhD project involved the synthesis and characterisation of conducting polymers with cholesterol for potential bioelectronic applications. On 20 March 2024, I submitted my thesis to nominated reviewers (I am not allowed to know who they are). For the past two weeks, I have been thinking of many ideas for potential publications. However, before I can publish anything, my supervisors need to read what I wrote.... Last week, I sent the first paper. While I wait for comments, I have been working on the second and third and came up with so many things that I can write about. Considering that they are very slow with reviewing my work, I am losing hope that I will be able to publish anything at all. 
+My PhD project involved the synthesis and characterisation of conducting polymers with cholesterol for potential bioelectronic applications. On 20 March 2024, I submitted my thesis to nominated reviewers (I am not allowed to know who they are). For the past two weeks, I have been thinking of many ideas for potential publications. However, before I can publish anything, my supervisors need to read what I wrote.... Last week, I sent the first paper. (I have also finished 3 other drafts) While I wait for comments, I have been working on the second and third and came up with so many things that I can write about. Considering that they are very slow with reviewing my work, I am losing hope that I will be able to publish anything at all. 
 
 Therefore, I decided that while I have the time and the joy for writing, I am going to update this blog with all the knowledge that I have acquired. 
 
