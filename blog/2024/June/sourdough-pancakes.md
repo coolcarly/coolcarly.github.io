@@ -8,7 +8,8 @@ On 23.6.24, I used my sourdough discard for the first time. At this point it was
 
 The first recipe I used was the following:
 Makes 5 pancakes. Serving size is probably 1-2. 
- 
+
+**Ingredients:**
 97 g starter (discard)<br/>
 112 g plain flour<br/>
 1 tsp sugar<br/>
@@ -18,7 +19,7 @@ Makes 5 pancakes. Serving size is probably 1-2.
 1/2 frozen banana<br/>
 1 egg. <br/>
 
-The method was as follows: 
+**Method:**
 1. Combine dry ingredients
 2. Add wet ingredients
 3. Let it sit for 5 minutes (it will bubble a bit because of the sourdough discard)
