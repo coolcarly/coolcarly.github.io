@@ -11,7 +11,7 @@ So today, I wanted to make some pastry with it. Beforehand, I did a quick search
 
 Makes 2 sheets of pastry
 
-Ingredients:
+**Ingredients:** <br/>
 225 g flour <br/>
 25 g butter<br/>
 1 tbsp olive oil<br/>
@@ -19,7 +19,7 @@ Ingredients:
 1/2 tsp garlic powder<br/>
 50-100 g of sourdough starter*<br/>
 
-Method (pastry): 
+**Method (pastry):** 
 1. The butter was cut into small cubes (0.5 cmx0.5cm) 
 2. The butter and flour was rubbed together to make a crumbled flour
 3. The oil was added and mixed in, then the flour was rubbed further
@@ -53,7 +53,7 @@ Method (pastry):
 |*Img caption: The rolling out of one pastry (left), the filling of the pastry in the dish (middle) and the final product (right).*|
 
 **Notes about this recipe:**
-Note about the starter: This was a disguard that I kept in the fridge for 2 days. I think it is safe to leave sourdough disguard for 3 days in the fridge, so I wanted to use it before I needed to throw it away. 
+Note about the starter: This was a discard that I kept in the fridge for 2 days. I think it is safe to leave sourdough discard for 3 days in the fridge, so I wanted to use it before I needed to throw it away. 
 
 NOTE about the hydration: on the 26.06.24: before I added the starter, I added 1/2 cup of water (which I realised was a mistake therefore this recipe is tweaked). After I added the starter, it was very sticky! This was wrong, the consistency should be crumbly. Therefore, it is crucial to add the sourdough starter before extra water, so you correct the consistency. 
 
