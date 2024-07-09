@@ -14,7 +14,6 @@ Anything that I add to this website will be updated in the [blog navigation bar]
 
 I am still working to make this better. 
 
-If you want to comment on some content, you can send a comment via the Home tab in each side-bar: Life, Science or PhD. 
 
 ## About me
 - Studied a BSc(hons), with a major in Chemistry and [polymer science](/science/polymer-science/polymers) 
@@ -26,7 +25,7 @@ If you want to comment on some content, you can send a comment via the Home tab 
 - I am using this blog to improve my writing skills, but also as a tool to improve my mental wellbeing. I feel that once I write things down, they are released from my mind and I've freed up space for other thoughts. 
 - I plan to make this a platform where I share my experiences and hopefully it may help someone going through the same situation. 
 
-- At the moment, I am in love with making bread. [Follow my bread making journey](/blog/2024/May/bread). 
+- At the moment, I am in love with making bread. [Follow my bread making journey](/life/cooking/bread-and-pastry/bread). 
 
 ### Contact details
 ✉️ hello@carly.cool

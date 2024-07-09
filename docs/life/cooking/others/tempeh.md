@@ -1,9 +1,11 @@
 ---
-title: Preparing tempeh
+title: Tempeh
 date: 2024-06-16
 tags: [my vegetarian cookbook, cooking, tempeh]
 ---
+# Preparing Tempeh
 
+*Date: 16.6.2024*
 For dinner tonight, I wanted to prepare a couple of Greek Gyros, inspired by [Recipetineats](https://www.recipetineats.com/greek-chicken-gyros-with-tzatziki/#wprm-recipe-container-21826). Tofu was an option to use as the main protein content, however, tofu is very soft and wouldn't go well with a wrap of this sort (to my opinion). Therefore, tempeh was the next best thing.
 
 Previously, I attempted to cook tempeh, however, it turned out terrible! It is a very tough soy-based protein, so if it is not cooked properly, then it won't be very tasty. 
@@ -17,3 +19,6 @@ The tempeh was placed in an oven proof dish (trying to conserve the marinate in 
 The tempeh was then used as a chicken substitue in a wrap, with a homemade tzatzkiki and flatbread. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHMIEHjhjxs?si=faVa6XkIVwEvP7TV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*Date updated: 1.7.24*
+I prepared tempeh for a stir fry. I steamed for only 10 minutes, marinated in a soy dressing for ~30 minutes and then fried with mushroom, onion and steamed broccoli. It was so tasty and had great texture!

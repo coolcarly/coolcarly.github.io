@@ -21,7 +21,7 @@ TBAPF<sub>6</sub> online is $650 for 100g or $952 for electrochemical grade, whi
 
 We had a large amount of tetrabutylammonium bromide (TBABr) and potassium hexafluorophosphate (KPF<sub>6</sub>). Each of these costs outweighed the price of TBAPF<sub>6</sub> from a store like sigma-aldrich.
 
-![salt exchange reaction](pics/saltexch1.png)
+![salt exchange reaction](img/saltexch1.png)
 **Figure 1.** Salt exchange reaction to yield TBAPF<sub>6</sub>
 
 **Experimental:** TBABr and KPF<sub>6</sub> 1:1 was combined in 1:1 water/dichloromethane (DCM) and mixed for 2 hours – until both solutions were clear. The organic layer was collected, dried with MgSO<sub>4</sub>, filtered, and evaporated to yield white crystals that were recrystallized with ethanol and filtered to yield needle-like crystals 85% yield.
@@ -32,7 +32,7 @@ It is tricky to determine if the reaction was complete as the TBA cation does no
 
 After a tutoring session, I realized that I could test the presence of bromide by adding silver nitrate. If bromide is present, then AgBr will crash out as it is not water soluble. Thus, I tried it. I added either TBABr or TBAPF<sub>6</sub> to an aqueous solution of AgNO<sub>3</sub> + HNO<sub>3</sub>. I observed that the TBABr went a yellw/cream colour with precipitate, while the PF<sub>6</sub> did not change.
 
-![precipitation reaction](pics/saltexch2.png)
+![precipitation reaction](img/saltexch2.png)
 
 **Figure 2.** Precipitation reactions of (a) TBABr and (b) TBAPF<sub>6</sub>with AgNO<sub>3</sub>
 

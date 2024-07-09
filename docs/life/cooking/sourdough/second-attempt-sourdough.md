@@ -1,10 +1,12 @@
 ---
 title: My second attempt at sourdough bread
 date: 2024-07-06
+sidebar_position: 4
 tags: [sourdough, bread, my vegetarian cookbook]
 ---
+*Date created: 6.7.2024 <br/>*
 
-On day 22 of my [sourdough starter](../June/sourdough-starter.md), I fed the starter at 8 am. At 3 pm, I used the majority of the starter (81 g) to prepare another loaf of sourdough. This time, the loaf was not as dense as the previous one (see [my first attempt](../June/sourdough-bread.md)). It was also a great texture and rose a decent amount, despite the starter not passing a float test. 
+On day 22 of my [sourdough starter](/life/cooking/bread-and-pastry/sourdough-bread), I fed the starter at 8 am. At 3 pm, I used the majority of the starter (81 g) to prepare another loaf of sourdough. This time, the loaf was not as dense as the previous one (see [my first attempt](/life/cooking/bread-and-pastry/sourdough-bread). It was also a great texture and rose a decent amount, despite the starter not passing a float test. 
 
 My thoughts are that if we are feeding the starter more flour and water - as is the process of making a loaf of bread, it shouldn't matter whether or not the starter was at it's most functional. As long as it is left long enough for the yeast to do it's magic, I think we are fine. This recipe allows the dough to sit for 35 hours after the initial 4 hour resting period. 
 

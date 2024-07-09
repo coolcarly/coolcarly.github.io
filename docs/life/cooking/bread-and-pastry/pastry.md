@@ -13,7 +13,7 @@ last_update:
 
 ## Preparation of the pastry
 *1.6.24*<br/>
-From my [previous post](../May/spinach_cheese_triangles.md), I prepared puff pastry with flour, butter and water. The puff pastry was then used to make spinach and cheese triangles. They were very nice, but the pastry was very sweet. Therefore, I wanted to create a recipe that was less sweet and more to my tastes. To achieve this, I decreased the amount of butter and added oil and extra salt. 
+From my [previous post](./spinach_cheese_triangles.md), I prepared puff pastry with flour, butter and water. The puff pastry was then used to make spinach and cheese triangles. They were very nice, but the pastry was very sweet. Therefore, I wanted to create a recipe that was less sweet and more to my tastes. To achieve this, I decreased the amount of butter and added oil and extra salt. 
 
 The ingredients were as follows: 
 <div align="center"> 400 g plain flour <br/> 1 tsp salt <br/> 53 g butter <br/> 1 tbsp olive oil <br/> 155 g water <br/> </div>

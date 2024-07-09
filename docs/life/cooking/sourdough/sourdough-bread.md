@@ -1,8 +1,10 @@
 ---
 title: My First attempt at sourdough bread
 date: 2024-06-29
+sidebar_position: 3
 tags: [my vegetarian cookbook, sourdough]
 ---
+*Date: 29.6.24* <br/>
 This morning at 7.30 am, I checked the sourdough starter and it appeared to have deflated. A float test also told me that I left it too long, because it sunk to the bottom of a jar of water. Therefore, I took 24 g of starter at 7.30 am and fed with 55 g flour and 94 g of water. I placed it in the oven which was 25-30 degrees (note: the oven was off, but it is a warm place to allow the sourdough to grow). At 10 am, there were no air bubbles present. I gave it a more vigorous stir and air bubbles began to form. At 12.30 pm, it grew about 1 cm. At 12.45 pm, it passed the float test (compared to the discard, which did not). I placed it in the oven for longer. Also note that I kept the discard and later in the day (4.30 pm), I fed it flour and water.   
 
 At 1.30 pm, I combined 450 g of all purpose flour and 1 tsp salt. I added 350 g of hot water. I mixed the dough - it was very flaky. I let it cool down to 43 degrees before adding the entirety of the starter (!160 g +- 10 g). After I added the starter, the dough was very wet and hydrated. Note for next time, use less water (250 g). 

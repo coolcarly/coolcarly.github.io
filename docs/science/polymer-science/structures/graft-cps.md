@@ -1,15 +1,15 @@
 ---
 title: Graft copolymers consisting of poly(3-hexylthiophene)
 date: 2024-05-30
-# sidebar_postition: 2
+sidebar_postition: 2
 tags: [conducting polymers, science, chemistry, biocompatibility, graft copolymers]
 ---
-
+*Date: 30 May 2024*
 Jadranka Travas-Sejdic is a polymer scientist and professor over at the University of Auckland. As a condition of PhD submission, you needed to send through a form including five nominated examiners. Jadranka was one of them. At this point, I am not sure if she was my reviewer but I admire her a lot and if she was, I am hoping that she enjoyed reading my thesis.
 
 Recently, Jadrank's group released a paper, where they synthesised a polymer brush or "*graft* copolymer. A polymer brush looks like a bottlebrush plant on the molecular level. In this work, 3-hexylthiophene was polymerised using chemical oxidation with  FeCl<sub>3</sub>. Following, 2-thiophene acetic acid was added to the reaction mixture to create a carboxylic acid terminated group. The carboxylic acid groups were then grafted to a gelatin polymer using EDC/NHS coupling. This method covalently cross-links a carboxylic acid with a terminal amine group, forming a peptide bond. The % of P3HT in the graft copolymer was determined to be 9.05% using UV-vis spectroscopy. A calibration curve of P3HT was generated, which allowed the mass to be determined and thus the overall wt % in the polymer. 
 
-|![](./img/graft_cp.jpeg)|
+|![](./pics/graft_cp.jpeg)|
 |:---:|
 |*Fig 1. (a) Synthesis of P3HT from 3HT via chemical oxidation and then reaction with 2-thiopheneacetic acid, (b) covalent attachment of P3HT to gelatin to create a brush structure. |
 

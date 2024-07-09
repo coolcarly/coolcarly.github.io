@@ -2,12 +2,26 @@
 title: Sourdough starter
 date_created: 2024-06-17
 date: 2024-06-29
+sidebar_position: 2
 tags: [sourdough starter, my vegetarian cookbook]
 ---
 
 *Date created: 17.06.2024; Date modified: 03.07.2024* <br/>
-In order to prepare a sourdough starter, I needed 1 week where I wasn't going to be away from home. After the [Mudgee](./mudge-24.md) weekend, I decided that this week would be a perfect opportunity to get the starter up and running. What do I mean by a sourdough starter? I mean to grow the bacteria necessary to craft sourdough bread. 
 
+## Science of yeast replication
+Harvesting wild yeast to create a sourdough starter is pretty straight forward and robust. The yeast that I harvested is actually known as *Saccharomyces cerevisiae*. Did you know that it is a eukaryotic unicellular organism? This means that it exhibits a membrane bound nucleus, as do plants and animals. As we are multicellular organisms, yeast provides opportunities to study the behaviour of eukaryotic cells and has solved many of our questions about life on Earth. 
+
+Did you also know that yeast reproduce both sexually (with a mate) and asexually (through budding). The route that the yeast will follow depends on the environmental cues present. Yeast cells at the Growth stage of life can undergo cell differentiation. During this stage, they decide whether to divide into haploid cells (which allows them to mate with partner cells), asexually replicate or form stationary cells (which can age).
+
+Now you ask, why would they divide and mate when they can asexually reproduce? While asexual reproduction is the easiest form of replication, sexual reproduction produces diploids (2 copies of each chromosome), which are more stable and allow for an increase in genetic diversity (and increase entropy). Thus in most cases, they will choose to mate. 
+
+As previously stated, in order for yeast to sexually reproduce, it must divide into a haploid cell. A haploid cell is one copy of each chromosome and therefore is labelled as having a sex, MATa or MATά. Both types of haploids secrete pheromones to attract. The MATα secretes a soluble α-factor, while MATa seretes a fatty acid modified peptide, which is excreted using an ABC transporter. The high lipophillicity of the peptide, causes it to remain in the plasma membrane, while the soluble factor allows signals to travel through the media. The yeast cells can polarise (change shape) according to the direction of the pheromones secreted. Once the two opposite haploids come together, they mate to form a diploid zygote. Meosis (a process of sex cell replication) creates 4x replicates of the DNA to form four haploid cells, contained within the ascosphere walls. In the presence of nutrients, germination and gamete production occurs, forming a diploid cell. 
+
+It should be obvious that with a high yeast cell density, there is a higher opportunity for sexual reproduction. But what about when there is a lack of nutrients available? Starvation induces meiosis and sporulation in an attempt to preseve the genetic diversity but, remain in a non-dividing state. Once nurtients are present, further germination and gamete production can occur. It is for this reason that meoitic spores are resistant to stresses and desication.
+
+In summary, yeast is robust! It is so cool and there are so many wonderful things you can do with it, which I will talk about alot in my blog in the future. 
+
+## Starting equipment
 I started with the following equipment/ingredients: 
 - Rye flour*
 - tap water**
@@ -136,3 +150,5 @@ Rye flour is hard to find. It is also very expensive ($20 for 1 kg, compared to 
 
 <!-- Things to note: 
 Your starter is healthy and vigorous — in other words, good for baking — when it doubles in size within 6 to 8 hours. A helpful blog post: [here](https://www.kingarthurbaking.com/blog/2020/06/10/10-tips-for-new-sourdough-bakers#I-read) -->
+
+

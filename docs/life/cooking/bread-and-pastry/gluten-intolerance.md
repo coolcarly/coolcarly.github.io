@@ -2,6 +2,7 @@
 title: Gluten intolerance
 date_created: 2024-05-21
 date: 2024-05-23
+sidebar_position: 1
 tags: [bread, gluten, science, biochemistry]
 ---
 Bread is subjectively the best thing to exist on Earth. Do you agree? Well about 5-10% of you will not agree. This is because gluten intolerance is a fairly prevalent allergy. Celiac disease is the name given to a gluten intolerance, which is diagnosed in about 1% of people wordwide. People with this disease experience vomiting, bloating, abdominal pain, numbness in the hands and feet among many other symptoms, in response to gluten ingestion. Why does this occur?
