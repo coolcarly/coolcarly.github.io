@@ -165,7 +165,7 @@ In a fresh jar, 20 g of starter was fed with 13 g of rye, 8 g of wholemeal and 3
 In a fresh jar, 20 g of starter was fed with 11 g of rye flour, 10 g wholemeal and 42 g of water. (Note it was very thin. I fed too much water) On this day I also increased the feeding amount as I would like to make bagels with it.
 
 ### *Day 27 Wednesday 10 July 2024*
-At 4 pm, I did not remove any of the starter. Instead, I fed the starter with 16 g of rye flour, 19 g of wholemeal flour and 37 g of water. By 8.30 pm, the starter had almost doubled in size and it passed the "float test" - where a small portion of the starter was dropped into a cup of water and it floated to the top. I used the entirety of the starter to make [bagels](/sourdough-bagels.md). 
+At 4 pm, I did not remove any of the starter. Instead, I fed the starter with 16 g of rye flour, 19 g of wholemeal flour and 37 g of water. By 8.30 pm, the starter had almost doubled in size and it passed the "float test" - where a small portion of the starter was dropped into a cup of water and it floated to the top. I used the entirety of the starter to make bagels. 
 
 With small scrapings remaining in the jar, I added 7 g of rye flour, 12 g of wholemeal flour and 34 g of water. Without thinking, I used the water from the bottle that I often feed from. However, I had put hot water in it a few hours prior (in a heat retaining bottle). The water was still hot! (50 °C or so).  Oops!! It didn't seem to matter because it was bubbling as usual. 
 
