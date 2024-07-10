@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[1318],{56613:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/baking","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[2356],{83337:o=>{o.exports=JSON.parse('{"permalink":"/blog/tags/my-vegetarian-cookbook","page":1,"postsPerPage":10,"totalPages":2,"totalCount":12,"nextPage":"/blog/tags/my-vegetarian-cookbook/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[4185],{14902:e=>{e.exports=JSON.parse('{"label":"tempeh","permalink":"/tags/tempeh","allTagsPath":"/tags","count":1,"items":[{"id":"life/cooking/others/tempeh","title":"Tempeh","description":"Date: 16.6.2024","permalink":"/life/cooking/others/tempeh"}]}')}}]);
