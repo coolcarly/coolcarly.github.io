@@ -50,7 +50,8 @@ I started with the following equipment/ingredients:
 - I chose rye flour as the starting flour because it is meant to have a higher level of good bacteria and enzymes to aid in healthy fermentation.
 - Some say that you should use bottled water for the initial week (because chlorine is present in tap water, which kills all bacteria). I filled a drink bottle with tap water and left it overnight. By doing this, the chlorine dissapates from the water. You could also use boiled water (cooled down of course).
 - The ideal environment is 24–28 °C. As it is winter, sometimes I used warmer water (30°C) and wrapped it in a towel to warm it up.
-- While the starter is on the bench at room temperature, you need to cover it with a breathable lid: such as paper towel and rubber band. Once you place it in the fridge (because you are not using it frequently), you can put a lid on (but very loosely). This is because the microorganisms in the starter are constantly converting the carbohydrates/sugars in the flour to carbon dioxide. If you do not let the gas out, then there will be a build up of pressure in the gar, leading to an explosion. 
+- While the starter is on the bench at room temperature, you need to cover it with a breathable lid: such as paper towel and rubber band. Once you place it in the fridge (because you are not using it frequently), you can put a lid on (but very loosely). This is because the microorganisms in the starter are constantly converting the carbohydrates/sugars in the flour to carbon dioxide. If you do not let the gas out, then there will be a build up of pressure in the gar, leading to an explosion.
+- The amount of water and flour you feed with doesn't matter. General rule of thumb: in the first week, you should be feeding roughly 1:1 sourdough starter: flour. Once the yeast has established itself, you can feed it more. The amount you feed will depend on how quickly you want to cook with it and how much starter you need for a recipe. By feeding less, the starter will be ready quicker. You should aim for a pancake batter - thick but not too thick. If you add too much water. Don't worry about it! Correct it the next day. 
 
 Here I have listed the method that I used to create my sourdough starter. For the first month of life, I fed (and plan to feed) it everyday. This post therefore covers the first month with references to things I've baked with it (where appropriate).
 
@@ -170,7 +171,7 @@ At 4 pm, I did not remove any of the starter. Instead, I fed the starter with 16
 With small scrapings remaining in the jar, I added 7 g of rye flour, 12 g of wholemeal flour and 34 g of water. Without thinking, I used the water from the bottle that I often feed from. However, I had put hot water in it a few hours prior (in a heat retaining bottle). The water was still hot! (50 °C or so).  Oops!! It didn't seem to matter because it was bubbling as usual. 
 
 ### *Day 28 Thursday 11 July 2024*
-The hot water didn't seem to matter as the yeast behaved as normal. 
+The hot water didn't seem to matter as the yeast behaved as normal. I noticed in the morning that the yeast had already rose and fell, which was expected considering that it only took 4.5 hours to rise yesterday. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
