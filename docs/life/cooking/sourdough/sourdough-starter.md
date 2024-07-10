@@ -133,8 +133,27 @@ At 4 pm on Day 22, I used most of the starter (81 g) to prepare dough for bread.
 As I was preparing the dough, the starter formed a shape, revealing ~20 g of starter in the jar. It smelt slightly alcoholic. I realised that I probably didn't feed it enough this morning and I will need to leave the dough much longer to rise than previously. Nontheless, with the scrapings of starter remaining in the jar, I added 20 g of flour and 29 g of water. 
 
 ## Changing the flour from rye to wholemeal 
+Note: After each feed, I keep the discard in the fridge in case I contaminate the mother yeast. 
+
 ### *Day 23 Saturday 6 July 2024*
 Rye flour is hard to find. It is also very expensive ($20 for 1 kg, compared to $3/kg for wholemeal). Therefore, I've decided to swap flour. Using the majority of starter (35 g), I prepared some pastry. With the remaining scrapings (~45 g, at 3 pm), I added 15 g of rye flour, 2 g of wholemeal flour and 38 g of water. The mixture was covered and left to sit at room temperature (with a breathable lid) for 24 hours. 
+
+### *Day 24 Sunday 7 July 2024*
+In a fresh jar, 14 g of starter was fed with 14 g rye flour, 6 g wholemeal and 27 g of water. 
+
+### *Day 25 Monday 8 July 2024*
+In a fresh jar, 20 g of starter was fed with 13 g of rye, 8 g of wholemeal and 37 g of water. 
+
+### *Day 26 Tuesday 9 July 2024*
+In a fresh jar, 20 g of starter was fed with 11 g of rye flour, 10 g wholemeal and 42 g of water. (Note it was very thin. I fed too much water) On this day I also increased the feeding amount as I would like to make bagels with it.
+
+### *Day 27 Wednesday 10 July 2024*
+At 4 pm, I did not remove any of the starter. Instead, I fed the starter with 16 g of rye flour, 19 g of wholemeal flour and 37 g of water. By 8.30 pm, the starter had almost doubled in size and it passed the "float test" - where a small portion of the starter was dropped into a cup of water and it floated to the top. I used the entirety of the starter to make bagels. 
+
+With small scrapings remaining in the jar, I added 7 g of rye flour, 12 g of wholemeal flour and 34 g of water. Without thinking, I used the water from the bottle that I often feed from. However, I had put hot water in it a few hours prior (in a heat retaining bottle). The water was still hot! (50 °C or so).  Oops!! It didn't seem to matter because it was bubbling as usual. 
+
+### *Day 28 Thursday 11 July 2024*
+The hot water didn't seem to matter as the yeast behaved as normal. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
