@@ -44,6 +44,7 @@ I started with the following equipment/ingredients:
 - 2 x 500 g jars
 - food scale
 - Paper towel and rubber band (or breathable lid)
+- (Later on) whole meal flour 
 
 **Some general things to note:**
 - I chose rye flour as the starting flour because it is meant to have a higher level of good bacteria and enzymes to aid in healthy fermentation.
