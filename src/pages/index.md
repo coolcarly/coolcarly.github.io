@@ -16,7 +16,7 @@ Use the Science, Life or PhD tab to find specific content. You can also search b
 ## About me
 - Studied a BSc(hons), with a major in Chemistry and [polymer science](/science/polymer-science/polymers) at the University of Sydney. 
 - Completed my PhD in [Organic bioelectronics](/science/organic-bioelectronics) in June 2024 at the University of Wollongong.
-- I love baking and all things yeast. Check out my posts in [sourdough](/life/cooking/sourdough) or [bread and pastry](/life/cooking/bread-and-pastry)
+- I love baking and all things yeast. Check out my posts in [sourdough](/docs/life/cooking/sourdough) or [bread and pastry](/docs/life/cooking/sourdough/bread-and-pastry)
 - I love to try different Craft beer and wine. It is an art-form that I appreciate a lot. 
 - I am a volunteer surf lifesaver [SLSA](life/surf-lifesaving) & a member of [North Wollongong Surf Club](https://nwslsc.com.au/)
 - In my free time, I write short articles and I practice my Python skills. 
