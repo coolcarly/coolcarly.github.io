@@ -11,11 +11,19 @@ tags: [sourdough starter, my vegetarian cookbook]
 ## Science of yeast replication
 Harvesting wild yeast to create a sourdough starter is pretty straight forward and robust. The yeast that I harvested is actually known as *Saccharomyces cerevisiae*. Did you know that it is a eukaryotic unicellular organism? This means that it exhibits a membrane bound nucleus, as do plants and animals. As we are multicellular organisms, yeast provides opportunities to study the behaviour of eukaryotic cells and has solved many of our questions about life on Earth. 
 
-Did you also know that yeast reproduce both sexually (with a mate) and asexually (through budding). The route that the yeast will follow depends on the environmental cues present. Yeast cells at the Growth stage of life can undergo cell differentiation. During this stage, they decide whether to divide into haploid cells (which allows them to mate with partner cells), asexually replicate or form stationary cells (which can age).
+Did you also know that yeast reproduce both sexually (with a mate) and asexually (through budding). The route that the yeast will follow depends on the environmental cues present. Yeast cells at the Growth stage of life can undergo cell differentiation. During this stage, they decide whether to divide into haploid cells (which allows them to mate with partner cells), asexually replicate or form stationary cells (which can age). Two images are shown in Fig 1: including (A) budding cells diving into mother and daughter yeast cells (asexual reproduction) and (B) Meosis of the haploid cells to form 2 copies of each chromosome. 
 
-Now you ask, why would they divide and mate when they can asexually reproduce? While asexual reproduction is the easiest form of replication, sexual reproduction produces diploids (2 copies of each chromosome), which are more stable and allow for an increase in genetic diversity (and increase entropy). Thus in most cases, they will choose to mate. 
+|![](./img/yeast2.JPG)|
+|:---:|
+|*Fig 1. (A) Budding cells expressing red fluorescent protein and (B) sporulating cells stained with the green fluorescent protein. Taken from [1](https://doi.org/10.7554/eLife.05835)*|
 
-As previously stated, in order for yeast to sexually reproduce, it must divide into a haploid cell. A haploid cell is one copy of each chromosome and therefore is labelled as having a sex, MATa or MATά. Both types of haploids secrete pheromones to attract. The MATα secretes a soluble α-factor, while MATa seretes a fatty acid modified peptide, which is excreted using an ABC transporter. The high lipophillicity of the peptide, causes it to remain in the plasma membrane, while the soluble factor allows signals to travel through the media. The yeast cells can polarise (change shape) according to the direction of the pheromones secreted. Once the two opposite haploids come together, they mate to form a diploid zygote. Meosis (a process of sex cell replication) creates 4x replicates of the DNA to form four haploid cells, contained within the ascosphere walls. In the presence of nutrients, germination and gamete production occurs, forming a diploid cell. 
+Now you ask, why would they divide and mate when they can asexually reproduce? While asexual reproduction is the easiest form of replication, sexual reproduction produces diploids (2 copies of each chromosome), which are more stable and allow for an increase in genetic diversity, which is a driver for a strong population (As a chemist, think entropy). Thus in most cases, they will choose to mate. 
+
+As previously stated, in order for yeast to sexually reproduce, it must divide into a haploid cell. A haploid cell is one copy of each chromosome and therefore is labelled as having a sex, MATa or MATά (which are named after the DNA sequences present in the yeast cells). Both types of haploids secrete pheromones to attract one another. The MATα secretes a soluble α-factor, while MATa seretes a fatty acid modified peptide, which is excreted from the cell via an ABC transporter (a protein on the cell membrane that facilitates active transport). The high lipophillicity of the peptide, causes it to remain in the plasma membrane, while the soluble factor travels through the media. The yeast cells can polarise (change shape) according to the direction of the pheromones secreted. Once the two opposite haploids come together, they mate to form a diploid zygote. Meosis (a process of sex cell replication) creates 4x replicates of the DNA to form four haploid cells, contained within the ascosphere walls. In the presence of nutrients, germination and gamete production occurs, forming a diploid cell (Shown in Fig 2).
+
+|![](./img/yeast1.JPG)|
+|:---:|
+|*Fig 2. Yeast sexual replication. Taken from [2](https://doi.org/10.1098/rsob.130008)*|
 
 It should be obvious that with a high yeast cell density, there is a higher opportunity for sexual reproduction. But what about when there is a lack of nutrients available? Starvation induces meiosis and sporulation in an attempt to preseve the genetic diversity but, remain in a non-dividing state. Once nurtients are present, further germination and gamete production can occur. It is for this reason that meoitic spores are resistant to stresses and desication.
 
@@ -170,4 +178,8 @@ The hot water didn't seem to matter as the yeast behaved as normal.
 <!-- Things to note: 
 Your starter is healthy and vigorous — in other words, good for baking — when it doubles in size within 6 to 8 hours. A helpful blog post: [here](https://www.kingarthurbaking.com/blog/2020/06/10/10-tips-for-new-sourdough-bakers#I-read) -->
 
-
+## References
+1. Elife **2015**, *4*, e05835. DOI: 10.7554/eLife.05835 
+2. Open Biology **2013**, *3 (3)*, 130008. DOI: 10.1098/rsob.130008
+3. C. R. Biologies **2011**, *334 (8)*, 599-606. DOI: 10.1016/j.crvi.2011.05.007
+4. Foods. **2020**, *9(9)*, 1231. DOI: 10.3390/foods9091231.
