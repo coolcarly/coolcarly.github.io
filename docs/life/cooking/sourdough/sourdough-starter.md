@@ -1,12 +1,17 @@
 ---
 title: Sourdough starter
 date_created: 2024-06-17
-date: 2024-06-29
+date: 2024-07-11
 sidebar_position: 2
 tags: [sourdough starter, my vegetarian cookbook]
 ---
 
-*Date created: 17.06.2024; Date modified: 03.07.2024* <br/>
+*Date created: 17.06.2024; Date modified: 11.07.2024* <br/>
+
+## Introduction to sourdough
+Sourdough is a mixture of flour and water which is fermented with yeasts and lactic acid bacteria (LAB). As sourdough ages, the number of LABs present increases. The coolest thing is that each sourdough starter is different! The types of bacteria that are selected to grow will depend highly on your environment: including the temperature and humidity. 
+
+The use of sourdough in baked goods generally improves the texture, flavour, nutritional value and shelf life. All of these are due to the presence of lactic acid. For instance, the lactic acid retards the starch bioavailability, decreases the glycemic index and improves our ability to metabolise the gluten. The lactic acid also improves the bioavailability of minerals present (solubilises magnesium and phosphorus for example), to make it better absorbed by our bodies, while also improving on the flavour. Furthermore, acidification prolongs spoilage of the bread (i.e. mould), making it last longer than your regular bread loaf. 
 
 ## Science of yeast replication
 Harvesting wild yeast to create a sourdough starter is pretty straight forward and robust. The yeast that I harvested is actually known as *Saccharomyces cerevisiae*. Did you know that it is a eukaryotic unicellular organism? This means that it exhibits a membrane bound nucleus, as do plants and animals. As we are multicellular organisms, yeast provides opportunities to study the behaviour of eukaryotic cells and has solved many of our questions about life on Earth. 
@@ -27,7 +32,10 @@ As previously stated, in order for yeast to sexually reproduce, it must divide i
 
 It should be obvious that with a high yeast cell density, there is a higher opportunity for sexual reproduction. But what about when there is a lack of nutrients available? Starvation induces meiosis and sporulation in an attempt to preseve the genetic diversity but, remain in a non-dividing state. Once nurtients are present, further germination and gamete production can occur. It is for this reason that meoitic spores are resistant to stresses and desication.
 
-In summary, yeast is robust! It is so cool and there are so many wonderful things you can do with it, which I will talk about alot in my blog in the future. 
+**What does all of this mean for breadmaking?** <br/>
+Sourdough starter added to a dough in preparation for bread will have a high metabolic activity initially. This is the initial resting period, where the yeast rises. Here, it consumes the flour and undergoes (most likely) sexual reproduction. Once we put it in the fridge for proofing, the yeast go into a stationary phase where they no longer replicate. The dough becomes more acidic as the LABs release more lactic acid. 
+
+As yeast cells are prone to stress, we can also dry the sourdough starter. The yeast will descicate into powder. In this state, it can last indefinitely and is used as a supplement in cooking or by adding water and flour, you can restart the sourdough. 
 
 ## Starting equipment
 I started with the following equipment/ingredients: 
@@ -183,3 +191,5 @@ Your starter is healthy and vigorous — in other words, good for baking — whe
 2. Open Biology **2013**, *3 (3)*, 130008. DOI: 10.1098/rsob.130008
 3. C. R. Biologies **2011**, *334 (8)*, 599-606. DOI: 10.1016/j.crvi.2011.05.007
 4. Foods. **2020**, *9(9)*, 1231. DOI: 10.3390/foods9091231.
+5. Chapter 12 - Sourdough/lactic acid bacteria. *In Gluten-Free Cereal Products and Beverages*, Arendt, E. K.; Dal Bello, F., Eds. Academic Press: San Diego,**2008**; pp 267-288. DOI: 10.1016/B978-012373739-7.50014-9
+
