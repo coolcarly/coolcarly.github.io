@@ -30,7 +30,7 @@ As previously stated, in order for yeast to sexually reproduce, it must divide i
 |:---:|
 |*Fig 2. Yeast sexual replication. Taken from [2](https://doi.org/10.1098/rsob.130008)*                                                                                      |
 
-It should be obvious that with a high yeast cell density, there is a higher opportunity for sexual reproduction. But what about when there is a lack of nutrients available? Starvation induces meiosis and sporulation in an attempt to preseve the genetic diversity but, remain in a non-dividing state. Once nurtients are present, further germination and gamete production can occur. It is for this reason that meoitic spores are resistant to stresses and desication.
+It should be obvious that with a high yeast cell density, there is a higher opportunity for sexual reproduction. But what happens when the number of MATa or MATά are not identical? Well this is natural selection at it's finest! Yeast that form MATa cells, have potential to swap genders if there are too many MATa cells compared to MATά! But what happens when there is a lack of nutrients available? Starvation induces meiosis and sporulation in an attempt to preseve the genetic diversity but, the cells remain in a non-dividing state. Once nurtients are present, further germination and gamete production can occur. It is for this reason that meoitic spores are resistant to stresses and desication.
 
 **What does all of this mean for breadmaking?** <br/>
 Sourdough starter added to a dough in preparation for bread will have a high metabolic activity initially. This is the initial resting period, where the yeast rises. Here, it consumes the flour and undergoes (most likely) sexual reproduction. Once we put it in the fridge for proofing, the yeast go into a stationary phase where they no longer replicate. The dough becomes more acidic as the LABs release more lactic acid. 
@@ -195,4 +195,7 @@ Your starter is healthy and vigorous — in other words, good for baking — whe
 3. C. R. Biologies **2011**, *334 (8)*, 599-606. DOI: 10.1016/j.crvi.2011.05.007
 4. Foods. **2020**, *9(9)*, 1231. DOI: 10.3390/foods9091231.
 5. Chapter 12 - Sourdough/lactic acid bacteria. *In Gluten-Free Cereal Products and Beverages*, Arendt, E. K.; Dal Bello, F., Eds. Academic Press: San Diego,**2008**; pp 267-288. DOI: 10.1016/B978-012373739-7.50014-9
+6. Microbiol. Spectr. **2015**, *3 (2)*, Mdna3-0013-2014. DOI: 10.1128/microbiolspec.mdna3-0013-2014
+
+
 
