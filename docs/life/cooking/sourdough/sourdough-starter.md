@@ -28,7 +28,7 @@ As previously stated, in order for yeast to sexually reproduce, it must divide i
 
 |![](./img/yeast1.JPG)|
 |:---:|
-|*Fig 2. Yeast sexual replication. Taken from [2](https://doi.org/10.1098/rsob.130008)*|
+|*Fig 2. Yeast sexual replication. Taken from [2](https://doi.org/10.1098/rsob.130008)*                                                                                      |
 
 It should be obvious that with a high yeast cell density, there is a higher opportunity for sexual reproduction. But what about when there is a lack of nutrients available? Starvation induces meiosis and sporulation in an attempt to preseve the genetic diversity but, remain in a non-dividing state. Once nurtients are present, further germination and gamete production can occur. It is for this reason that meoitic spores are resistant to stresses and desication.
 
