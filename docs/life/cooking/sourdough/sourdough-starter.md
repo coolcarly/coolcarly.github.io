@@ -26,11 +26,9 @@ Now you ask, why would they divide and mate when they can asexually reproduce? W
 
 As previously stated, in order for yeast to sexually reproduce, it must divide into a haploid cell. A haploid cell is one copy of each chromosome and therefore is labelled as having a sex, MATa or MATά (which are named after the DNA sequences present in the yeast cells). Both types of haploids secrete pheromones to attract one another. The MATα secretes a soluble α-factor, while MATa seretes a fatty acid modified peptide, which is excreted from the cell via an ABC transporter (a protein on the cell membrane that facilitates active transport). The high lipophillicity of the peptide, causes it to remain in the plasma membrane, while the soluble factor travels through the media. The yeast cells can polarise (change shape) according to the direction of the pheromones secreted. Once the two opposite haploids come together, they mate to form a diploid zygote. Meosis (a process of sex cell replication) creates 4x replicates of the DNA to form four haploid cells, contained within the ascosphere walls. In the presence of nutrients, germination and gamete production occurs, forming a diploid cell (Shown in Fig 2).
 
- <center>
 |![](./img/yeast1.JPG)|
 |:---:|
-|*Fig 2. Yeast sexual replication. Taken from [2](https://doi.org/10.1098/rsob.130008)* |
-</center>
+|*Fig 2. Yeast sexual replication. We start with two haploid cells of opposite gender, which secrete pheromones and attract via the receptors. The haploids attracts to one another and combine to form a zygote diploid, which then further sporulates. Taken from [2](https://doi.org/10.1098/rsob.130008)* |
 
 It should be obvious that with a high yeast cell density, there is a higher opportunity for sexual reproduction. But what happens when the number of MATa or MATά are not identical? Well this is natural selection at it's finest! Yeast that form MATa cells, have potential to swap genders if there are too many MATa cells compared to MATά! But what happens when there is a lack of nutrients available? Starvation induces meiosis and sporulation in an attempt to preseve the genetic diversity but, the cells remain in a non-dividing state. Once nurtients are present, further germination and gamete production can occur. It is for this reason that meoitic spores are resistant to stresses and desication.
 
