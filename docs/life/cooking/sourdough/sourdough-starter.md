@@ -20,7 +20,7 @@ Did you also know that yeast reproduce both sexually (with a mate) and asexually
 
 |![](./img/yeast2.JPG)|
 |:---:|
-|*Fig 1. (A) Budding cells expressing red fluorescent protein and (B) sporulating cells stained with the green fluorescent protein. Taken from [1](https://doi.org/10.7554/eLife.05835)*|
+|*Fig 1. (A) Budding cells expressing red fluorescent protein and (B) sporulating cells stained with the green fluorescent protein, contained within an ascosphere (highlighted in blue) Taken from [1](https://doi.org/10.7554/eLife.05835)*|
 
 Now you ask, why would they divide and mate when they can asexually reproduce? While asexual reproduction is the easiest form of replication, sexual reproduction produces diploids (2 copies of each chromosome), which are more stable and allow for an increase in genetic diversity, which is a driver for a strong population (As a chemist, think entropy). When there are many nutrients present, yeast will asexually reproduce by mitosis (basic cell division) which is very fast. When nutrients are scarce, yeast will enter meiosis in order to increase chances of survival. This is because meosis produces four novel genotypes. This process is much slower.
 
