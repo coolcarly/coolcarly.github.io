@@ -172,7 +172,7 @@ At 4 pm, I did not remove any of the starter. Instead, I fed the starter with 16
 With small scrapings remaining in the jar, I added 7 g of rye flour, 12 g of wholemeal flour and 34 g of water. Without thinking, I used the water from the bottle that I often feed from. However, I had put hot water in it a few hours prior (in a heat retaining bottle). The water was still hot! (50 °C or so).  Oops!! It didn't seem to matter because it was bubbling as usual. 
 
 ### *Day 28 Thursday 11 July 2024*
-The hot water didn't seem to matter as the yeast behaved as normal. I noticed in the morning that the yeast had already rose and fell, which was expected considering that it only took 4.5 hours to rise yesterday. 
+The hot water didn't seem to matter as the yeast behaved as normal. I noticed in the morning that the yeast had already rose and fell, which was expected considering that it only took 4.5 hours to rise yesterday. At 5.30 pm, I fed 22 g of the starter with 38 g of rye, 48 g of wholemeal and 96 g of water. I've increased the feeding today as I plan to make bread dough tomorrow morning. Hopefully the rise is slower over the night. 
 
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 

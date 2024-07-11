@@ -21,3 +21,4 @@ After feeding my sourdough starter 4 hours prior, it appeared to have almost dou
 4. With your hands, massage the dough for 5-10 minutes. 
 5. Cover and let it sit at room temperature overnight (they say 6-8 hours until it has doubled in size, but I wanted to go to bed so I left it overnight).
 6. Place in the fridge in the morning.
+7. Refrigerate until you crave bagels. 
