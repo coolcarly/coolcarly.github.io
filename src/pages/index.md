@@ -10,7 +10,7 @@ hide_table_of_contents: false
 ## How to navigate
 This website is about random stuff, science and life! 
 
-Use the Science, Life or PhD tab to find specific content. You can also search based on #hashtags. Try #my vegetarian cookbook. 
+Use the Science, Life or PhD tab to find specific content. Unfortunately, I do not yet have a search bar functionality but I am working to improve this. 
 
 
 ## About me
