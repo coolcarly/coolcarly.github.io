@@ -174,6 +174,13 @@ With small scrapings remaining in the jar, I added 7 g of rye flour, 12 g of who
 ### *Day 28 Thursday 11 July 2024*
 The hot water didn't seem to matter as the yeast behaved as normal. I noticed in the morning that the yeast had already rose and fell, which was expected considering that it only took 4.5 hours to rise yesterday. At 5.30 pm, I fed 22 g of the starter with 38 g of rye, 48 g of wholemeal and 96 g of water. I've increased the feeding today as I plan to make bread dough tomorrow morning. Hopefully the rise is slower over the night. 
 
+### *Day 29 Friday 12 July 2024*
+At 6 am, it appeared that the yeast was beginning to deflate. I added 10 g of extra wholemeal flour and 10 g of water, and mixed together. 30 minutes later, it had passed a float test. I used the entirety of the starter to make bread dough. I put the scrapings remaining in the jar to the side and at 9 pm, I fed with 15 g wholemeal flour, 6 g of rye flour and 29 g of water. 
+
+## *Day 30 Saturday 13 July 2024*
+At 8 am, the starter appeared to have deflated signficantly. That's okay because I didn't plan to use it. I would however like to use it this afternoon to prepare zucchini and banana bread, therefore I fed the entirety of the starter with 18 g wholemeal flour, 6 g rye and 40 g of water. 
+
+
 ## Outlook:
 - Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
   
