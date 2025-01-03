@@ -11,25 +11,25 @@ Today, Dani visited to check out the house and catch up a bit. For lunch, I thre
 
 Anyway the recipe goes like this: 
 
-Serving size: 10 pancakes
-Dry Ingredients: 
-81 g oat flour 
-20 g buckwheat flour 
-50 g walnuts (crushed)
-1/2 tsp salt
-1 tsp baking powder
+Serving size: 10 pancakes <br/>
+*Dry Ingredients:* <br/>
+81 g oat flour <br/>
+20 g buckwheat flour <br/> 
+50 g walnuts (crushed)<br/>
+1/2 tsp salt<br/>
+1 tsp baking powder <br/>
 
-Wet Ingredients: 
-1 egg
-3/4 cup milk
-90 sourdough starter (gluten free) 
-20 g honey 
+*Wet Ingredients:* <br/>
+1 egg<br/>
+3/4 cup milk<br/>
+90 sourdough starter (gluten free) <br/>
+20 g honey <br/>
 
-Additional ingredients: 
-50 g blueberries (defrosted)
-* Banana also works well here. 
+*Additional ingredients: *<br/>
+50 g blueberries (defrosted)<br/>
+* Banana also works well here. <br/>
 
-Method: 
+*Method: *
 1. Combine all dry ingredients 
 2. Whisk egg. Add milk, honey and sourdough starter. 
 3. Add wet ingredients to dry ingredients and whisk together. 
