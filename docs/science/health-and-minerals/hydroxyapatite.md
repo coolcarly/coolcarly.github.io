@@ -1,7 +1,7 @@
 ---
 title: Calcium for strong bones and teeth... What does this mean?
 date: 25-04-2025
-tags: [health, hydroxyapatite, calcium, milk for strong bones and teeth, human diet, oral hygiene]
+tags: [health, biochemistry and geology, hydroxyapatite, calcium, milk for strong bones and teeth, human diet, oral hygiene]
 ---
 *Date: 25 April 2025*
 ## Introduction 
@@ -76,3 +76,9 @@ While the intake of foods high in calcium are important, vitamins also play a ro
 With increasing calcium in the blood, there is a chance of coronary artery calcification whereby calcium builds up in the walls of the arteries, resulting in hardening and narrowing of the arterial walls. While there is a lot of contradictory studies in literature, calcification is thought to be induced by the presence of LDL-cholesterol. High levels of the LDL-cholesterol leads to a buildup and crystallisation of fatty-acid, cholesterol salts on the arterial wall.[14](https://pmc.ncbi.nlm.nih.gov/articles/PMC11823151/) Once the cholesterol crystallises, it is recognised as a foreign body and induces an immune response which can result in thrombosis or myocardial infarction.[15](https://www.sciencedirect.com/science/article/pii/S2666602225000126)
 
 This process is called “calcification”. It should be noted that calcification is a normal process that occurs throughout life and is common in healthy people. One could say that the degree of calification in the artieries is a determinant on one’s age.[16](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912443/) Like many bodily processes, calcification can be slowed. In fact, Vitamin K Binds to a Matrix GLA protein that reverses/prevents calcification by preventing calcium and phosphorus circulation, as well as removing them from the vessel walls.[17](https://pmc.ncbi.nlm.nih.gov/articles/PMC8912443/)
+
+## Take home messages
+- We are what we eat. Literally!
+- Nature is very cool at using our environment to make up our bodies. 
+- Milk is good for the teeth and for health in general.
+- Everything we eat should be in moderation. 
