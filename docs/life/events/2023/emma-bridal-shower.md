@@ -1,5 +1,6 @@
 ---
 title: Emma's Bitchin' Tea 
+draft: True
 ---
 ##### 3.6.23
 At 12.30 pm Saturday 3 June 2023, Emma had her Bridal Lunch/Bridal Shower/Kitchen Tea/Bitchin' Tea. Emma isn't a material girl, and wasn't so keen to have a bridal shower initially. However, my mum persuaded her to have one at Mum's house. It turned out to be a great day. My aunty Cheryl prepared a wonderful grazing table and flower displays. My mum set up the back awning and it looked so amazing. 
