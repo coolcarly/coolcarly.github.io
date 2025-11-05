@@ -1,5 +1,6 @@
 ---
 title: Ashley & Dylan's Macedonian Wedding
+draft: True
 ---
 
 ###### 1.5.23
