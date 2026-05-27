@@ -1,5 +1,6 @@
 ---
 title: Floating Flammingos Swim Club
+date: 2023-07-17
 ---
 # Floating Flamingo's Winter Swim Club
 #### 2023-04-30  
@@ -13,7 +14,7 @@ The schedule is a 50 m handicap swim. This means that the faster you swim, the m
 
 At 7 am, I left home to arrive at the continental pools by 7.15 am. After registering, I got ready to swim as I was in heat #3 of >18. I met a few people there, including a lady named Ana. I also saw a few people from NWSLSC and spoke for a while. 
 
-![Week 1](../swimming-and-surfing/pics/floatingflammingos-w1.png)
+![Week 1](pics/floatingflammingos-w1.png)
 
 After my 50 m dash (My time was 36s), I jumped into the 45 m pool and swam another 400 m. The water temperature was great and the pool quality was amazing (usually after a big storm, it gets really dirty from the sea water). Afterwards, I put on my towl hood and headed home for a shower and breakfast before [[Ashley & Dylan's Wedding]]. 
 

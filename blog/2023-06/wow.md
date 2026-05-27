@@ -1,7 +1,8 @@
 ---
-dg-publish: true
+title: Waves of Wellness Surf program
+date: 2023-06-01
 ---
-# Waves of Wellness Surf program
+
 ###### 5.5.23
 In life, we all struggle. We have good times and bad. The good times keep us happy, enhance our quality of life and keep us motivated, but the bad times are what help to shape us and allow us to grow and be better. 
 

@@ -1,5 +1,6 @@
 ---
 title: Hiking trips
+draft: True
 ---
 ### 2023-07-16
 Unfortunately, my time in the mountains is very limited these days. I do miss trail running and exploring out in the bush, but I struggle to find the time lately to go. Since most national parks do not allow dogs, it is difficult to convince Nick to go hiking on the weekend. At some point, I will find the time to go by myself. 

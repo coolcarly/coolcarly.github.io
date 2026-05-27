@@ -1,9 +1,8 @@
 ---
 title: Malabar Magic Ocean Swim 2023
+date: 2023-02-19
 ---
-### 2023-02-19
-
-**Sunday Funday.** 😄☀️ 
+## Sunday Funday.** 😄☀️ 
 
 Today was the [Malabar magic](https://www.malabarmagicoceanswim.com.au/) oceanswim. They had options for 1km, 2.5km and 5km. As I do, I decided to enter the 5km. I was dreading it, as I barely trained for this swim. Mind you, I spend a lot of time in the ocean, but most of the time I just have fun paddling and haven't been focusing on long endurance swimming. 
 ![Malabar magic OWS](pics/swimming-malabar.png)
