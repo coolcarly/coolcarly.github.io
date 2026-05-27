@@ -1,6 +1,6 @@
 ---
 title: Paul's surprise wedding
-draft: true
+draft: True
 ---
 # Paul's surprise wedding
 
