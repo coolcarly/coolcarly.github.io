@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[6811],{62816:a=>{a.exports=JSON.parse('{"label":"Georgia Rose","permalink":"/blog/tags/georgia-rose","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[6416],{16652:e=>{e.exports=JSON.parse('{"title":"Everyday Science","description":"Short articles about current interests in science","slug":"/sci","permalink":"/sci","navigation":{"next":{"title":"Organic Bioelectronics","permalink":"/science/organic-bioelectronics"}}}')}}]);

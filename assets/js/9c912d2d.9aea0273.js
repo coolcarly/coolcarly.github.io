@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[817],{88607:a=>{a.exports=JSON.parse('{"label":"restaurant","permalink":"/blog/tags/restaurant","allTagsPath":"/blog/tags","count":5}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[2355],{85344:l=>{l.exports=JSON.parse('{"label":"holidays","permalink":"/blog/tags/holidays","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[4614],{90901:e=>{e.exports=JSON.parse('{"title":"My PhD Journey","description":"This section includes posts about my PhD experiences","slug":"/phd","permalink":"/phd","navigation":{"next":{"title":"Before starting...","permalink":"/phd/considerations-for-phd"}}}')}}]);

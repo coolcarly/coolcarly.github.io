@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[8707],{96570:a=>{a.exports=JSON.parse('{"label":"New Zealand","permalink":"/blog/tags/new-zealand","allTagsPath":"/blog/tags","count":1}')}}]);

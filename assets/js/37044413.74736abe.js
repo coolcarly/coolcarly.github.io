@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[5832],{85166:l=>{l.exports=JSON.parse('{"label":"Hunter Valley","permalink":"/blog/tags/hunter-valley","allTagsPath":"/blog/tags","count":2}')}}]);

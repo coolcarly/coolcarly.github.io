@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[7561],{99451:a=>{a.exports=JSON.parse('{"label":"campervan","permalink":"/blog/tags/campervan","allTagsPath":"/blog/tags","count":1}')}}]);

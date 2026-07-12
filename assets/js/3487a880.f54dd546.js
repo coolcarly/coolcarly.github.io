@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[6444],{73253:l=>{l.exports=JSON.parse('{"label":"Fpi23","permalink":"/blog/tags/fpi-23","allTagsPath":"/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoolcarly_github_io=self.webpackChunkcoolcarly_github_io||[]).push([[2619],{99761:a=>{a.exports=JSON.parse('{"label":"Illawarra","permalink":"/blog/tags/illawarra","allTagsPath":"/blog/tags","count":6}')}}]);
