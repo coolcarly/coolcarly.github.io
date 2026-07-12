@@ -1,8 +1,7 @@
 ---
-title: Sourdough starter
+title: The Science of Sourdough and Creating a Sourdough Starter
 date_created: 2024-06-17
 date_updated: 2026-07-12
-draft: True
 sidebar_position: 2
 tags: [sourdough starter, my vegetarian cookbook]
 ---
@@ -11,9 +10,19 @@ tags: [sourdough starter, my vegetarian cookbook]
 Sourdough bread is prepared from a mixture of flour and water, fermented with a lactic acid bacteria (LAB) and wild yiests (otherwise called a "starter"). It differs from regular yeast bread by the nutritional profile, prolonged shelf-life, and improved flavour and texture.[1](https://ift.onlinelibrary.wiley.com/doi/epdf/10.1111/j.1541-4337.2011.00148.x) 
 
 ## The difference between Sourdough and regular active yeast
-A typical active yeast (commercial yeast), *Saccharomyces cerevisiae*, used in bread making consists of a single yeast strain which has been selectively bred to make bread fermentation fast - with a reliable generation of CO<sub>2</sub>. In contrast, sourdough is a mixture of wild yeast and bacteria derived from wheat. The wild yeast is less active and therefore requires up to 24 hours for fermentation. This long fermentation time and the synergistic fermentation from yeast and bacteria leads to increased gluten breakdown, which makes it more digestible. I
+A typical active yeast (commercial yeast), *Saccharomyces cerevisiae*, used in bread making consists of a single yeast strain which has been selectively bred to make bread fermentation fast - with a reliable generation of CO<sub>2</sub>. In contrast, sourdough is a mixture of wild yeast and bacteria derived from wheat. The wild yeast is less active than active yeast and therefore requires up to 24 hours for fermentation. This long fermentation time and the synergistic fermentation from yeast and bacteria leads to increased gluten breakdown, which makes it more digestible. I
 
-In addition, the prolonged fermentation retards the starch bioavailability to ultimately decrease the release of sugars (glycemic impact). The lactic acid also improves the bioavailability of minerals present (solubilises magnesium and phosphorus for example), to make it better absorbed by our bodies, while also improving on the flavour. Furthermore, the dough acidification through the lactic acid prolongs spoilage of the bread (i.e. mould), making it last longer than regular bread loaf. 
+In addition, the prolonged fermentation retards the starch bioavailability to ultimately decrease the glycemic impact. 
+
+The lactic acid also improves the bioavailability of minerals present (solubilises magnesium and phosphorus for example), to make it better absorbed by our bodies. This is because the lactic acid bacteria present in the sourdough decreases the pH of the bread which in turn activates the phytase enzyme responsible for the breakdown of phytic acid. Since Phytic acid binds to the important minerals to prevent adsorption, breakdown of this molecule ultimately increases the mineral available to the body during digestion.[2](https://pubmed.ncbi.nlm.nih.gov/17373819/) 
+
+Furthermore, the acidic properties of sourdough also improve upon the flavour and shelf-life of the bread, making it last longer than regular bread loaf. 
+
+## The age of sourdough
+Unlike commercial active yeast, a sourdough starter requires maintenance by frequent feedings. The benefit of this is that the starter ages, which ultimately changes the flavour and strength of the dough. 
+
+As sourdough ages, the population of lactic acid bacteria (LABs) increases. The coolest thing is that each sourdough starter is different! The types of bacteria that are selected to grow will depend on the environment: including the temperature and humidity. This means that the loaf you make will differ depending on whether it is summer or winter. 
+
 
 ## Controlling the acidity of bread to affect the flavour
 In a typical sourdough recipe, you would prepare the "starter" by additing flour and water and leaving until it has become bubbly. The amount of flour and water that you add compared to the initial starter ultimately affects time that the sourdough needs to ferment. Similarly, the temperature will also affect the time. However, the ratio of flour/water that you add will affect the acidity and flavour of the dough. This is called **Dough Yield (DY)**. 
@@ -28,11 +37,9 @@ When the DY is high (defined as DY=200-220), and the starter is a liquid consist
 ### Having a low DY (firm, dough)
 When the DY is low (defined as 150-160), and the starter is more firm and dough like, the resulting bread will produce more acetic acid (think vinegar) leading to a more sour and sharper flavour. The lower water content also slows down the enzymatic breakdown, leading to a stronger dough. Consequently, this dough would be excellent at trapping gas, which creates a better crumb, and produces a better rise. 
 
-## The age of sourdough
-As sourdough ages, the population of lactic acid bacteria (LABs) increases. The coolest thing is that each sourdough starter is different! The types of bacteria that are selected to grow will depend on the environment: including the temperature and humidity. 
 
 # Science of yeast replication
-Harvesting wild yeast to create a sourdough starter is pretty straight forward and robust. The yeast that I harvested is actually known as *Saccharomyces cerevisiae*. Did you know that it is a eukaryotic unicellular organism? This means that it exhibits a membrane bound nucleus, as do plants and animals. As we are multicellular organisms, yeast provides opportunities to study the behaviour of eukaryotic cells and has solved many of our questions about life on Earth. 
+Harvesting wild yeast to create a sourdough starter is pretty straight forward and robust. Did you know that yeast is a eukaryotic unicellular organism? This means that it exhibits a membrane bound nucleus, as do plants and animals. As we are multicellular organisms, yeast provides opportunities to study the behaviour of eukaryotic cells and has solved many of our questions about life on Earth. 
 
 Did you also know that yeast reproduce both sexually (with a mate) and asexually (through budding). Both processes are associated with meiosis and mitosis, respectively. Meiosis occurs only in germ cells (sex cells), which produces four non-identical daughter cells. In contrast, mitosis is a basic cell division that produces two identical daughter cells. The route that the yeast will follow depends on the environmental cues present. Yeast cells at the Growth stage of life can undergo cell differentiation. During this stage, they decide whether to divide into haploid cells (which allows them to mate with partner cells), asexually replicate (or bud) or form stationary cells (which can age). The images in Fig 1 are microscope images of meosis and mitosis processes, including (A) budding cells diving into mother and daughter yeast cells (asexual reproduction) and (B) Meosis of the haploid cells to form 2 copies of each chromosome. In (B), the cells still have not divided and are confined by the ascosphere (a sac-like spore that encombasses the gametes).
 
@@ -55,6 +62,7 @@ Sourdough starter added to a dough in preparation for bread will have a high met
 
 As yeast cells are prone to stress, we can also dry the sourdough starter. The yeast will descicate into powder. In this state, it can last indefinitely and is used as a supplement in cooking or by adding water and flour, you can restart the sourdough. 
 
+# The method I used to form my starter
 ## Starting equipment
 I started with the following equipment/ingredients: 
 - Rye flour*
@@ -66,13 +74,13 @@ I started with the following equipment/ingredients:
 
 **Some general things to note:**
 - I chose rye flour as the starting flour because it is meant to have a higher level of good bacteria and enzymes to aid in healthy fermentation.
-- Some say that you should use bottled water for the initial week (because chlorine is present in tap water, which kills all bacteria). I filled a drink bottle with tap water and left it overnight. By doing this, the chlorine dissapates from the water. You could also use boiled water (cooled down of course).
-- The ideal environment is 24–28 °C. As it is winter, sometimes I used warmer water (30°C) and wrapped it in a towel to warm it up.
-- While the starter is on the bench at room temperature, you need to cover it with a breathable lid: such as paper towel and rubber band. Once you place it in the fridge (because you are not using it frequently), you can put a lid on (but very loosely). This is because the microorganisms in the starter are constantly converting the carbohydrates/sugars in the flour to carbon dioxide. If you do not let the gas out, then there will be a build up of pressure in the gar, leading to an explosion.
-- The amount of water and flour you feed with doesn't matter. General rule of thumb: in the first week, you should be feeding roughly 1:1 sourdough starter: flour. Once the yeast has established itself, you can feed it more. The amount you feed will depend on how quickly you want to cook with it and how much starter you need for a recipe. By feeding less, the starter will be ready quicker.
-- The consistency of the mixture: You should aim for a pancake batter - thick but not too thick. If you add too much water. Don't worry about it! Correct it the next day. 
+- Some say that you should use bottled water for the initial week (because chlorine is present in tap water, which kills all bacteria). I filled a drink bottle with tap water and left it overnight. By doing this, the chlorine dissapates from the water. You could also use boiled water (cooled down of course). 
+- The ideal environment is 24–28 °C. As it was winter at the time that I began my sourdough starter, sometimes I used warmer water (30°C) and wrapped it in a towel to warm it up.
+- While the starter is on the bench at room temperature, you need to cover it with a breathable lid: such as paper towel and rubber band. Once you place it in the fridge (because you are not using it frequently), you can put a lid on (but very loosely). This is because the microorganisms in the starter are constantly converting the carbohydrates/sugars in the flour to carbon dioxide. If you do not let the gas out, then there will be a build up of pressure in the jar.
+- The amount of water and flour you feed with to form your starter culture doesn't matter. General rule of thumb: in the first week, you should be feeding roughly 1:1 sourdough starter: flour. Once the yeast has established itself, you can feed it more. The amount you feed will depend on how quickly you want to cook with it and how much starter you need for a recipe. By feeding less, the starter will be ready quicker.
+- The consistency of the mixture: You should aim for a pancake batter - thick but not too thick. If you add too much water, don't worry about it! Correct it the next day. 
 
-Here I have listed the method that I used to create my sourdough starter. For the first month of life, I fed (and plan to feed) it everyday. This post therefore covers the first month with references to things I've baked with it (where appropriate).
+Here I have listed the method that I used to create my sourdough starter. For the first month of life, I fed it everyday. This post therefore covers the first month with references to things I've baked with it (where appropriate).
 
 ## Cultivating wild yeast using flour and water
 ### *Day 1, Friday 14 June 2024*
@@ -200,16 +208,12 @@ At 8 am, the starter appeared to have deflated signficantly. That's okay because
 
 
 ## Outlook:
-- Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure 1 below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
+- Since Day 1, the temperature has been average of 18.2 ± 1.2 (see Figure below), with some days the dough being placed in a warmish area than room temperature. I believe that temperature has a large role in the activity of the yeast as in colder environments, it takes longer to grow. 
   
 | ![](./img/temp.jpeg)|
 |:---:|
-|*Figure 1. Temperature fluctuation over 7 days in the kitchen. The arrows indicate times where I was using the stove.*|
+|*Fig 3. Temperature fluctuation over 7 days in the kitchen. The arrows indicate times where I was using the stove.*|
 
-## Notes for this post/future directions
-- I am updating this for the first month of life. Afterwards, I would hope that it is healthy enough to keep in the fridge and maintain once a week. 
-- I plan to move the starter to a different type of flour - because rye flour is so expensive. 
-- I will prepare a video to show the appearances of my starter overtime. I also will include photos. 
 
 <!-- Things to note: 
 Your starter is healthy and vigorous — in other words, good for baking — when it doubles in size within 6 to 8 hours. A helpful blog post: [here](https://www.kingarthurbaking.com/blog/2020/06/10/10-tips-for-new-sourdough-bakers#I-read) -->
