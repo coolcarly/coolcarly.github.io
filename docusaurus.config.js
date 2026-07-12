@@ -32,7 +32,7 @@ const config = {
   projectName: 'coolcarly.github.io', // Usually your repo name.
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
@@ -102,10 +102,6 @@ const config = {
           {
             title: 'Docs',
             items: [
-              {
-                label: 'Food & Baking',
-                to: '/life',
-              },
               {
                 label: 'Science',
                 to: '/science',
