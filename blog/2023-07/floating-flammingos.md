@@ -59,7 +59,7 @@ I did not register for the relay this week, so after the swim, I warmed down and
 #### 2023-06-04
 On Tuesday, I fell off the paddle board and hit my shoulder really hard on the sand bank at North Gong beach. As a result, I did not feel that I was in good shape to swim this morning. Thus, I slept in til 8 am this morning. 
 
-For the next two weeks, I will be missing swim-club as I am heading to the USA on Tuesday until 23 June. Check out [USA 2023](/docs/life/trips/usa.md). 
+For the next two weeks, I will be missing swim-club as I am heading to the USA on Tuesday until 23 June. Check out [USA 2023](../trips/usa.md). 
 
 #### 2023-07-17
 Still my shoulder is not in good shape. It took a very long time for the soreness to go away. It still aches when I sleep and when I do certain movements. Today, I got my Xray back and the doctor says that there may be some form of a fracture in my scapula bone. She requested that I get a CT scan. 

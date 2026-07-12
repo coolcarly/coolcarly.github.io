@@ -83,22 +83,16 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'lifeSidebar',
-            position: 'left',
-            label: 'Life',
-          },
-          {
-            type: 'docSidebar',
             sidebarId: 'scienceSidebar',
             position: 'left',
-            label: 'Science',
+            label: 'Everyday Science',
           },
           {
             type: 'docSidebar',
             sidebarId: 'phdSidebar',
             position: 'left',
-            label: 'PhD',
-          },
+            label: 'The PhD Journey',
+            },
           {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
@@ -109,7 +103,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Life',
+                label: 'Food & Baking',
                 to: '/life',
               },
               {
@@ -136,7 +130,6 @@ const config = {
       },
         prism: {
         theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
       },
     }),
 };

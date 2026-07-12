@@ -1,8 +1,10 @@
 ---
 title: Pros and Cons for commencing a PhD
+sidebar_label: PhD Pros and Cons
+description: Self-explanatary...
+date: 2023-10-23
 sidebar_position: 3
 ---
-*Date created: 23.10.23*
 
 Sometimes, I look back at myself during Highschool. I wonder what I would be if I had chosen subjects like business, or economics. Would I have enjoyed them? Would it have pushed me to pursue a degree in Finance? I wonder if I was stupid for getting into science. 
 

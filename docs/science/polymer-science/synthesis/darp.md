@@ -21,9 +21,6 @@ The most attractive quality of this polymerisation is it allows one monomer to b
 
 DArp also provides a way to control the polymerisation. Generally monomers that are polymerised via DArp are mmore regioregular, and due to the coupling between Br and H, you will get a defined copolymer  i.e. A-B-A. In comparison, coupling with FeCl<sub>3</sub> which is typically used in CP synthesis, generally results in *random* copolymers and it then becomes difficult to determine the ratios incoporated in each polymer. 
 
-Despite the advantages that this chemistry has over traditional methods, it is a shame that I didn't take advantage of it until late in my PhD. See [Side-projects](/phd/side-projects). 
-
-
 **References**
 [1] Bohra, H. and M. Wang, _Direct Arylation Polymerization for Synthesizing a Library of Conjugated Porous Polymers Containing Thiophene-Flanked Building Blocks._ ACS Applied Polymer Materials, 2019. **1**(7): p. 1697-1706.
 [2] Zhao, H., et al., _Facile Syntheses of Dioxythiophene-Based Conjugated Polymers by Direct C–H Arylation._ Macromolecules, 2012. **45**(19): p. 7783-7790.**

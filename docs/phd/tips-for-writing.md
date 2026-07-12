@@ -1,16 +1,21 @@
 ---
 title: Tips for Writing 
 sidebar_position: 7
-date: 2023-10-22
+date_created: 2023-10-22
+date_updated: 2024-06-19
+description: Starting is hard, here are some tips.
 ---
 
-*Date created: 22.10.23, Date Updated: 2.7.24*
+I'm going to start this post with an apology, because there is no secret to writing. Nor is there a "cheat way" to write your thesis. You just do it. However... there is something amazing about writing a thesis. Yes, it sucks on many different levels, but it also improves your capacity to form arguments, explain various phenomena and WRITE! 
 
-I'm going to start this post with an apology, because there is no secret to writing. Nor is there a "cheat way" to write your thesis. You just do it. 
+When I asked for tips and tricks in early August 2023 on how to effectively write my thesis, some people would say "you just gotta do it. Sit down and do it." When people said this to me, I would roll my eyes. Isn't it obvious that I need to do that? Why won't anyone tell me their secrets? I guess for someone who writes and submits a thesis and then joins the workforce, you forget what it was like to write a thesis. I wrote most of this post back in October of 2023, when it was fresh on my mind. This blog was started around the same time - to bring some of my focus away from my thesis to keep me sane! 
 
-When I asked for tips and tricks in early August 2023 on how to effectively write my thesis, some people would say "you just gotta do it. Sit down and do it." When people said this to me, I would roll my eyes. Isn't it obvious that I need to do that? Why won't anyone tell me their secrets? I guess for someone who writes and submits a thesis and then joins the workforce, you forget what it was like to write a thesis. That's why I'm writing this page now, while it is fresh in my mind. 
+I've been a pretty terrible writer throughout my studies if I am honest. I hated all aspects of writing at school and through university. I was pretty thrilled by the chemistry exams that only required drawing of chemical symbols and no essays!!! 
 
 There is no set way that you should write. Everyone has their own ways. I know someone who forced themself to go to the library everyday to write, which helped them overcome the motivation battle. I know others who used video games as a reward - with 1 hour of full focus, followed by 1 hour of gaming.... and so on. To me, these strategies would not work. For one, in a library, I would probably fall asleep. And as for video games, I can't think of a worse way to spend my time. 
+
+If you have supportive mentors or supervisors, I'd recommend asking for feedback as soon as you write it. Your thesis is going to suck initially. But you will write and rewrite with support and suggestions from others until it is great. This feedback process makes you better. So swallow your pride and accept their criticism! 
+
 
 #### Tips for starting
 This was the general flow of my paragraphs throughout my thesis: 

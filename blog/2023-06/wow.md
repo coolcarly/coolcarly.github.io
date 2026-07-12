@@ -68,4 +68,4 @@ Unfortunately, yesterday I fell off my paddle board and hit the right side of my
 
 I feel happy that a program like this exists. I was excited every week to go and see how everyone is doing and practice my surf skills. All the people in the program were so kind. Special thanks go to Donna and Carmen and the crew with WOW for their kindness and patience over the last few weeks. It's because of this program that I feel more excited to practice my surf skills. 
 
-For now though, that will have to wait until my shoulder recovers and I return from the USA, see [USA trip](/life/trips/usa) 
+For now though, that will have to wait until my shoulder recovers and I return from the USA, see [USA trip](../trips/usa.md) 

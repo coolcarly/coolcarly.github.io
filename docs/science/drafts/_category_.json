@@ -1,0 +1,9 @@
+{
+    "position": 1,
+    "label": "General Chemistry Stuff",
+    "link": {
+        "type": "generated-index"
+     },
+    "collapsible": true,
+    "collapsed": true
+}

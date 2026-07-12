@@ -3,24 +3,17 @@ description: Carly.cool Home Page
 title: Home
 hide_table_of_contents: false
 ---
-# Welcome
+# Welcome to My Blog
 
 ![Morning paddles](/img/homepage-hero.png)
 
-## How to navigate
-This website is about random stuff, science and life! 
-
-Use the Science, Life or PhD tab to find specific content. Unfortunately, I do not yet have a search bar functionality but I am working to improve this. 
-
 
 ## About me
-- Studied a BSc(hons), with a major in Chemistry and [polymer science](/science/polymer-science/polymers) at the University of Sydney. 
-- Completed my PhD in [Organic bioelectronics](/science/organic-bioelectronics) in June 2024 at the University of Wollongong.
-- Currently working as a Research Scientist. 
-- I love baking and all things yeast. Check out my posts in [sourdough](/category/sourdough) or [bread and pastry](/category/bread-and-pastry)
-- I love to try different Craft beer and wine. It is an art-form that I appreciate a lot. 
-- I am a volunteer surf lifesaver [SLSA](life/surf-lifesaving) & a member of [North Wollongong Surf Club](https://nwslsc.com.au/)
-- In my free time, I write short articles and I practice my Python skills.
+- Studied a BSc(hons), with a major in Chemistry and [Polymer Science](/science/polymer-science/polymers) at the University of Sydney. 
+- Completed a PhD in [Organic Bioelectronics](/science/organic-bioelectronics) in June 2024 at the University of Wollongong.
+- My first post-doc position was at [ANSTO Minerals](https://www.ansto.gov.au/services/resources-sector/minerals), where I worked under the Critical Minerals R&D Hub to investigate processes for tungsten extraction from Australian concentrates. See an interview that I did with CSIRO [here](https://research.csiro.au/critical-minerals-hub/from-phd-to-hub-impact-early-career-researcher-carly-baker/)
+- As a researcher, I enjoy reading and writing about all things science. 
+
 
 
 ### Contact details

@@ -1,6 +1,7 @@
 ---
 title: About my PhD
 date: 2024-06-02
+description: "Overview of my PhD"
 sidebar_position: 4
 keywords: 
 - phd
@@ -8,8 +9,7 @@ keywords:
 - conferences
 tags: [PhD, travel, conferences]
 ---
-*Date created: 3.5.2023*<br/>
-*Date Updated: 2.6.2024* 
+
 ## Brief introduction into the start of my PhD
 Late in 2019 after completing my honours thesis, I was working in the lab as a Research Assistant under my PhD supervisor. In December 2019, I was awarded my PhD scholarship and had met for coffee with my supervisor. We spoke about the plan for my PhD  - the ideas for travelling, lab visits and conferences. It sounded so good!
 
@@ -27,30 +27,9 @@ The next thing was to send me to an international lab for a visit. Initially it 
 
 The next thought was for me to go to Japan to visit Prof. Takashi Kato, an academic who I had met at the PPC17 conference in December 2022. I didn't end up going which is probably wise because I don't believe we could have got any interesting information from this lab visit. Furthermore, since I am in my third year, I did not want to waste a significant amount of time in a different lab. I am ready to finish my thesis, yet I still have quite a bit of lab work to do. I expressed my concerns to my supervisor, but he still thought it was a good idea to send me somewhere. I am very greatful for him wanting to do this for me. 
 
-I made plans to visit New Zealand. My supervisor has a friend who is a Professor of Chemistry, [Prof. Keith Gordon](https://www.otago.ac.nz/chemistry/people/otago668566.html), over at the University of Otago, Dunedin, New Zealand. The lab visit involves me learning Raman Spectroscopy and analysing my materials for <2 weeks: from 21 May til 2 June. Following New Zealand, I was going to be heading to the USA for a conference. These plans fell through and I didn't end up visiting any lab. I did however attend the Fpi15 conference, which was another fantastic boost to my esteem, morale and motivation, which really helped me write and finish my PhD work. Over the month of June 2023, I travelled to the USA - see my Trips post [USA 2023](/docs/life/trips/usa.md). It was amazing and gave me a final push to get going and finish lab work. 
+I made plans to visit New Zealand. My supervisor has a friend who is a Professor of Chemistry, [Prof. Keith Gordon](https://www.otago.ac.nz/chemistry/people/otago668566.html), over at the University of Otago, Dunedin, New Zealand. The lab visit involves me learning Raman Spectroscopy and analysing my materials for <2 weeks: from 21 May til 2 June. Following New Zealand, I was going to be heading to the USA for a conference. These plans fell through and I didn't end up visiting any lab. I did however attend the Fpi15 conference, which was another fantastic boost to my esteem, morale and motivation, which really helped me write and finish my PhD work. Over the month of June 2023, I travelled to the USA - see my Trips post [USA 2023](/blog/trips/usa.md). It was amazing and gave me a final push to get going and finish lab work. 
 
 Here is a video that I prepared in 2021 for an online conference: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syxLTn4PcbA?si=q1embY56rHRaSRhG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 One of the best things I got to do in my PhD was attend all these conferences. I learned so much! I got to meet so many amazing people and best of all, I got the chance to grow my confidence! 
-
-
-
-## About my thesis
-It was long! I believe that even one of the reviewers commented about how long it was. Here is a breakdown of my thesis:
-
-
-|  Chapter | Content |	Words |	Pages |
-| :--------| :------:| :-----:| -----:|
-| 1 | Intro | 13520	| 48|
-| 2 | Methods | 8370 |	31 |
-| 3 | Research | 6289 |	29 |
-| 4 | Research | 16100 | 55 |
-| 5 | Research | 11963|	42 |
-| 6 | Research | 8374	| 32 |
-| 7 | Research | 9706 |	35 |
-| 8 | Conclusions | 2440 |	9|
-|Total|Draft 1 | 65479	| 227 |
-|Total|Draft 2 | 76762	| 281 |
-
-My advice to you, keep it short! Reviewers love that! 

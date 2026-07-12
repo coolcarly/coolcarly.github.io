@@ -1,0 +1,9 @@
+{
+    "label": "Bread Science",
+    "link": {
+        "type": "generated-index",
+        "description": "Combining my love for science and bread!"
+     },
+    "collapsible": true,
+    "collapsed": true
+}

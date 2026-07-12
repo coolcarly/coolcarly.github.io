@@ -1,5 +1,7 @@
 ---
-title: If I could start over, what would I do differently?
+title: If I could start my PhD over, what would I do differently?
+sidebar_label: If I could start over...
+description: Notes overtime of what I would do differently.
 sidebar_position: 6
 ---
 
