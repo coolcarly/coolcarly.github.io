@@ -49,14 +49,15 @@ For instance, Sweden developed an advanced recycling campaign designed to turn "
 Future policies should focus on the decrease of plastic packaging and incorporating more natural materials / compostable materials into packaging. While single-use plastics have been ban, I still see supermarkets allowing customers to use plastic bags for their fruit and vegetables. They need to do better - maybe by introducing paper bags only! Or encouraging customers to bring their own fruit bags. 
 
 ### Start ups
-There are currently 7 start ups that have created a new product/material/process to combat plastic and microplastic pollution. These include: 
+As far as I could find, there are currently 8 start ups that have created a new product/material/process to combat plastic and microplastic pollution. These include: 
 1. [Ponda](https://www.ponda.bio) with BioPuff: biomaterial based insulation fibres. 
 2. [Circulose](https://www.circulose.com):- produced a raw material made from recycled cotton textiles. 
 3. [UNCAGED Innovations](https://uncagedinnovations.com):- creates leather alternatives via grains
 4. [SPINNOVA](https://spinnova.com):- creates cotton-like textiles from wood pulp/waste. 
 5. [Ambercycle](https://www.ambercycle.com):- Creates a high-quality regenerated polyester from waste (Cycora)
 6. [Samsara Eco](https://www.samsaraeco.com):- uses enzymes to breakdown plastics and textiles into the individual components (monomers), which can be reused to create new "virgin" materials. They focus mostly on Nylon 66.
-7. [FEVVERS](https://fevvers.com): Creates a plant based alternative for feathers. 
+7. [FEVVERS](https://fevvers.com): Creates a plant based alternative for feathers.
+8. [Syntetica](https://www.syntetica.co): Chemically recycle synthetics, focusing on Nylon. The process involves dissolution, depolymerisation, purification and repolymerisation. 
 
 As policy shifts, we will see more startups with ideas to help with plastic pollution. Until then, there are some things that you can do to cut down on plastic waste and thus microplastic release. 
 
