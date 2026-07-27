@@ -1,5 +1,5 @@
 ---
-title: The versatility of microplastics 
+title: Microplastics in everyday life
 date_created: 2026-07-26
 description: Microplastics, the harm they cause, and strategies to mitigate
 tags: [microplastics, environment, waste, plastic]
