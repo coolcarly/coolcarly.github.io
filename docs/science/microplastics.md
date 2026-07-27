@@ -5,7 +5,7 @@ description: Microplastics, the harm they cause, and strategies to mitigate
 tags: [microplastics, environment, waste, plastic]
 ---
 
-There are a many things that I fear... Antibiotic resistance, plastic pollution, climate change, the rising sea levels, the destruction of our oceans from commercial fisheries, the prevalence of recent shark attacks, the destruction of our soil due to inappropriate farming, coal mining - or mining in general which introduces heavy metals such as arsenic into our soils. This article is not about any of these issues - they warrant a whole article for themselves. Instead, I am going to discuss microplastics. They are a very scary idea.
+There are a many things that I fear... Antibiotic resistance, plastic pollution, climate change, the rising sea levels, the destruction of our oceans from commercial fisheries, the prevalence of recent shark attacks, the destruction of our soil due to inappropriate farming, coal mining - or mining in general which introduces heavy metals such as arsenic into our soils. This article is not about any of these issues - they warrant a whole article for themselves. Instead, I am going to discuss microplastics. They are a very scary reality. 
 
 ## What is a microplastic?
 Microplastics come from the plastic waste that is released into the environment. The plastic waste is exposed to heat, chemical treatment, radiation (such as UV light), microbial organisms such as algae or mechanical stresses, which causes breakdown into tiny microscopic pieces of plastic that can accumulate in the environment and inside living organisms. The sizes typically range from 1 µm to 5 mm and these materials are generally water insoluble. 
