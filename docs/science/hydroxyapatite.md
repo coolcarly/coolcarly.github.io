@@ -3,7 +3,6 @@ title: Calcium for strong bones and teeth... What does this mean?
 date: 25-04-2025
 tags: [health, biochemistry and geology, hydroxyapatite, calcium, milk for strong bones and teeth, human diet, oral hygiene]
 ---
-*Date: 25 April 2025*
 ## Introduction 
 Do you ever wonder about the truth of expressions like "milk is for strong bones and teeth"? Well I am going to dive into the science behind this common expression. 
 
