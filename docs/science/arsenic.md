@@ -14,7 +14,8 @@ If I can correct myself, Arsenic (As) is actually  a metalloid, which is basical
 Arsenic has been used in day-to-day life for a long time. Believe it or not, arsenic trioxide was used in medicines (antibiotics), in agriculture as a pesticide, and in alloys such as the lead acid batteries, and electronics. There is substantial evidence that arsenic is a group I carcinogen ([WHO, 2012](https://publications.iarc.who.int/Book-And-Report-Series/Iarc-Monographs-On-The-Identification-Of-Carcinogenic-Hazards-To-Humans/Arsenic-Metals-Fibres-And-Dusts-2012)), which has lead to the ban of arsenic for public use. Now, for workers to be exposed to arsenic containing materials, strict WHS procedures must be followed. 
 
 ## Arsenic geochemistry
-Arsenic is found in many various minerals, predominantly as arsenic sulfides (eg. arsenopyrite). It is commonly found alongside silica, aluminium, phosphorus, titanium, and gold. Like arsenic, gold also forms sulfides and travels in the same molten fluids, which results in gold becoming “trapped” in arsenopyrite matrix. This means that gold is typically found with arsenic and arsenic is a common waste product from gold mining. The increasing price of gold ultimately means that more gold is being mined along with arsenic. 
+Arsenic is found in many various minerals, predominantly as arsenic sulfides (eg. arsenopyrite). It is commonly found alongside silica, aluminium, phosphorus, titanium, and gold. Like arsenic, gold also forms sulfides and travels in the same molten fluids, which results in gold becoming “trapped” in arsenopyrite matrix. 
+Thus, mining for gold results in an arsenic byproduct that is sent to mining dams or stockpiles. The increasing price of gold results in a higher demand for gold mining and thus an increase in arsenic waste. 
 
 As mentioned, as well as gold, arsenic is also found alongside silica, iron, copper, aluminium, and coal. This means that there are ongoing mining, processing and refining, leading to increased arsenic in mining stockpiles and waste. This in turn leads to arsenic contamination in the air, soil and water, as inorganic arsenic (typically arsenic trioxide). 
 
@@ -24,29 +25,29 @@ Australia has strict legislation to limit the arsenic in stockpiles/waste, with 
 We are not safe from arsenic exposure. Arsenic in the waterways makes its way through the soil and into our food. Thus, the main route of human exposure is through ingestion of contaminated food and water. Now, we talk about how bad arsenic is, but up until now you probably have not heard of it. For arsenic to be a problem, it needs to be bioavailable and thus taken up by the human body. Yet, for arsenic to be bioavailable, it needs to be soluble. Arsenopyrite (the main mineral form of arsenic) is generally unreactive and insoluble. It is the arsenates (including arsenic trioxide) that are soluble, which end up in our waterways. 
 
 There are a number of ways in which arsenic (as arsenopyrite or other unreactive minerals) can end up in our waterways, including: 
-- Microorganisms increase the bioavailability of arsenic in water ways;
-- weathering aids in oxidation of arsenopyrite to form arsenates that eventually ending up in our waterways; 
+- Microorganisms increase the bioavailability of arsenic;
+- weathering aids in oxidation of arsenopyrite to form arsenates; 
 - Acid rain commonly dissolves arsenopyrite, so with increasing acidic waters due to climate change and the dissolution of carbon dioxide into the oceans, arsenic becomes soluble and able to contaminate our water. 
 
-Thus the dissolution of arsenic due to environmental factors mentioned above is further facilitated by mining, in particular for gold and copper. 
+Thus the dissolution of arsenic due to environmental factors mentioned above is further facilitated by mining, in particular for gold, copper, and coal. 
 
 Nowadays, many countries have high levels of arsenic present in their drinking water. This is catastrophic for public health. 
 
 ## Arsenic speciation
-The type of arsenic that is present at any given time is dependent on on pH, temperature and the oxidative conditions. Arsenic, like many other metals likes to bond with oxygen or sulfur to form predominately arsenate or arsenite, respectively. 
+The type of arsenic that is present at any given time is dependent on on pH, temperature and the oxidative conditions. Arsenic, like many other metals likes to bond with oxygen or sulfur to form predominately arsenate or arsenite.  
 -	Arsenate As<sup>5+</sup>: This is an oxidised and (relatively) less toxic/mobile form 
 -	Arsenite As<sup>3+</sup>: This is the reduced and more toxic/mobile form. 
 
 ## Arsenic toxicity
-When arsenic is ingested at low concentrations, arsenic is methylated by arsenic methyltransferase enzyme. In the process of arsenic metabolism, the arsenic species produces free radicals prior to clearance. With high concentrations or frequent exposures to extremely low doses, the arsenic can lead to cell and neutral damage.
+When arsenic is ingested at low concentrations, arsenic is methylated by arsenic methyltransferase enzyme. In the process of arsenic metabolism, the arsenic species produces free radicals prior to clearance. With high concentrations or frequent exposures to extremely low doses, the free radicals can overwhelm our bodies natural defences, leading to cell and neural damage, ultimately causing cancers overtime.
 
 At high arsenic doses (usually for industrial workers), the enzymes that methylate arsenic will become saturated. In this case, a small amount of the arsenic will be metabolised and the arsenate or arsenite will behave as a free molecule. Arsenite (As<sup>3+</sup>) is signficantly more toxic than arsenate.  
 
-Arsenate (AsO<sub>4</sub><sup>3-</sup>) is structurally similar to phosphate (PO<sub>4</sub><sup>3-</sup>). When arsenate is present in the body, the cells will confuse it for phosphate and take it up for adenosine triphosphate (ATP) production. 
+Arsenates (eg. AsO<sub>4</sub><sup>3-</sup>) are structurally similar to phosphate (PO<sub>4</sub><sup>3-</sup>). When arsenate is present in the body, the cells will confuse it for phosphate and take it up for adenosine triphosphate (ATP) production. 
 
 If you haven't heard of ATP, ATP production is important for energy capture and metabolism. ATP generates energy by cleaving or hydrolysing a phosphate group to form adenosine diphosphate (ADP). The reverse reaction is also true, whereby glucose (the “energy”) can regenerate ATP (Equation 1).  
 
-(1) ATP + H<sub>2</sub>O → ADP + HPO<sub>4</sub><sup>2-</sup>- + H<sup>+</sup> + energy
+(Equation 1) ATP + H<sub>2</sub>O → ADP + HPO<sub>4</sub><sup>2-</sup> + H<sup>+</sup> + energy
 
 During the reverse process (synthesising ATP), if arsenate substitutes for phosphate, an ADP-arsenate will form, which is highly reactive and will breakdown almost immediately without the generation of energy (arsenolysis). 
 
@@ -59,7 +60,7 @@ This is frightening to think of. Consuming water contaminated with a small amoun
 ## Arsenic in our plants and food
 Arsenic was previously used in herbicides and pesticides and is still present as a consequence. As shown in Figure 1, the arsenic from these pesticides has accumulated in the soil.
 
-As<sup>3+</sup> is the common arsenic species that is mobile in the soil. Most of the arsenic in the soil is reduced by microbes under anaerobic conditions (without oxygen) (As<sup>5+</sup> to As<sup>3+</sup>) thereby making arsenic more mobile.
+As<sup>3+</sup> is the common arsenic species that is mobile in the soil. Yet, most of the arsenic in the soil is reduced by microbes under anaerobic conditions (without oxygen) (As<sup>5+</sup> to As<sup>3+</sup>) thereby making arsenic more mobile.
 
 | ![arsenic cycle](./imgs/arsenic_contamination.png) |
 |:---:|
@@ -69,9 +70,9 @@ The arsenic in contaminated soil and water are taken up by the plants. Now, we a
 
 Tobacco plants are hyperaccumulators which means they take up heavy metals from the soil. Arsenic and lead are often found in the soil as they were historically used as pesticides in tobacco farming. 
 
-You’ve heard of second-hand smoking? Or Passive Smoking? When a cigarette burns, the arsenic present can volatilise and be inhaled. Once inhaled, arsenic can make its way to the brain, liver and around the body to produce ROS and toxicity (eventually lung cancer). 
+You’ve heard of second-hand smoking? Or passive smoking? When a cigarette burns, the arsenic present can volatilise and be inhaled. Once inhaled, arsenic can make its way to the brain, liver and around the body to produce ROS and toxicity (eventually lung cancer). 
 
-It’s not just tobacco that are hyperaccumulators. Rice plants in particular are known to take up inorganic arsenic, arsenite and to a lower extent arsenate. That’s why diets with predominately rice as the main carbohydrate can be dangerous and why rice cereals are not really recommended for babies. Adults can clear the small amount of arsenic that is present – but babies and small children may not be able to. Soaking and rinsing rice prior to cooking may help to decrease the amount of arsenic ingested from rice. 
+It’s not just tobacco that are hyperaccumulators. Rice plants in particular are known to take up inorganic arsenic, arsenite and to a lower extent arsenate. That’s why diets with predominately rice as the main carbohydrate can be dangerous and why rice cereals are not really recommended for babies. Adults can clear the small amount of arsenic that is present – but babies and small children may not be able to.
 
 The grains that accumulate arsenic are then consumed by cattle. As a result, milk and meat become contaminated with arsenic. 
 
